@@ -1,0 +1,1706 @@
+[
+  {
+    "academic_concept_en": "Primary Care and Family Medicine: Principles of Preventive Health",
+    "academic_concept_ar": "الرعاية الأولية والطب العائلي: مبادئ الصحة الوقائية.",
+    "concept_url_en": "https://smarticle.tech/en/article/primary-care-and-family-medicine-principles-of-preventive-health-202605121118",
+    "concept_url_ar": "https://smarticle.tech/ar/article/primary-care-and-family-medicine-principles-of-preventive-health-202605121118",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Oxford Textbook of Primary Medical Care",
+        "reference_url": "https://books.google.com/books",
+        "citation_en": "Oxford Textbook of Primary Medical Care. by Roger Jones (Prof.). (2005). ISBN: 0198567839",
+        "citation_ar": "Oxford Textbook of Primary Medical Care. بقلم Roger Jones (Prof.). (2005). ردمك: 0198567839"
+      },
+      {
+        "reference_title": "Evolution of Preventive Medicine (Routledge Revivals)",
+        "reference_url": "https://openlibrary.org/works/OL21296415W",
+        "citation_en": "Evolution of Preventive Medicine (Routledge Revivals). by Arthur Newsholme. (2015). — Taylor & Francis Group. ISBN: 9781317442998",
+        "citation_ar": "Evolution of Preventive Medicine (Routledge Revivals). بقلم Arthur Newsholme. (2015). — Taylor & Francis Group. ردمك: 9781317442998"
+      },
+      {
+        "reference_title": "Laws, etc",
+        "reference_url": "https://archive.org/details/foodsupplymanual00grearich",
+        "citation_en": "Laws, etc. by Great Britain.. (1691). — Butterworth. ISBN: 9780118041133",
+        "citation_ar": "Laws, etc. بقلم Great Britain.. (1691). — Butterworth. ردمك: 9780118041133"
+      },
+      {
+        "reference_title": "The medical companion",
+        "reference_url": "https://archive.org/details/b33287697",
+        "citation_en": "The medical companion. by James Ewell. (1816). — Printed for the author",
+        "citation_ar": "The medical companion. بقلم James Ewell. (1816). — Printed for the author"
+      },
+      {
+        "reference_title": "Medical admonitions addressed to families",
+        "reference_url": "https://archive.org/details/b28774358_0001",
+        "citation_en": "Medical admonitions addressed to families. by James Parkinson. (1799). — Printed for Charles Peirce by N.S. & W. Peirce",
+        "citation_ar": "Medical admonitions addressed to families. بقلم James Parkinson. (1799). — Printed for Charles Peirce by N.S. & W. Peirce"
+      },
+      {
+        "reference_title": "Preventive Health Care",
+        "reference_url": "https://doi.org/10.1007/978-1-4615-5857-6_15",
+        "citation_en": "Bradford Felker. \"Preventive Health Care\". *crossref*, 1997.",
+        "citation_ar": "برادفورد فيلكر. \"الرعاية الصحية الوقائية\". *كروسريف*، ١٩٩٧."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Internal Medicine: Systemic Disease Diagnosis and Management",
+    "academic_concept_ar": "الطب الداخلي: تشخيص وإدارة الأمراض الجهازية",
+    "concept_url_en": "https://smarticle.tech/en/article/internal-medicine-systemic-disease-diagnosis-and-management-202605121129",
+    "concept_url_ar": "https://smarticle.tech/ar/article/internal-medicine-systemic-disease-diagnosis-and-management-202605121129",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Mayo Clinic Internal Medicine Concise Textbook",
+        "reference_url": "https://books.google.com/books",
+        "citation_en": "Mayo Clinic Internal Medicine Concise Textbook. by Thomas M. Habermann, Amit K. Ghosh. (2007). — CRC Press. ISBN: 9781420067514",
+        "citation_ar": "Mayo Clinic Internal Medicine Concise Textbook. بقلم Thomas M. Habermann، Amit K. Ghosh. (2007). — CRC Press. ردمك: 9781420067514"
+      },
+      {
+        "reference_title": "Sleisenger & Fordtran's gastrointestinal and liver disease",
+        "reference_url": "https://archive.org/details/sleisengerfordtr0000unse",
+        "citation_en": "Sleisenger & Fordtran's gastrointestinal and liver disease. by Mark Feldman, Lawrence S. Friedman, Marvin H. Sleisenger. (1996). — Current Medicine. ISBN: 9780721662916",
+        "citation_ar": "Sleisenger & Fordtran's gastrointestinal and liver disease. بقلم Mark Feldman، Lawrence S. Friedman، Marvin H. Sleisenger. (1996). — Current Medicine. ردمك: 9780721662916"
+      },
+      {
+        "reference_title": "Nailfold capillaroscopy in systemic diseases: short overview for internal medicine",
+        "reference_url": "https://doi.org/10.2478/rjim-2021-0007",
+        "citation_en": "A. Dima, I. Berza, D. Popescu, M. Pârvu. \"Nailfold capillaroscopy in systemic diseases: short overview for internal medicine\". semantic_scholar_foundational, 2021.",
+        "citation_ar": "د. ديمـا، إ. بيرزا، د. بوبسكو، م. بارفو. \"فحص الشعيرات الدموية في طيات الأظافر في الأمراض الجهازية: نظرة عامة مختصرة للطب الباطني\". *semantic_scholar_foundational*، 2021."
+      },
+      {
+        "reference_title": "[Importance of cognitive disorders in internal medicine: Pathophysiology, diagnosis, management. The example of systemic lupus erythematosus].",
+        "reference_url": "https://doi.org/10.1016/j.revmed.2021.08.012",
+        "citation_en": "E. Peter, M. Robert, et al. \"Importance of cognitive disorders in internal medicine: Pathophysiology, diagnosis, management. The example of systemic lupus erythematosus\". Revue de Médecine Interne, 2021.",
+        "citation_ar": "إ. بيتر، م. روبرت، وآخرون. \"أهمية الاضطرابات المعرفية في الطب الباطني: الفيزيولوجيا المرضية، التشخيص، الإدارة. مثال مرض الذئبة الحمامية الجهازية\". *Revue de Médecine Interne*، 2021."
+      },
+      {
+        "reference_title": "Systemic Implications of Bullous Pemphigoid: Bridging Dermatology and Internal Medicine",
+        "reference_url": "https://doi.org/10.3390/diagnostics14202272",
+        "citation_en": "Mashima, E., Saito-Sasaki, N., Sawada, Yu. \"Systemic Implications of Bullous Pemphigoid: Bridging Dermatology and Internal Medicine\". Diagnostics, 2024.",
+        "citation_ar": "ماشيما، إ.، سايتو-ساساكي، ن.، ساوادا، يو. \"التأثيرات الجهازية للفقاع الفقاعي: الربط بين الأمراض الجلدية والطب الباطني\". *Diagnostics*، 2024."
+      },
+      {
+        "reference_title": "[Screening for sleep disorders in internal medicine as potential comorbidities of systemic autoimmune diseases and improving patients' quality of life",
+        "reference_url": "https://doi.org/10.1016/j.revmed.2024.11.012",
+        "citation_en": "É. Riviere, V. Martin, P. Philip, J. Coelho, J.-A. Micoulaud-Franchi. \"[Screening for sleep disorders in internal medicine as potential comorbidities of systemic autoimmune diseases and improving patients' quality of life]\". *Revue de Médecine Interne*, 2024.",
+        "citation_ar": "إ. ريفير، ف. مارتن، ب. فيليب، ج. كويلهو، ج.-أ. ميكولا-فرانشي. \"[الفحص المبكر لاضطرابات النوم في الطب الباطني كاعتلالات محتملة للأمراض المناعية الذاتية الجهازية وتحسين جودة حياة المرضى]\". *Revue de Médecine Interne*، 2024."
+      },
+      {
+        "reference_title": "The Role of Neuroinflammation in the Comorbidity of Psychiatric Disorders and Internal Diseases",
+        "reference_url": "https://doi.org/10.3390/healthcare13070837",
+        "citation_en": "Grecu Ramona Cătălina et al. \"The Role of Neuroinflammation in the Comorbidity of Psychiatric Disorders and Internal Diseases\". healthcare, 2025.",
+        "citation_ar": "غريكو رامونا كatalina وآخرون. \"دور الالتهاب العصبي في الاعتلال المشترك للاضطرابات النفسية والأمراض الداخلية\". *healthcare*، 2025."
+      },
+      {
+        "reference_title": "The Schematic Assessment of Vitamin D Deficiency in Relation to Autoimmune Disorders and Its Implications in Internal Medicine",
+        "reference_url": "https://doi.org/10.7759/cureus.82949",
+        "citation_en": "J. Aslam et al. \"The Schematic Assessment of Vitamin D Deficiency in Relation to Autoimmune Disorders and Its Implications in Internal Medicine\". semantic_scholar_foundational, 2025.",
+        "citation_ar": "ج. أسلام وآخرون. \"التقييم المنهجي لنقص فيتامين د فيما يتعلق بالأمراض المناعية الذاتية وآثاره في الطب الباطني\". *semantic_scholar_foundational*، 2025."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Emergency Medicine: Acute Care, Triage, and Critical Interventions",
+    "academic_concept_ar": "الطب الطارئ: الرعاية الحادة، الفرز، والتدخلات الحرجة.",
+    "concept_url_en": "https://smarticle.tech/en/article/emergency-medicine-acute-care-triage-and-critical-interventions-202605150058",
+    "concept_url_ar": "https://smarticle.tech/ar/article/emergency-medicine-acute-care-triage-and-critical-interventions-202605150058",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Introduction to Clinical Emergency Medicine",
+        "reference_url": "https://openlibrary.org/works/OL25658280W",
+        "citation_en": "Introduction to Clinical Emergency Medicine. by Gus M. Garmel, Swaminatha V. Mahadevan. (2005). — Cambridge University Press. ISBN: 9781139338172",
+        "citation_ar": "Introduction to Clinical Emergency Medicine. بقلم Gus M. Garmel، Swaminatha V. Mahadevan. (2005). — Cambridge University Press. ردمك: 9781139338172"
+      },
+      {
+        "reference_title": "Paramedic Care : Pearson New International Edition",
+        "reference_url": "https://openlibrary.org/works/OL21513870W",
+        "citation_en": "Paramedic Care : Pearson New International Edition. by Bryan E. Bledsoe, Robert S. Porter, Richard A. Cherry. (2013). — Pearson Education, Limited. ISBN: 1292021497",
+        "citation_ar": "Paramedic Care : Pearson New International Edition. بقلم Bryan E. Bledsoe، Robert S. Porter، Richard A. Cherry. (2013). — Pearson Education, Limited. ردمك: 1292021497"
+      },
+      {
+        "reference_title": "Asthma-related emergency department (ED) visits and post-ED visit hospital and critical care admissions, National Hospital Ambulatory Medical Care Sur",
+        "reference_url": "https://doi.org/10.1080/02770903.2020.1713149",
+        "citation_en": "Qin, Xiaoting et al. \"Asthma-related emergency department (ED) visits and post-ED visit hospital and critical care admissions, National Hospital Ambulatory Medical Care Survey, 2010–2015\". *semantic_scholar_foundational*, 2020.",
+        "citation_ar": "تشين، شياوتينغ وآخرون. \"الزيارات الطارئة المتعلقة بالربو (ED) والإدخالات إلى المستشفى والرعاية الحرجة بعد الزيارة الطارئة، المسح الوطني للرعاية الطبية العاجلة للمستشفيات، 2010–2015\". *semantic_scholar_foundational*، 2020."
+      },
+      {
+        "reference_title": "Implementation of an emergency department virtual follow-up care process in a community-based hospital: a quality improvement initiative",
+        "reference_url": "https://doi.org/10.1136/bmjoq-2021-001782",
+        "citation_en": "D. El-Zammar, R. Johal, J. Eng, T. Schulz. \"Implementation of an emergency department virtual follow-up care process in a community-based hospital: a quality improvement initiative\". semantic_scholar_foundational, 2022.",
+        "citation_ar": "د. الدزمر، ر. جوهال، ج. إينغ، ت. شولتز. \"تنفيذ عملية رعاية متابعة افتراضية لقسم الطوارئ في مستشفى مجتمعي: مبادرة تحسين جودة\". *semantic_scholar_foundational*، 2022."
+      },
+      {
+        "reference_title": "Triage and Ongoing Care for Critically Ill Patients in the Emergency Department: Results from a National Survey of Emergency Physicians",
+        "reference_url": "https://doi.org/10.5811/westjem.2019.11.43547",
+        "citation_en": "K. Mathews, Sandra Rodriguez, Judith E. Nelson, Lynne D. Richardson. \"Triage and Ongoing Care for Critically Ill Patients in the Emergency Department: Results from a National Survey of Emergency Physicians\". WestJEM, 2020.",
+        "citation_ar": "ك. ماثيو، ساندرا رودريغيز، جوديث إي. نيلسون، لين د. ريتشاردسون. \"الفرز والرعاية المستمرة للمرضى في حالة حرجة في قسم الطوارئ: نتائج من مسح وطني لأطباء الطوارئ\". *WestJEM*، 2020."
+      },
+      {
+        "reference_title": "Patient-Safety Culture among Emergency and Critical Care Nurses in a Maternal and Child Department",
+        "reference_url": "https://doi.org/10.3390/healthcare11202770",
+        "citation_en": "Abdul-Karim Jebuni Fuseini et al. \"Patient-Safety Culture among Emergency and Critical Care Nurses in a Maternal and Child Department\". Healthcare, 2023.",
+        "citation_ar": "عبد الكريم جبني فوسيني وآخرون. \"ثقافة سلامة المرضى بين الممرضات في الطوارئ والرعاية الحرجة في قسم الأمومة والطفولة\". *Healthcare*، 2023."
+      },
+      {
+        "reference_title": "Burnout and Resilience among Frontline Nurses during COVID-19 Pandemic: A Cross-sectional Study in the Emergency Department of a Tertiary Care Center,",
+        "reference_url": "https://doi.org/10.5005/jp-journals-10071-23667",
+        "citation_en": "Sinu Jose, M. Dhandapani, Maneesha C Cyriac. \"Burnout and Resilience among Frontline Nurses during COVID-19 Pandemic: A Cross-sectional Study in the Emergency Department of a Tertiary Care Center, North India\". semantic_scholar_foundational, 2020.",
+        "citation_ar": "سينو جوز، د. م. داندهباني، مانيسا سي. سيرياس. \"الإرهاق النفسي والمرونة بين الممرضات في الخطوط الأمامية خلال جائحة كوفيد-19: دراسة مقطعية في قسم الطوارئ لمركز رعاية ثالثي، شمال الهند\". *semantic_scholar_foundational*، 2020."
+      },
+      {
+        "reference_title": "ICD-10-CM 2020 Snapshot Coding Card",
+        "reference_url": "https://openlibrary.org/works/OL35706896W",
+        "citation_en": "ICD-10-CM 2020 Snapshot Coding Card. by American Medical Association. (2019). — American Medical Association. ISBN: 1622029968",
+        "citation_ar": "ICD-10-CM 2020 Snapshot Coding Card. بقلم American Medical Association. (2019). — American Medical Association. ردمك: 1622029968"
+      },
+      {
+        "reference_title": "Scientific Reference",
+        "reference_url": "https://openlibrary.org/works/OL8492715W",
+        "citation_en": "EMED. by Primedia. (1998). — Delmar Learning. ISBN: 9781401837723",
+        "citation_ar": "EMED. بقلم Primedia. (1998). — Delmar Learning. ردمك: 9781401837723"
+      },
+      {
+        "reference_title": "PULSE",
+        "reference_url": "https://openlibrary.org/works/OL8492716W",
+        "citation_en": "PULSE. by Primedia. (1998). — Delmar Learning. ISBN: 1401888208",
+        "citation_ar": "PULSE. بقلم Primedia. (1998). — Delmar Learning. ردمك: 1401888208"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Clinical Cardiology: Heart Disease, Arrhythmia, and Cardiovascular Interventions",
+    "academic_concept_ar": "أمراض القلب السريرية: أمراض القلب، اضطراب النظم، والتدخلات القلبية الوعائية.",
+    "concept_url_en": "https://smarticle.tech/en/article/clinical-cardiology-heart-disease-arrhythmia-and-cardiovascular-interventio-202605150104",
+    "concept_url_ar": "https://smarticle.tech/ar/article/clinical-cardiology-heart-disease-arrhythmia-and-cardiovascular-interventio-202605150104",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Practical handbook of advanced interventional cardiology",
+        "reference_url": "https://archive.org/details/practicalhandboo0000unse_p7z8",
+        "citation_en": "Practical handbook of advanced interventional cardiology. by Thach Nguyen. (2000). — Wiley-Blackwell. ISBN: 0879934697",
+        "citation_ar": "Practical handbook of advanced interventional cardiology. بقلم Thach Nguyen. (2000). — Wiley-Blackwell. ردمك: 0879934697"
+      },
+      {
+        "reference_title": "Making Sense of the ECG",
+        "reference_url": "https://archive.org/details/makingsenseofecg0000houg",
+        "citation_en": "Making Sense of the ECG. by Andrew Houghton, David Gray. (2008). — CRC Press. ISBN: 0429579322",
+        "citation_ar": "Making Sense of the ECG. بقلم Andrew Houghton، David Gray. (2008). — CRC Press. ردمك: 0429579322"
+      },
+      {
+        "reference_title": "An introduction to electrocardiography",
+        "reference_url": "https://archive.org/details/introductiontoel0000scha_7edi",
+        "citation_en": "An introduction to electrocardiography. by Leo Schamroth, L. Schamroth, C. Schamroth. (1964). — Blackwell Publishing Limited. ISBN: 0632024119",
+        "citation_ar": "An introduction to electrocardiography. بقلم Leo Schamroth، L. Schamroth، C. Schamroth. (1964). — Blackwell Publishing Limited. ردمك: 0632024119"
+      },
+      {
+        "reference_title": "Introduction to basic cardiac dysrhythmias",
+        "reference_url": "https://openlibrary.org/works/OL3245070W",
+        "citation_en": "Introduction to basic cardiac dysrhythmias. by Sandra Atwood, Cheryl Stanton, Jenny Storey Davenport. (1990). — Mosby Lifeline. ISBN: 9780323052252",
+        "citation_ar": "Introduction to basic cardiac dysrhythmias. بقلم Sandra Atwood، Cheryl Stanton، Jenny Storey Davenport. (1990). — Mosby Lifeline. ردمك: 9780323052252"
+      },
+      {
+        "reference_title": "ICD-10-CM 2020 Snapshot Coding Card",
+        "reference_url": "https://openlibrary.org/works/OL35706896W",
+        "citation_en": "ICD-10-CM 2020 Snapshot Coding Card. by American Medical Association. (2019). — American Medical Association. ISBN: 1622029968",
+        "citation_ar": "ICD-10-CM 2020 Snapshot Coding Card. بقلم American Medical Association. (2019). — American Medical Association. ردمك: 1622029968"
+      },
+      {
+        "reference_title": "ICD-10-CM 2018 Snapshot Coding Card",
+        "reference_url": "https://openlibrary.org/works/OL28668286W",
+        "citation_en": "ICD-10-CM 2018 Snapshot Coding Card. by American Medical American Medical Association. (2017). — American Medical Association. ISBN: 9781622026371",
+        "citation_ar": "ICD-10-CM 2018 Snapshot Coding Card. بقلم American Medical American Medical Association. (2017). — American Medical Association. ردمك: 9781622026371"
+      },
+      {
+        "reference_title": "ICD-9 CM Easy Coder",
+        "reference_url": "https://openlibrary.org/works/OL769753W",
+        "citation_en": "ICD-9 CM Easy Coder. by Paul K. Tanaka. (1998). — Unicor Medical... ISBN: 9781567811629",
+        "citation_ar": "ICD-9 CM Easy Coder. بقلم Paul K. Tanaka. (1998). — Unicor Medical... ردمك: 9781567811629"
+      },
+      {
+        "reference_title": "THE DEVELOPMENT PROCESS OF CARDIOLOGY, ITS THEORETICAL FOUNDATIONS AND APPLICATION IN CLINICAL PRACTICE",
+        "reference_url": "https://doi.org/10.64941/hub.v01.i01.001",
+        "citation_en": "SULTONOVA MARJONA NOSIROVNA. \"THE DEVELOPMENT PROCESS OF CARDIOLOGY, ITS THEORETICAL FOUNDATIONS AND APPLICATION IN CLINICAL PRACTICE\". crossref, 2025.",
+        "citation_ar": "سُلتونوفا مارْيونا نوسيروفنا. \"عملية تطوير علم أمراض القلب، الأسس النظرية والتطبيق في الممارسة السريرية\". كروسريف، 2025."
+      },
+      {
+        "reference_title": "CRT-500.20 Barriers and Motivators for Participation of Cardiovascular Healthcare Providers in Clinical Trials in Iraq: A Survey-Based Study",
+        "reference_url": "https://doi.org/10.1016/j.jcin.2023.01.231",
+        "citation_en": "Zainab Atiyah Dakhil et al. \"CRT-500.20 Barriers and Motivators for Participation of Cardiovascular Healthcare Providers in Clinical Trials in Iraq: A Survey-Based Study\". crossref, 2023.",
+        "citation_ar": "زينب عطية دخيل وآخرون. \"العقبات والدوافع لمشاركة مقدمي الرعاية الصحية القلبية الوعائية في التجارب السريرية في العراق: دراسة قائمة على الاستقصاء\". كروسريف، 2023."
+      },
+      {
+        "reference_title": "Incidence and Clinical Impact of Stroke Complicating Percutaneous Coronary Intervention",
+        "reference_url": "https://doi.org/10.1161/circinterventions.112.000170",
+        "citation_en": "Werner N, Bauer T, Hochadel M, et al. \"Incidence and Clinical Impact of Stroke Complicating Percutaneous Coronary Intervention\". Circulation: Cardiovascular Interventions, 2013.",
+        "citation_ar": "فيرنر ن. باور ت. هوشاديل م. وآخرون. \"حدوث والأثر السريري للسكتة الدماغية التي تعقّد التدخل التاجي التاجي عن طريق الجلد\". circulation: interventions القلب والأوعية الدموية، 2013."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Neurology: Brain Disorders, Neurodegeneration, and Stroke",
+    "academic_concept_ar": "علم الأعصاب: اضطرابات الدماغ، التنكس العصبي، والسكتة الدماغية.",
+    "concept_url_en": "https://smarticle.tech/en/article/neurology-brain-disorders-neurodegeneration-and-stroke-202605150111",
+    "concept_url_ar": "https://smarticle.tech/ar/article/neurology-brain-disorders-neurodegeneration-and-stroke-202605150111",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Musicophilia",
+        "reference_url": "https://archive.org/details/bwb_W9-COR-980",
+        "citation_en": "Musicophilia. by Oliver Sacks. (2007). — Companhia das Letras. ISBN: 8845972615",
+        "citation_ar": "Musicophilia. بقلم Oliver Sacks. (2007). — Companhia das Letras. ردمك: 8845972615"
+      },
+      {
+        "reference_title": "An introduction to neurology",
+        "reference_url": "https://archive.org/details/introductiontone00herrrich",
+        "citation_en": "An introduction to neurology. by C. Judson Herrick. (1915). — W.B. Saunders Company",
+        "citation_ar": "An introduction to neurology. بقلم C. Judson Herrick. (1915). — W.B. Saunders Company"
+      },
+      {
+        "reference_title": "The Man Who Mistook His Wife for a Hat",
+        "reference_url": "https://archive.org/details/ohomemqueconfund0000sack",
+        "citation_en": "The Man Who Mistook His Wife for a Hat. by Oliver Sacks. (1980). — Meulenhoff. ISBN: 9789576213366",
+        "citation_ar": "The Man Who Mistook His Wife for a Hat. بقلم Oliver Sacks. (1980). — Meulenhoff. ردمك: 9789576213366"
+      },
+      {
+        "reference_title": "Awakenings",
+        "reference_url": "https://archive.org/details/uyanslar0000sack",
+        "citation_en": "Awakenings. by Oliver Sacks, Jonathan Davis. (1973). — Seuil. ISBN: 9783499120978",
+        "citation_ar": "Awakenings. بقلم Oliver Sacks، Jonathan Davis. (1973). — Seuil. ردمك: 9783499120978"
+      },
+      {
+        "reference_title": "An Anthropologist on Mars",
+        "reference_url": "https://archive.org/details/antropologybatma0000oliv",
+        "citation_en": "An Anthropologist on Mars. by Oliver Sacks. (1995). — Rowohlt Tb.. ISBN: 0679767177",
+        "citation_ar": "An Anthropologist on Mars. بقلم Oliver Sacks. (1995). — Rowohlt Tb.. ردمك: 0679767177"
+      },
+      {
+        "reference_title": "The human brain",
+        "reference_url": "https://archive.org/details/humanbraininphot0000nolt",
+        "citation_en": "The human brain. by John Nolte. (1981). — Mosby. ISBN: 0323041310",
+        "citation_ar": "The human brain. بقلم John Nolte. (1981). — Mosby. ردمك: 0323041310"
+      },
+      {
+        "reference_title": "Harnessing myelin water fraction as an imaging biomarker of human cerebral aging, neurodegenerative diseases, and risk factors influencing myelination",
+        "reference_url": "https://doi.org/10.1111/jnc.16170",
+        "citation_en": "Faulkner, M., et al. \"Harnessing myelin water fraction as an imaging biomarker of human cerebral aging, neurodegenerative diseases, and risk factors influencing myelination: A review\". Journal of Neurochemistry, 2024.",
+        "citation_ar": "فوكنر، م.، وآخرون. \"استغلال جزء الماء النخاعي كمؤشر تصوير حيوي لشيخوخة الدماغ البشري، والأمراض التنكسية العصبية، وعوامل الخطر المؤثرة في التخلق النخاعي: مراجعة\". مجلة الكيمياء العصبية، 2024."
+      },
+      {
+        "reference_title": "Role of the gut-brain axis in neurological diseases: Molecular connections and therapeutic implications (Review)",
+        "reference_url": "https://doi.org/10.3892/ijmm.2025.5633",
+        "citation_en": "Hongjuan Zhang et al. \"Role of the gut-brain axis in neurological diseases: Molecular connections and therapeutic implications (Review)\". International Journal of Molecular Medicine, 2025.",
+        "citation_ar": "هونغ جوان زانغ وآخرون. \"دور محور الأمعاء-الدماغ في الأمراض العصبية: الروابط الجزيئية والآثار العلاجية (مراجعة)\". المجلة الدولية للطب الجزيئي، 2025."
+      },
+      {
+        "reference_title": "Navigating the landscape of protein folding and proteostasis: from molecular chaperones to therapeutic innovations",
+        "reference_url": "https://doi.org/10.1038/s41392-025-02439-w",
+        "citation_en": "O. Kuzu, L. J. T. Granerud, F. Saatcioglu. \"Navigating the landscape of protein folding and proteostasis: from molecular chaperones to therapeutic innovations\". semantic_scholar_foundational, 2025.",
+        "citation_ar": "أو. كوزو، ل. ج. ت. غرانيرود، ف. ساتشيوغلو. \"التنقل في مشهد طي البروتين والحفاظ على توازن البروتينات: من المس chaperones الجزيئية إلى الابتكارات العلاجية\". semantic_scholar_foundational، 2025."
+      },
+      {
+        "reference_title": "Preclinical insights into gamma-tACS: foundations for clinical translation in neurodegenerative diseases",
+        "reference_url": "https://doi.org/10.3389/fnins.2025.1549230",
+        "citation_en": "Guillermo Sánchez-Garrido Campos et al. \"Preclinical insights into gamma-tACS: foundations for clinical translation in neurodegenerative diseases\". Frontiers in Neuroscience, 2025.",
+        "citation_ar": "غييرمو سانشيز-غاريدو كامبوس وآخرون. \"الرؤى قبل السريرية حول التحفيز الكهربائي عبر الجمجمة بموجات جاما: أسس للترجمة السريرية في الأمراض التنكسية العصبية\". مجلة الحدود في علوم الأعصاب، 2025."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Oncology: Cancer Biology, Classification, and Treatment Modalities",
+    "academic_concept_ar": "علم الأورام: بيولوجيا السرطان، التصنيف، وطرق العلاج.",
+    "concept_url_en": "https://smarticle.tech/en/article/oncology-cancer-biology-classification-and-treatment-modalities-202605150116",
+    "concept_url_ar": "https://smarticle.tech/ar/article/oncology-cancer-biology-classification-and-treatment-modalities-202605150116",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Introduction to Mathematical Oncology",
+        "reference_url": "https://openlibrary.org/works/OL25127600W",
+        "citation_en": "Introduction to Mathematical Oncology. by Yang Kuang, John D. Nagy, Steffen E. Eikenberry. (2018). — Routledge. ISBN: 1498752977",
+        "citation_ar": "Introduction to Mathematical Oncology. بقلم Yang Kuang، John D. Nagy، Steffen E. Eikenberry. (2018). — Routledge. ردمك: 1498752977"
+      },
+      {
+        "reference_title": "Introduction to Physical Oncology",
+        "reference_url": "https://openlibrary.org/works/OL25187546W",
+        "citation_en": "Introduction to Physical Oncology. by Vittorio Cristini, Eugene Koay, Zhihui Wang. (2017). — Taylor & Francis Group. ISBN: 1315337827",
+        "citation_ar": "Introduction to Physical Oncology. بقلم Vittorio Cristini، Eugene Koay، Zhihui Wang. (2017). — Taylor & Francis Group. ردمك: 1315337827"
+      },
+      {
+        "reference_title": "Introduction to Cancer Therapy",
+        "reference_url": "https://openlibrary.org/works/OL26598552W",
+        "citation_en": "Introduction to Cancer Therapy. by Neville Charron. (2020). — Nova Science Publishers, Incorporated. ISBN: 1536184500",
+        "citation_ar": "Introduction to Cancer Therapy. بقلم Neville Charron. (2020). — Nova Science Publishers, Incorporated. ردمك: 1536184500"
+      },
+      {
+        "reference_title": "The Impact of Tumor Biology on Cancer Treatment and Multidisciplinary Strategies",
+        "reference_url": "https://archive.org/details/impacttumorbiolo00moll",
+        "citation_en": "The Impact of Tumor Biology on Cancer Treatment and Multidisciplinary Strategies. by Michael Molls. (2009). — Springer Berlin Heidelberg. ISBN: 3540743855",
+        "citation_ar": "The Impact of Tumor Biology on Cancer Treatment and Multidisciplinary Strategies. بقلم Michael Molls. (2009). — Springer Berlin Heidelberg. ردمك: 3540743855"
+      },
+      {
+        "reference_title": "Introduction to clinical radiation oncology",
+        "reference_url": "https://archive.org/details/introductiontocl00coia",
+        "citation_en": "Introduction to clinical radiation oncology. by Lawrence R. Coia. (1994). — Medical Physics Pub.. ISBN: 9780944838464",
+        "citation_ar": "Introduction to clinical radiation oncology. بقلم Lawrence R. Coia. (1994). — Medical Physics Pub.. ردمك: 9780944838464"
+      },
+      {
+        "reference_title": "Principles and practice of radiation therapy",
+        "reference_url": "https://openlibrary.org/works/OL19468087W",
+        "citation_en": "Principles and practice of radiation therapy. by Charles M. Washington, Dennis T. Leaver. (1900). — Mosby. ISBN: 9780815191452",
+        "citation_ar": "Principles and practice of radiation therapy. بقلم Charles M. Washington، Dennis T. Leaver. (1900). — Mosby. ردمك: 9780815191452"
+      },
+      {
+        "reference_title": "Review for \"Anti-cancer peptides: classification, mechanism of action, reconstruction and modification\"",
+        "reference_url": "https://doi.org/10.1098/rsob.200004/v1/review2",
+        "citation_en": "Anti-cancer peptides: classification, mechanism of action, reconstruction and modification\". Review for, 2020.",
+        "citation_ar": "\"الببتيدات المضادة للسرطان: التصنيف، آلية العمل، إعادة البناء والتعديل\". مراجعة لـ، 2020."
+      },
+      {
+        "reference_title": "Molecular, cellular and systemic aspects of epithelial ovarian cancer and its tumor microenvironment",
+        "reference_url": "https://doi.org/10.1016/j.semcancer.2022.03.027",
+        "citation_en": "Esther Schoutrop et al. \"Molecular, cellular and systemic aspects of epithelial ovarian cancer and its tumor microenvironment\". *Seminars in Cancer Biology*, 2022.",
+        "citation_ar": "إستر شاوتروب وآخرون. \"الجوانب الجزيئية، الخلوية، والنظامية لسرطان المبيض الظهاري وبيئته الورمية\". *ندوات في علم الأورام*، 2022."
+      },
+      {
+        "reference_title": "Review for \"Artificial intelligence in dermatology: A systematic review of skin cancer detection and classification\"",
+        "reference_url": "https://doi.org/10.1088/2631-8695/ae1933/v3/review2",
+        "citation_en": "Artificial intelligence in dermatology: A systematic review of skin cancer detection and classification. \"Review for 'Artificial intelligence in dermatology: A systematic review of skin cancer detection and classification'\". crossref, 2025.",
+        "citation_ar": "الذكاء الاصطناعي في علم الأمراض الجلدية: مراجعة منهجية لاكتشاف وتصنيف سرطان الجلد. \"مراجعة لـ'الذكاء الاصطناعي في علم الأمراض الجلدية: مراجعة منهجية لاكتشاف وتصنيف سرطان الجلد'\". كروسريف، 2025."
+      },
+      {
+        "reference_title": "Machine Learning Models for Breast Cancer Classification",
+        "reference_url": "https://doi.org/10.21203/rs.3.rs-4782472/v1",
+        "citation_en": "Ravi Teja S. \"Machine Learning Models for Breast Cancer Classification\". crossref, 2024.",
+        "citation_ar": "رافي تيجا إس. \"نماذج التعلم الآلي لتصنيف سرطان الثدي\". كروسريف، 2024."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Epidemiology: Disease Surveillance, Study Design, and Outbreak Investigation",
+    "academic_concept_ar": "علم الأوبئة: مراقبة الأمراض، تصميم الدراسة، والتحقيق في تفشي المرض.",
+    "concept_url_en": "https://smarticle.tech/en/article/epidemiology-disease-surveillance-study-design-and-outbreak-investigation-202605172355",
+    "concept_url_ar": "https://smarticle.tech/ar/article/epidemiology-disease-surveillance-study-design-and-outbreak-investigation-202605172355",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Hippocrates",
+        "reference_url": "https://archive.org/details/hippocrates01hipp_0",
+        "citation_en": "Hippocrates. by Hippocrates. (1531). — Harvard Univ. Press. ISBN: 0674995260",
+        "citation_ar": "Hippocrates. بقلم Hippocrates. (1531). — Harvard Univ. Press. ردمك: 0674995260"
+      },
+      {
+        "reference_title": "The history of the great plague in London in the year 1665",
+        "reference_url": "https://archive.org/details/danieldefoesjour00defo",
+        "citation_en": "The history of the great plague in London in the year 1665. by Daniel Defoe. (1722). — Seltzer Books. ISBN: 139880178X",
+        "citation_ar": "The history of the great plague in London in the year 1665. بقلم Daniel Defoe. (1722). — Seltzer Books. ردمك: 139880178X"
+      },
+      {
+        "reference_title": "Epidemics and crowd-diseases",
+        "reference_url": "https://archive.org/details/b33398628_0002",
+        "citation_en": "Epidemics and crowd-diseases. by Major Greenwood. (1935). — Arno Press, 1977.. ISBN: 0405098219",
+        "citation_ar": "Epidemics and crowd-diseases. بقلم Major Greenwood. (1935). — Arno Press, 1977.. ردمك: 0405098219"
+      },
+      {
+        "reference_title": "Introduction to Epidemiology",
+        "reference_url": "https://openlibrary.org/works/OL13773556W",
+        "citation_en": "Introduction to Epidemiology. by Ray M. Merrill. (2010). — Jones & Bartlett Learning. ISBN: 9781284094350",
+        "citation_ar": "Introduction to Epidemiology. بقلم Ray M. Merrill. (2010). — Jones & Bartlett Learning. ردمك: 9781284094350"
+      },
+      {
+        "reference_title": "Epidemiology kept simple",
+        "reference_url": "https://archive.org/details/epidemiologykept03edgers",
+        "citation_en": "Epidemiology kept simple. by B. Burt Gerstman. (1998). — Wiley-Liss. ISBN: 0471457809",
+        "citation_ar": "Epidemiology kept simple. بقلم B. Burt Gerstman. (1998). — Wiley-Liss. ردمك: 0471457809"
+      },
+      {
+        "reference_title": "Waterborne disease outbreaks",
+        "reference_url": "https://openlibrary.org/works/OL23169197W",
+        "citation_en": "Waterborne disease outbreaks. by Gunther F. Craun. (1990). — Health Effects Research Laboratory, Office of Research and Development, U.S. Environmental Protection Agency",
+        "citation_ar": "Waterborne disease outbreaks. بقلم Gunther F. Craun. (1990). — Health Effects Research Laboratory, Office of Research and Development, U.S. Environmental Protection Agency"
+      },
+      {
+        "reference_title": "Spatio-temporal determinants of mental health and well-being: advances in geographically-explicit ecological momentary assessment (GEMA)",
+        "reference_url": "https://doi.org/10.1007/s00127-016-1277-5",
+        "citation_en": "Kirchner, T. R., Shiffman, S. \"Spatio-temporal determinants of mental health and well-being: advances in geographically-explicit ecological momentary assessment (GEMA)\". Social Psychiatry and Psychiatric Epidemiology, 2016.",
+        "citation_ar": "كيرشنر، ت. ر.، شيفمان، س. \"المحددات الزمانية والمكانية للصحة العقلية والرفاهية: تطورات في التقييم اللحظي الجغرافي الصريح (GEMA)\". مجلة الطب النفسي الاجتماعي والوبائيات النفسية، 2016."
+      },
+      {
+        "reference_title": "Epidemiology of severe asthma in children: a systematic review and meta-analysis",
+        "reference_url": "https://doi.org/10.1183/16000617.0095-2024",
+        "citation_en": "S. Manti et al. \"Epidemiology of severe asthma in children: a systematic review and meta-analysis\". semantic_scholar_foundational, 2024.",
+        "citation_ar": "س. مانتي وآخرون. \"وبائيات الربو الحاد لدى الأطفال: مراجعة منهجية وتحليل تلوي\". semantic_scholar_foundational، 2024."
+      },
+      {
+        "reference_title": "[Ecological studies in environmental health: Beyond epidemiology].",
+        "reference_url": "https://doi.org/10.1590/S0120-41572015000500019",
+        "citation_en": "L. Blanco-Becerra, C. Pinzón-Flórez, A. Idrovo. \"[Ecological studies in environmental health: Beyond epidemiology]\". semantic_scholar_foundational, 2015.",
+        "citation_ar": "ل. بلانكو-بيسيرا، س. بينزون-فلوريس، أ. إيدروفو. \"[الدراسات البيئية في الصحة البيئية: ما وراء الوبائيات]\". semantic_scholar_foundational، 2015."
+      },
+      {
+        "reference_title": "Cholangiocarcinoma. Epidemiology, classification, diagnosis, treatment methods (literature review)",
+        "reference_url": "https://doi.org/10.47407/kr2024.5.7.00443",
+        "citation_en": "Alexandra G. Zamotina et al. \"Cholangiocarcinoma. Epidemiology, classification, diagnosis, treatment methods (literature review)\". semantic_scholar_foundational, 2024.",
+        "citation_ar": "ألكسندرا ج. زاموتينا وآخرون. \"سرطان القنوات الصفراوية: الوبائيات، التصنيف، التشخيص، طرق العلاج (مراجعة أدبية)\". semantic_scholar_foundational، 2024."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Global Public Health Policy: Health Systems, Equity, and International Frameworks",
+    "academic_concept_ar": "السياسة العامة العالمية للصحة: النظم الصحية، العدالة، والأطر الدولية.",
+    "concept_url_en": "https://smarticle.tech/en/article/global-public-health-policy-health-systems-equity-and-international-framewo-202605180003",
+    "concept_url_ar": "https://smarticle.tech/ar/article/global-public-health-policy-health-systems-equity-and-international-framewo-202605180003",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Global Health",
+        "reference_url": "https://openlibrary.org/works/OL21142223W",
+        "citation_en": "Global Health. by Kevin McCracken, Phillips, David R.. (2012). — Routledge. ISBN: 1317431227",
+        "citation_ar": "Global Health. بقلم Kevin McCracken، Phillips, David R.. (2012). — Routledge. ردمك: 1317431227"
+      },
+      {
+        "reference_title": "Understanding the politics of pandemic scares",
+        "reference_url": "https://openlibrary.org/works/OL16126014W",
+        "citation_en": "Understanding the politics of pandemic scares. by Mika Aaltola. (2011). — Taylor & Francis Group. ISBN: 0415603811",
+        "citation_ar": "Understanding the politics of pandemic scares. بقلم Mika Aaltola. (2011). — Taylor & Francis Group. ردمك: 0415603811"
+      },
+      {
+        "reference_title": "An Introduction to Global Health Delivery",
+        "reference_url": "https://openlibrary.org/works/OL22070489W",
+        "citation_en": "An Introduction to Global Health Delivery. by Joia S. Mukherjee. (2017). — Oxford University Press. ISBN: 9780190662455",
+        "citation_ar": "An Introduction to Global Health Delivery. بقلم Joia S. Mukherjee. (2017). — Oxford University Press. ردمك: 9780190662455"
+      },
+      {
+        "reference_title": "The Health of women",
+        "reference_url": "https://archive.org/details/healthofwomenglo0000unse",
+        "citation_en": "The Health of women. by Marjorie A. Koblinsky, Judith Timyan, Janet Gottschalk. (1992). — Westview Press Inc. ISBN: 0813385008",
+        "citation_ar": "The Health of women. بقلم Marjorie A. Koblinsky، Judith Timyan، Janet Gottschalk. (1992). — Westview Press Inc. ردمك: 0813385008"
+      },
+      {
+        "reference_title": "How to leverage implementation research for equity in global health",
+        "reference_url": "https://doi.org/10.1186/s41256-024-00388-5",
+        "citation_en": "Alonge, Olakunle. \"How to leverage implementation research for equity in global health\". crossref, 2024.",
+        "citation_ar": "ألونج، أولاكونلي. \"كيفية الاستفادة من بحوث التنفيذ لتحقيق المساواة في الصحة العالمية\". كروسريف، 2024."
+      },
+      {
+        "reference_title": "Global Health Equity for LGBTQ People and Populations",
+        "reference_url": "https://doi.org/10.1891/9780826195074.0010",
+        "citation_en": "Rosa, William E., Patricia J. Moreland, and Tonda L. Hughes. \"Global Health Equity for LGBTQ People and Populations\". crossref, 2020.",
+        "citation_ar": "روزا، ويليام إي، باتريشيا ج. مورلاند، وتوندا إل. هيوز. \"المساواة في الصحة العالمية للأشخاص والمجتمعات من مجتمع الميم (LGBTQ)\". كروسريف، 2020."
+      },
+      {
+        "reference_title": "Ensuring Global Health Equity in a Post-pandemic Economy",
+        "reference_url": "https://doi.org/10.34172/ijhpm.2022.7212",
+        "citation_en": "Labonté, Ronald. \"Ensuring Global Health Equity in a Post-pandemic Economy\". International Journal of Health Policy and Management, 2022.",
+        "citation_ar": "لابونتي، رونالد. \"ضمان المساواة في الصحة العالمية في اقتصاد ما بعد الجائحة\". المجلة الدولية لسياسات وإدارة الصحة، 2022."
+      },
+      {
+        "reference_title": "Public Health, Clinical Governance, and Governance for Health and Well-Being",
+        "reference_url": "https://doi.org/10.1159/000530024",
+        "citation_en": "Ramos, Victor. \"Public Health, Clinical Governance, and Governance for Health and Well-Being\". crossref, 2023.",
+        "citation_ar": "راموس، فيكتور. \"الصحة العامة، والإدارة السريرية، والإدارة من أجل الصحة والرفاهية\". كروسريف، 2023."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Pandemic Preparedness: Lessons from Influenza, HIV, and COVID-19",
+    "academic_concept_ar": "الاستعداد للجائحة: دروس من الإنفلونزا، فيروس نقص المناعة البشرية، وكوفيد-19.",
+    "concept_url_en": "https://smarticle.tech/en/article/pandemic-preparedness-lessons-from-influenza-hiv-and-covid-19-202605180010",
+    "concept_url_ar": "https://smarticle.tech/ar/article/pandemic-preparedness-lessons-from-influenza-hiv-and-covid-19-202605180010",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Global Health",
+        "reference_url": "https://openlibrary.org/works/OL21142223W",
+        "citation_en": "Global Health. by Kevin McCracken, Phillips, David R.. (2012). — Routledge. ISBN: 1317431227",
+        "citation_ar": "Global Health. بقلم Kevin McCracken، Phillips, David R.. (2012). — Routledge. ردمك: 1317431227"
+      },
+      {
+        "reference_title": "Routledge Handbook Of Global Health Security",
+        "reference_url": "https://openlibrary.org/works/OL17410335W",
+        "citation_en": "Routledge Handbook Of Global Health Security. by Simon Rushton. (2014). — Routledge. ISBN: 020307856X",
+        "citation_ar": "Routledge Handbook Of Global Health Security. بقلم Simon Rushton. (2014). — Routledge. ردمك: 020307856X"
+      },
+      {
+        "reference_title": "Healthcare Analytics",
+        "reference_url": "https://openlibrary.org/works/OL21321717W",
+        "citation_en": "Healthcare Analytics. by Edward M. Rafalski, Ross M. Mullner. (2019). — Taylor & Francis Group. ISBN: 9781032068466",
+        "citation_ar": "Healthcare Analytics. بقلم Edward M. Rafalski، Ross M. Mullner. (2019). — Taylor & Francis Group. ردمك: 9781032068466"
+      },
+      {
+        "reference_title": "Thinking Through Resistance",
+        "reference_url": "https://archive.org/details/isbn_9781629583341",
+        "citation_en": "Thinking Through Resistance. by Nicola Bulled. (2017). — Routledge. ISBN: 1351807374",
+        "citation_ar": "Thinking Through Resistance. بقلم Nicola Bulled. (2017). — Routledge. ردمك: 1351807374"
+      },
+      {
+        "reference_title": "Homeland security",
+        "reference_url": "https://openlibrary.org/works/OL565067W",
+        "citation_en": "Homeland security. by United States. General Accounting Office. (2002). — GAO",
+        "citation_ar": "Homeland security. بقلم United States. General Accounting Office. (2002). — GAO"
+      },
+      {
+        "reference_title": "Diseases of globalization",
+        "reference_url": "https://archive.org/details/diseasesofglobal0000mcmu",
+        "citation_en": "Diseases of globalization. by Christine McMurray. (2001). — Taylor & Francis Group. ISBN: 9781853837111",
+        "citation_ar": "Diseases of globalization. بقلم Christine McMurray. (2001). — Taylor & Francis Group. ردمك: 9781853837111"
+      },
+      {
+        "reference_title": "Canadian Pandemic Influenza Preparedness: Antiviral strategy",
+        "reference_url": "https://doi.org/10.14745/ccdr.v45i01a05",
+        "citation_en": "Henry B. \"Canadian Pandemic Influenza Preparedness: Antiviral strategy\". crossref, 2019.",
+        "citation_ar": "هنري ب. \"الاستعداد الكندي للإنفلونزا الوبائية: الاستراتيجية المضادة للفيروسات\". كروسريف، 2019."
+      },
+      {
+        "reference_title": "COVID-19 and Global Health Security: Overview of the Global Health Security Alliance, COVID-19 Response, African Countries’ Approaches, and Ethics",
+        "reference_url": "https://doi.org/10.1017/dmp.2020.360",
+        "citation_en": "Belete Yimer, Wassachew Ashebir, Awraris Wolde, Muluken Teshome. \"COVID-19 and Global Health Security: Overview of the Global Health Security Alliance, COVID-19 Response, African Countries’ Approaches, and Ethics\". Disaster Medicine and Public Health Preparedness, 2020.",
+        "citation_ar": "بيليت يمير، واساشيو أشيبير، وأوراريس وولدي، ومولوكين تيشومي. \"كوفيد-19 والأمن الصحي العالمي: نظرة عامة على التحالف العالمي للأمن الصحي، والاستجابة لكوفيد-19، ومناهج الدول الأفريقية، والأخلاقيات\". مجلة الطب الكارثي والصحة العامة الاستعدادية، 2020."
+      },
+      {
+        "reference_title": "Viral Load Dynamics of COVID-19 and Public Health Strategies: Modelling for Pandemic Preparedness",
+        "reference_url": "https://doi.org/10.21203/rs.3.rs-3640042/v1",
+        "citation_en": "Alaa M. Sadiq. \"Viral Load Dynamics of COVID-19 and Public Health Strategies: Modelling for Pandemic Preparedness\". crossref, 2023.",
+        "citation_ar": "علاء م. صادق. \"ديناميكيات الحمل الفيروسي لكوفيد-19 والاستراتيجيات الصحية العامة: النمذجة للاستعداد الوبائي\". كروسريف، 2023."
+      },
+      {
+        "reference_title": "Strengthening event-based surveillance (EBS): a case study from Afghanistan",
+        "reference_url": "https://doi.org/10.1186/s13031-024-00598-1",
+        "citation_en": "Mohamed Mostafa Tahoun et al. \"Strengthening event-based surveillance (EBS): a case study from Afghanistan\". crossref, 2024.",
+        "citation_ar": "محمد مصطفى طهون وآخرون. \"تعزيز المراقبة المبنية على الأحداث (EBS): دراسة حالة من أفغانستان\". كروسريف، 2024."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Clinical Pathology: Tissue Analysis and Histopathological Diagnosis",
+    "academic_concept_ar": "علم الأمراض السريرية: تحليل الأنسجة والتشخيص النسيجي المرضي.",
+    "concept_url_en": "https://smarticle.tech/en/article/clinical-pathology-tissue-analysis-and-histopathological-diagnosis-202605180018",
+    "concept_url_ar": "https://smarticle.tech/ar/article/clinical-pathology-tissue-analysis-and-histopathological-diagnosis-202605180018",
+    "subcategory": "Medical Laboratories",
+    "references": [
+      {
+        "reference_title": "Histopathology Reporting",
+        "reference_url": "https://archive.org/details/histopathologyre0000alle",
+        "citation_en": "Histopathology Reporting. by Derek C. Allen. (2000). — Springer. ISBN: 9781447152637",
+        "citation_ar": "Histopathology Reporting. بقلم Derek C. Allen. (2000). — Springer. ردمك: 9781447152637"
+      },
+      {
+        "reference_title": "Pathophysiology of disease",
+        "reference_url": "https://openlibrary.org/works/OL18403508W",
+        "citation_en": "Pathophysiology of disease. by Stephen J. McPhee, Vishwanath R. Lingappa, Ganong, William F.. (2002). — McGraw-Hill/Appleton & Lange. ISBN: 9780071387644",
+        "citation_ar": "Pathophysiology of disease. بقلم Stephen J. McPhee، Vishwanath R. Lingappa، Ganong, William F.. (2002). — McGraw-Hill/Appleton & Lange. ردمك: 9780071387644"
+      },
+      {
+        "reference_title": "Mechanisms of disease",
+        "reference_url": "https://archive.org/details/mechanismsofdise02edunse",
+        "citation_en": "Mechanisms of disease. by Stephen Tomlinson, Anthony M. Heagerty, Anthony P. Weetman. (2008). — Cambridge University Press. ISBN: 9780511380815",
+        "citation_ar": "Mechanisms of disease. بقلم Stephen Tomlinson، Anthony M. Heagerty، Anthony P. Weetman. (2008). — Cambridge University Press. ردمك: 9780511380815"
+      },
+      {
+        "reference_title": "Endocrine Pathology",
+        "reference_url": "https://archive.org/details/endocrinepatholo00lloy_0",
+        "citation_en": "Endocrine Pathology. by Ricardo V. Lloyd. (1990). — Humana Press. ISBN: 9781461233466",
+        "citation_ar": "Endocrine Pathology. بقلم Ricardo V. Lloyd. (1990). — Humana Press. ردمك: 9781461233466"
+      },
+      {
+        "reference_title": "Muscle biopsy",
+        "reference_url": "https://archive.org/details/musclebiopsyprac0000dubo",
+        "citation_en": "Muscle biopsy. by Victor Dubowitz, Caroline A. Sewry, Lilly M. S. Dubowitz. (1973). — W.B. Saunders Company. ISBN: 9780702074714",
+        "citation_ar": "Muscle biopsy. بقلم Victor Dubowitz، Caroline A. Sewry، Lilly M. S. Dubowitz. (1973). — W.B. Saunders Company. ردمك: 9780702074714"
+      },
+      {
+        "reference_title": "Unfavorable Pathology, Tissue Biomarkers and Genomic Tests With Clinical Implications in Prostate Cancer Management",
+        "reference_url": "https://doi.org/10.1097/pap.0000000000000192",
+        "citation_en": "Jane Kim Nguyen, Cristina Magi-Galluzzi. \"Unfavorable Pathology, Tissue Biomarkers and Genomic Tests With Clinical Implications in Prostate Cancer Management\". *crossref*, 2018.",
+        "citation_ar": "جين كيم نجوين، كريستينا ماغي-غالوزي. \"المسار المرضي غير المواتي، المؤشرات الحيوية النسيجية والاختبارات الجينومية ذات الدلالات السريرية في إدارة سرطان البروستاتا\". *Crossref*، 2018."
+      },
+      {
+        "reference_title": "Tissue Microarray for Routine Analysis of Breast Biomarkers in the Clinical Laboratory",
+        "reference_url": "https://doi.org/10.1309/ajcpw37qgecdycdo",
+        "citation_en": "Thomas A. Thomson, Chen Zhou, Christina Chu, Bryan Knight. \"Tissue Microarray for Routine Analysis of Breast Biomarkers in the Clinical Laboratory\". *American Journal of Clinical Pathology*, 2009.",
+        "citation_ar": "توماس إيه. طومسون، تشن زهو، كريستينا شو، برايان نايت. \"المصفوفة النسيجية الدقيقة للتحليل الروتيني للمؤشرات الحيوية للثدي في المختبرات السريرية\". *المجلة الأمريكية لعلم الأمراض السريرية*، 2009."
+      },
+      {
+        "reference_title": "Analysis of Protein Biomarkers in Human Clinical Tumor Samples: Critical Aspects to Success from Tissue Acquisition to Analysis",
+        "reference_url": "https://doi.org/10.2217/bmm.11.9",
+        "citation_en": "Madhuri V Warren, WY Iris Chan, John M Ridley. \"Analysis of Protein Biomarkers in Human Clinical Tumor Samples: Critical Aspects to Success from Tissue Acquisition to Analysis\". crossref, 2011.",
+        "citation_ar": "مادهوري في. وارين، واي إريس تشان، جون إم ريدلي. \"تحليل المؤشرات الحيوية البروتينية في عينات الأورام السريرية البشرية: الجوانب الحرجة للنجاح من الحصول على الأنسجة إلى التحليل\". *Crossref*، 2011."
+      },
+      {
+        "reference_title": "Clinical tissue biomarker digital image analysis: A review of current applications",
+        "reference_url": "https://doi.org/10.1016/j.hpr.2022.300633",
+        "citation_en": "Zaibo Li, Marilyn M. Bui, Liron Pantanowitz. \"Clinical tissue biomarker digital image analysis: A review of current applications\". crossref, 2022.",
+        "citation_ar": "زايبو لي، مارلين إم. بوي، ليرون بانتانوويتز. \"التحليل الرقمي للصورة للمؤشرات الحيوية النسيجية السريرية: مراجعة للتطبيقات الحالية\". *Crossref*، 2022."
+      },
+      {
+        "reference_title": "Clinical biomarkers in soft tissue sarcoma A comprehensive review of current soft tissue sarcoma biomarkers",
+        "reference_url": "https://doi.org/10.1002/jso.26680",
+        "citation_en": "Soumya R. Sharma, Nadia E. Paonessa, Lucia Casadei, et al. \"Clinical biomarkers in soft tissue sarcoma A comprehensive review of current soft tissue sarcoma biomarkers\". Journal of Surgical Oncology, 2021.",
+        "citation_ar": "سومييا آر. شارما، نادية إي. باونيسا، لوسيا كاسادي، وآخرون. \"المؤشرات الحيوية السريرية في ساركوما الأنسجة الرخوة: مراجعة شاملة للمؤشرات الحيوية الحالية لساركوما الأنسجة الرخوة\". *مجلة علم الأورام الجراحي*، 2021."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Diagnostic Blood Testing: Haematology, Biochemistry, and Biomarkers",
+    "academic_concept_ar": "اختبار الدم التشخيصي: علم الدم، الكيمياء الحيوية، والمؤشرات الحيوية.",
+    "concept_url_en": "https://smarticle.tech/en/article/diagnostic-blood-testing-haematology-biochemistry-and-biomarkers-202605180026",
+    "concept_url_ar": "https://smarticle.tech/ar/article/diagnostic-blood-testing-haematology-biochemistry-and-biomarkers-202605180026",
+    "subcategory": "Medical Laboratories",
+    "references": [
+      {
+        "reference_title": "Veterinary laboratory medicine",
+        "reference_url": "https://archive.org/details/veterinarylabora0000kerr",
+        "citation_en": "Veterinary laboratory medicine. by Morag G. Kerr. (1988). — Wiley & Sons, Incorporated, John. ISBN: 9780632040230",
+        "citation_ar": "Veterinary laboratory medicine. بقلم Morag G. Kerr. (1988). — Wiley & Sons, Incorporated, John. ردمك: 9780632040230"
+      },
+      {
+        "reference_title": "Atlas of hematology",
+        "reference_url": "https://archive.org/details/atlasofhematolog0000ande",
+        "citation_en": "Atlas of hematology. by Shauna Christine Anderson, Shauna C. Anderson, Keila B Poulsen. (2003). — Lippincott Williams & Wilkins. ISBN: 9780781726627",
+        "citation_ar": "Atlas of hematology. بقلم Shauna Christine Anderson، Shauna C. Anderson، Keila B Poulsen. (2003). — Lippincott Williams & Wilkins. ردمك: 9780781726627"
+      },
+      {
+        "reference_title": "Clinical haematology",
+        "reference_url": "https://archive.org/details/clinicalhaematol0000prov",
+        "citation_en": "Clinical haematology. by Andrew Provan, Drew Provan, Andrew Amos. (1997). — A Hodder Arnold Publication. ISBN: 0750629207",
+        "citation_ar": "Clinical haematology. بقلم Andrew Provan، Drew Provan، Andrew Amos. (1997). — A Hodder Arnold Publication. ردمك: 0750629207"
+      },
+      {
+        "reference_title": "Essential Laboratory Medicine ; Clinical Pathology, Microbiology, Haematology, Cytology, Histopathology, Biochemistry, Blood Banking and Immunology",
+        "reference_url": "https://openlibrary.org/works/OL10246647W",
+        "citation_en": "Essential Laboratory Medicine ; Clinical Pathology, Microbiology, Haematology, Cytology, Histopathology, Biochemistry, Blood Banking and Immunology. by V.H. Talib. (1999). — Interprint. ISBN: 8188039330",
+        "citation_ar": "Essential Laboratory Medicine ; Clinical Pathology, Microbiology, Haematology, Cytology, Histopathology, Biochemistry, Blood Banking and Immunology. بقلم V.H. Talib. (1999). — Interprint. ردمك: 8188039330"
+      },
+      {
+        "reference_title": "Croatian Society of Medical Biochemistry and Laboratory Medicine: National recommendations for blood collection, processing, performance and reporting",
+        "reference_url": "https://doi.org/10.11613/BM.2019.020503",
+        "citation_en": "A. Bronić, D. Coen Herak, S. Margetić, M. Milić. \"Croatian Society of Medical Biochemistry and Laboratory Medicine: National recommendations for blood collection, processing, performance and reporting of results for coagulation screening assays prothrombin time, activated partial thromboplastin time, thrombin time, fibrinogen and D-dimer\". semantic_scholar_foundational, 2019.",
+        "citation_ar": "A. Bronić, D. Coen Herak, S. Margetić, M. Milić. \"Croatian Society of Medical Biochemistry and Laboratory Medicine: National recommendations for blood collection, processing, performance and reporting of results for coagulation screening assays prothrombin time, activated partial thromboplastin time, thrombin time, fibrinogen and D-dimer\". semantic_scholar_foundational, 2019."
+      },
+      {
+        "reference_title": "Diagnostic Performance of Red Blood Cell Indices, Serum Erythropoietin, and JAK2 Mutation Testing for the Evaluation of Polycythemia Vera at High Alti",
+        "reference_url": "https://doi.org/10.1182/blood-2023-177970",
+        "citation_en": "Husain Y. Alkhaldy et al. \"Diagnostic Performance of Red Blood Cell Indices, Serum Erythropoietin, and JAK2 Mutation Testing for the Evaluation of Polycythemia Vera at High Altitude\". Blood, 2023.",
+        "citation_ar": "Husain Y. Alkhaldy et al. \"Diagnostic Performance of Red Blood Cell Indices, Serum Erythropoietin, and JAK2 Mutation Testing for the Evaluation of Polycythemia Vera at High Altitude\". Blood, 2023."
+      },
+      {
+        "reference_title": "Reliability of HIV rapid diagnostic tests for self-testing compared with testing by health-care workers: a systematic review and meta-analysis",
+        "reference_url": "https://doi.org/10.1016/S2352-3018(18)30044-4",
+        "citation_en": "Carmen Figueroa, C. Johnson, N. Ford, A. Sands, S. Dalal, Robyn Meurant, Irena Prat, K. Hatzold, W. Urassa, R. Baggaley. \"Reliability of HIV rapid diagnostic tests for self-testing compared with testing by health-care workers: a systematic review and meta-analysis\". semantic_scholar_foundational, 2018.",
+        "citation_ar": "Carmen Figueroa, C. Johnson, N. Ford, A. Sands, S. Dalal, Robyn Meurant, Irena Prat, K. Hatzold, W. Urassa, R. Baggaley. \"Reliability of HIV rapid diagnostic tests for self-testing compared with testing by health-care workers: a systematic review and meta-analysis\". semantic_scholar_foundational, 2018."
+      },
+      {
+        "reference_title": "Laboratory practices for manual blood film review: Results of an IQMH patterns of practice survey",
+        "reference_url": "https://doi.org/10.1111/ijlh.13343",
+        "citation_en": "Elaine Leung, A. Johnston, Brian Olsen, Hong Chang, T. Martin, Miranda Wozniak, D. Good. \"Laboratory practices for manual blood film review: Results of an IQMH patterns of practice survey\". International Journal of Laboratory Hematology, 2020.",
+        "citation_ar": "Elaine Leung, A. Johnston, Brian Olsen, Hong Chang, T. Martin, Miranda Wozniak, D. Good. \"Laboratory practices for manual blood film review: Results of an IQMH patterns of practice survey\". International Journal of Laboratory Hematology, 2020."
+      },
+      {
+        "reference_title": "Review of the implementation of plasma ctDNA testing on behalf of IQN Path ASBL: a perspective from an EQA providers’ survey",
+        "reference_url": "https://doi.org/10.1007/s00428-017-2222-z",
+        "citation_en": "Deans Z, Williams HL, Dequeker E, et al. \"Review of the implementation of plasma ctDNA testing on behalf of IQN Path ASBL: a perspective from an EQA providers’ survey\". Virchows Archiv, 2017.",
+        "citation_ar": "Deans Z, Williams HL, Dequeker E, et al. \"Review of the implementation of plasma ctDNA testing on behalf of IQN Path ASBL: a perspective from an EQA providers’ survey\". Virchows Archiv, 2017."
+      },
+      {
+        "reference_title": "Patient Blood Management in 2023: a Nationwide Survey of Anesthesiologists in Romania following the 2018 Guidelines",
+        "reference_url": "https://doi.org/10.2450/BloodTransfus.776",
+        "citation_en": "D. Filipescu et al. \"Patient Blood Management in 2023: a Nationwide Survey of Anesthesiologists in Romania following the 2018 Guidelines\". Blood Transfus, 2024.",
+        "citation_ar": "D. Filipescu et al. \"Patient Blood Management in 2023: a Nationwide Survey of Anesthesiologists in Romania following the 2018 Guidelines\". Blood Transfus, 2024."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Medical Microbiology: Bacterial, Viral, and Fungal Pathogen Identification",
+    "academic_concept_ar": "علم الأحياء الدقيقة الطبية: تحديد العوامل الممرضة البكتيرية والفيروسية والفطرية.",
+    "concept_url_en": "https://smarticle.tech/en/article/medical-microbiology-bacterial-viral-and-fungal-pathogen-identification-202605180034",
+    "concept_url_ar": "https://smarticle.tech/ar/article/medical-microbiology-bacterial-viral-and-fungal-pathogen-identification-202605180034",
+    "subcategory": "Medical Laboratories",
+    "references": [
+      {
+        "reference_title": "Principles of bacteriology, virology, and immunity",
+        "reference_url": "https://archive.org/details/topleywilsonspri01topl",
+        "citation_en": "Principles of bacteriology, virology, and immunity. by William Whiteman Carlton Topley, Graham Selby Wilson, A. A. Miles. (1929). — Lippincott Williams & Wilkins. ISBN: 0713144262",
+        "citation_ar": "Principles of bacteriology, virology, and immunity. بقلم William Whiteman Carlton Topley، Graham Selby Wilson، A. A. Miles. (1929). — Lippincott Williams & Wilkins. ردمك: 0713144262"
+      },
+      {
+        "reference_title": "Advances in applied microbiology",
+        "reference_url": "https://archive.org/details/advancesappliedm65lask",
+        "citation_en": "Advances in applied microbiology. by Allen I. Laskin, Geoffrey Michael Gadd, Sima Sariaslani. (2008). — Elsevier Science & Technology. ISBN: 9780128052181",
+        "citation_ar": "Advances in applied microbiology. بقلم Allen I. Laskin، Geoffrey Michael Gadd، Sima Sariaslani. (2008). — Elsevier Science & Technology. ردمك: 9780128052181"
+      },
+      {
+        "reference_title": "Microbiology",
+        "reference_url": "https://archive.org/details/introductionalam0000tort",
+        "citation_en": "Microbiology. by Gerard J. Tortora, Berdell R. Funke, Christine L. Case. (1982). — Pearson Education, Limited. ISBN: 9780134716121",
+        "citation_ar": "Microbiology. بقلم Gerard J. Tortora، Berdell R. Funke، Christine L. Case. (1982). — Pearson Education, Limited. ردمك: 9780134716121"
+      },
+      {
+        "reference_title": "Molecular Biology of the Cell",
+        "reference_url": "https://archive.org/details/molecularbiology0000unse_e2q3",
+        "citation_en": "Molecular Biology of the Cell. by Bruce Alberts, Alexander Johnson, Julian Lewis. (1983). — NCBI. ISBN: 9780824072834",
+        "citation_ar": "Molecular Biology of the Cell. بقلم Bruce Alberts، Alexander Johnson، Julian Lewis. (1983). — NCBI. ردمك: 9780824072834"
+      },
+      {
+        "reference_title": "Molecular biology of the gene",
+        "reference_url": "https://archive.org/details/molecularbiology0004unse",
+        "citation_en": "Molecular biology of the gene. by James D. Watson, Nancy H. Hopkins, Jeffrey W. Roberts. (1965). — Pearson/Benjamin Cummings. ISBN: 1405823798",
+        "citation_ar": "Molecular biology of the gene. بقلم James D. Watson، Nancy H. Hopkins، Jeffrey W. Roberts. (1965). — Pearson/Benjamin Cummings. ردمك: 1405823798"
+      },
+      {
+        "reference_title": "Advances in Microbiology, Infectious Diseases and Public Health",
+        "reference_url": "https://openlibrary.org/works/OL20697702W",
+        "citation_en": "Advances in Microbiology, Infectious Diseases and Public Health. by Gianfranco Donelli. (2016). — Springer International Publishing AG. ISBN: 9783319263205",
+        "citation_ar": "Advances in Microbiology, Infectious Diseases and Public Health. بقلم Gianfranco Donelli. (2016). — Springer International Publishing AG. ردمك: 9783319263205"
+      },
+      {
+        "reference_title": "Science in a Technical World",
+        "reference_url": "https://archive.org/details/pulppaperresearc0000unse",
+        "citation_en": "Science in a Technical World. by American Chemical Society. (1999). — W. H. Freeman. ISBN: 0716737922",
+        "citation_ar": "Science in a Technical World. بقلم American Chemical Society. (1999). — W. H. Freeman. ردمك: 0716737922"
+      },
+      {
+        "reference_title": "Introduction to microbiology",
+        "reference_url": "https://archive.org/details/introductiontomi0000john",
+        "citation_en": "Introduction to microbiology. by John L. Ingraham. (1995). — Brooks/Cole Pub. Co. ISBN: 0534167284",
+        "citation_ar": "Introduction to microbiology. بقلم John L. Ingraham. (1995). — Brooks/Cole Pub. Co. ردمك: 0534167284"
+      },
+      {
+        "reference_title": "Science and civilisation in China",
+        "reference_url": "https://archive.org/details/zhongguokexuejis05need",
+        "citation_en": "Science and civilisation in China. by Joseph Needham. (1954). — Cambridge University Press. ISBN: 9780521058001",
+        "citation_ar": "Science and civilisation in China. بقلم Joseph Needham. (1954). — Cambridge University Press. ردمك: 9780521058001"
+      },
+      {
+        "reference_title": "INTRODUCTION TO BIODETERIORATION",
+        "reference_url": "https://openlibrary.org/works/OL13633739W",
+        "citation_en": "INTRODUCTION TO BIODETERIORATION. by DENNIS ALLSOPP, Dennis Allsopp, Kenneth J. Seal. (2004). — CAMBRIDGE UNIV PRESS. ISBN: 9780521528870",
+        "citation_ar": "INTRODUCTION TO BIODETERIORATION. بقلم DENNIS ALLSOPP، Dennis Allsopp، Kenneth J. Seal. (2004). — CAMBRIDGE UNIV PRESS. ردمك: 9780521528870"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Clinical Pharmacology and Drug Mechanisms",
+    "academic_concept_ar": "الصيدلة السريرية وآليات الأدوية",
+    "concept_url_en": "https://smarticle.tech/en/article/clinical-pharmacology-and-drug-mechanisms-202605190443",
+    "concept_url_ar": "https://smarticle.tech/ar/article/clinical-pharmacology-and-drug-mechanisms-202605190443",
+    "subcategory": "Pharmacy",
+    "references": [
+      {
+        "reference_title": "Cardiovascular pharmacotherapeutics",
+        "reference_url": "https://archive.org/details/cardiovascularph02edunse",
+        "citation_en": "Cardiovascular pharmacotherapeutics. by William H. Frishman, Domenic A. Sica, Edmund H. Sonnenblick. (1997). — McGraw-Hill, Medical Pub. Division. ISBN: 1935395629",
+        "citation_ar": "Cardiovascular pharmacotherapeutics. بقلم William H. Frishman، Domenic A. Sica، Edmund H. Sonnenblick. (1997). — McGraw-Hill, Medical Pub. Division. ردمك: 1935395629"
+      },
+      {
+        "reference_title": "Drugs of Abuse",
+        "reference_url": "https://archive.org/details/drugsofabusephar0000howa",
+        "citation_en": "Drugs of Abuse. by Sherrel Howard. (2014). — Wiley-Blackwell. ISBN: 9781118870891",
+        "citation_ar": "Drugs of Abuse. بقلم Sherrel Howard. (2014). — Wiley-Blackwell. ردمك: 9781118870891"
+      },
+      {
+        "reference_title": "Antimicrobial drug resistance",
+        "reference_url": "https://archive.org/details/antimicrobialdru00maye",
+        "citation_en": "Antimicrobial drug resistance. by Douglas L. Mayers. (2009). — Springer. ISBN: 9783319467184",
+        "citation_ar": "Antimicrobial drug resistance. بقلم Douglas L. Mayers. (2009). — Springer. ردمك: 9783319467184"
+      },
+      {
+        "reference_title": "Atlas of psychiatric pharmacotherapy",
+        "reference_url": "https://openlibrary.org/works/OL9012624W",
+        "citation_en": "Atlas of psychiatric pharmacotherapy. by Roni Shiloh. (1999). — Taylor & Francis. ISBN: 1853179345",
+        "citation_ar": "Atlas of psychiatric pharmacotherapy. بقلم Roni Shiloh. (1999). — Taylor & Francis. ردمك: 1853179345"
+      },
+      {
+        "reference_title": "Cocaine, marijuana, designer drugs",
+        "reference_url": "https://archive.org/details/cocainemarijuana0000unse",
+        "citation_en": "Cocaine, marijuana, designer drugs. by Charles A. Walker, Gene Barnett, Kinfe Redda. (1989). — Taylor & Francis Group. ISBN: 1439805229",
+        "citation_ar": "Cocaine, marijuana, designer drugs. بقلم Charles A. Walker، Gene Barnett، Kinfe Redda. (1989). — Taylor & Francis Group. ردمك: 1439805229"
+      },
+      {
+        "reference_title": "Molecular mechanisms of drug action",
+        "reference_url": "https://archive.org/details/molecularmechani0000coul_g1l2",
+        "citation_en": "Molecular mechanisms of drug action. by Christopher J. Coulson. (1988). — Routledge. ISBN: 9781280405457",
+        "citation_ar": "Molecular mechanisms of drug action. بقلم Christopher J. Coulson. (1988). — Routledge. ردمك: 9781280405457"
+      },
+      {
+        "reference_title": "Pocket Guide For Textbook Of Pharmocotherapy",
+        "reference_url": "https://openlibrary.org/works/OL5769673W",
+        "citation_en": "Pocket Guide For Textbook Of Pharmocotherapy. by David Rosenberg. (1997). — Routledge. ISBN: 9780876308714",
+        "citation_ar": "Pocket Guide For Textbook Of Pharmocotherapy. بقلم David Rosenberg. (1997). — Routledge. ردمك: 9780876308714"
+      },
+      {
+        "reference_title": "Definitions and mechanisms of drug hypersensitivity",
+        "reference_url": "https://doi.org/10.1586/ecp.10.32",
+        "citation_en": "Bettina Wedi. \"Definitions and mechanisms of drug hypersensitivity\". crossref, 2010.",
+        "citation_ar": "بتينا ويد. \"التعاريف والآليات الخاصة بفرط الحساسية للأدوية\". Crossref، 2010."
+      },
+      {
+        "reference_title": "Past, present, and future of FGFR inhibitors in cholangiocarcinoma: from biological mechanisms to clinical applications",
+        "reference_url": "https://doi.org/10.1080/17512433.2023.2232302",
+        "citation_en": "Amadeo, E. et al. \"Past, present, and future of FGFR inhibitors in cholangiocarcinoma: from biological mechanisms to clinical applications\". *Crossref*, 2023.",
+        "citation_ar": "أماديو، إي. وآخرون. \"الماضي والحاضر والمستقبل لمثبطات مستقبلات عامل نمو الخلايا الليفية في سرطان القنوات الصفراوية: من الآليات البيولوجية إلى التطبيقات السريرية\". *Crossref*، 2023."
+      },
+      {
+        "reference_title": "Adverse events associated with nilotinib in chronic myeloid leukemia: mechanisms and management strategies",
+        "reference_url": "https://doi.org/10.1080/17512433.2021.1894129",
+        "citation_en": "Zeng Wang, Liyu Jiang, Hao Yan, Zhifei Xu, Peihua Luo. \"Adverse events associated with nilotinib in chronic myeloid leukemia: mechanisms and management strategies\". crossref, 2021.",
+        "citation_ar": "زينغ وانغ، لي يو جيانغ، هاو يان، جيفي شو، بي هوا ليو. \"الأحداث الضائرة المرتبطة بالنيلوتينيب في ابيضاض الدم النقوي المزمن: الآليات واستراتيجيات الإدارة\". Crossref، 2021."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Human Pathology: Disease Mechanisms at the Cellular Level",
+    "academic_concept_ar": "علم الأمراض البشري: آليات المرض على المستوى الخلوي.",
+    "concept_url_en": "https://smarticle.tech/en/article/human-pathology-disease-mechanisms-at-the-cellular-level-202605190457",
+    "concept_url_ar": "https://smarticle.tech/ar/article/human-pathology-disease-mechanisms-at-the-cellular-level-202605190457",
+    "subcategory": "Medical Laboratories",
+    "references": [
+      {
+        "reference_title": "Introduction to Human Disease",
+        "reference_url": "https://openlibrary.org/works/OL21062938W",
+        "citation_en": "Introduction to Human Disease. by Agnes G. Loeffler, Michael N. Hart. (2012). — Jones & Bartlett Learning, LLC. ISBN: 1449690661",
+        "citation_ar": "Introduction to Human Disease. بقلم Agnes G. Loeffler، Michael N. Hart. (2012). — Jones & Bartlett Learning, LLC. ردمك: 1449690661"
+      },
+      {
+        "reference_title": "Pathophysiology of disease",
+        "reference_url": "https://openlibrary.org/works/OL18403508W",
+        "citation_en": "Pathophysiology of disease. by Stephen J. McPhee, Vishwanath R. Lingappa, Ganong, William F.. (2002). — Lange Medical Books/McGraw-Hill. ISBN: 007121240X",
+        "citation_ar": "Pathophysiology of disease. بقلم Stephen J. McPhee، Vishwanath R. Lingappa، Ganong, William F.. (2002). — Lange Medical Books/McGraw-Hill. ردمك: 007121240X"
+      },
+      {
+        "reference_title": "An introduction to human disease",
+        "reference_url": "https://archive.org/details/introductiontohu0000crow_j5v7",
+        "citation_en": "An introduction to human disease. by Leonard V. Crowley. (2004). — Jones and Bartlett. ISBN: 0763707279",
+        "citation_ar": "An introduction to human disease. بقلم Leonard V. Crowley. (2004). — Jones and Bartlett. ردمك: 0763707279"
+      },
+      {
+        "reference_title": "Neurobiology of the locus coeruleus",
+        "reference_url": "https://archive.org/details/transductioncell0000unse",
+        "citation_en": "Neurobiology of the locus coeruleus. by Jochen Klein. (1996). — Elsevier Science. ISBN: 9780444801043",
+        "citation_ar": "Neurobiology of the locus coeruleus. بقلم Jochen Klein. (1996). — Elsevier Science. ردمك: 9780444801043"
+      },
+      {
+        "reference_title": "Cellular and Molecular Mechanisms of Autoimmune Disease",
+        "reference_url": "https://doi.org/10.1177/0192623311428481",
+        "citation_en": "Brad Bolon. \"Cellular and Molecular Mechanisms of Autoimmune Disease\". crossref, 2011.",
+        "citation_ar": "براد بولون. \"الآليات الخلوية والجزيئية لأمراض المناعة الذاتية\". كروسريف، 2011."
+      },
+      {
+        "reference_title": "Animal and cellular models of human disease",
+        "reference_url": "https://doi.org/10.1002/path.4662",
+        "citation_en": "Mark J Arends, Eric S White, C Bruce A Whitelaw. \"Animal and cellular models of human disease\". crossref, 2015.",
+        "citation_ar": "مارك ج. آ renderز، إريك س. وايت، سي بروس أ. وايتلاو. \"النماذج الحيوانية والخلوية لأمراض الإنسان\". كروسريف، 2015."
+      },
+      {
+        "reference_title": "Mechanisms of intracellular compartmentalization and disease",
+        "reference_url": "https://doi.org/10.1016/j.ejcb.2015.06.008",
+        "citation_en": "Roland Lill. \"Mechanisms of intracellular compartmentalization and disease\". *European Journal of Cell Biology*, 2015.",
+        "citation_ar": "رولاند ليل. \"آليات التوزع intracellular والتخصص المرضي\". *المجلة الأوروبية لعلم الخلية البيولوجي*، 2015."
+      },
+      {
+        "reference_title": "Cellular and molecular mechanisms of fibrosis",
+        "reference_url": "https://doi.org/10.1002/path.2277",
+        "citation_en": "TA Wynn. \"Cellular and molecular mechanisms of fibrosis\". Pathology, 2007.",
+        "citation_ar": "ت. أ. وين. \"الآليات الخلوية والجزيئية للتليف\". علم الأمراض، 2007."
+      },
+      {
+        "reference_title": "Cellular change in human disease",
+        "reference_url": "https://doi.org/10.1016/s0046-8177(73)80050-4",
+        "citation_en": "Trump, B. F. et al. \"Cellular change in human disease\". *Human Pathology*, 1973.",
+        "citation_ar": "ترامب، ب. ف. وآخرون. \"التغيرات الخلوية في أمراض الإنسان\". *علم الأمراض البشري*، 1973."
+      },
+      {
+        "reference_title": "Faculty Opinions recommendation of Behind the smile: cell biology and disease mechanisms of Giardia species.",
+        "reference_url": "https://doi.org/10.3410/f.720772355.793506215",
+        "citation_en": "R Balfour Sartor. \"Behind the smile: cell biology and disease mechanisms of Giardia species\". crossref, 2015.",
+        "citation_ar": "ر. بالفور سارتور. \"وراء الابتسامة: علم الخلية وآليات المرض لأنواع الجياردي\". كروسريف، 2015."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Clinical Pharmacology: Drug Mechanisms, Pharmacokinetics, and Therapeutic Applications",
+    "academic_concept_ar": "الصيدلة السريرية: آليات الأدوية، الحركية الدوائية، والتطبيقات العلاجية.",
+    "concept_url_en": "https://smarticle.tech/en/article/clinical-pharmacology-drug-mechanisms-pharmacokinetics-and-therapeutic-appl-202605190512",
+    "concept_url_ar": "https://smarticle.tech/ar/article/clinical-pharmacology-drug-mechanisms-pharmacokinetics-and-therapeutic-appl-202605190512",
+    "subcategory": "Pharmacy",
+    "references": [
+      {
+        "reference_title": "Galen On the natural faculties",
+        "reference_url": "https://archive.org/details/hippocraticwriti030332mbp",
+        "citation_en": "Galen On the natural faculties. by Galen, Arthur John Brock, Paul Boer. (1916). — Harvard University Press. ISBN: 1017037450",
+        "citation_ar": "Galen On the natural faculties. بقلم Galen، Arthur John Brock، Paul Boer. (1916). — Harvard University Press. ردمك: 1017037450"
+      },
+      {
+        "reference_title": "Therapeutics",
+        "reference_url": "https://archive.org/details/b20409278",
+        "citation_en": "Therapeutics. by Horatio C. Wood, Jr.. (1874). — J.B Lippincott. ISBN: 9781020785771",
+        "citation_ar": "Therapeutics. بقلم Horatio C. Wood, Jr.. (1874). — J.B Lippincott. ردمك: 9781020785771"
+      },
+      {
+        "reference_title": "Handbook of Pharmaceutical Manufacturing Formulations, Third Edition",
+        "reference_url": "https://openlibrary.org/works/OL20744968W",
+        "citation_en": "Handbook of Pharmaceutical Manufacturing Formulations, Third Edition. by Sarfaraz K. Niazi. (2019). — CRC Press LLC. ISBN: 9781138103306",
+        "citation_ar": "Handbook of Pharmaceutical Manufacturing Formulations, Third Edition. بقلم Sarfaraz K. Niazi. (2019). — CRC Press LLC. ردمك: 9781138103306"
+      },
+      {
+        "reference_title": "The Mechanics of Inhaled Pharmaceutical Aerosols",
+        "reference_url": "https://archive.org/details/mechanicsofinhal0000finl",
+        "citation_en": "The Mechanics of Inhaled Pharmaceutical Aerosols. by Warren H. Finlay. (2001). — Elsevier Science & Technology Books. ISBN: 0081027494",
+        "citation_ar": "The Mechanics of Inhaled Pharmaceutical Aerosols. بقلم Warren H. Finlay. (2001). — Elsevier Science & Technology Books. ردمك: 0081027494"
+      },
+      {
+        "reference_title": "Antifungals: Drug Class, Mechanisms of Action, Pharmacokinetics/Pharmacodynamics, Drug-Drug Interactions, Toxicity, and Clinical Use",
+        "reference_url": "https://doi.org/10.1128/9781555817176.ch22",
+        "citation_en": "Nett, Jeniel E., and David R. Andes. \"Antifungals: Drug Class, Mechanisms of Action, Pharmacokinetics/Pharmacodynamics, Drug-Drug Interactions, Toxicity, and Clinical Use\". *Crossref*, 2014.",
+        "citation_ar": "نيت، جينييل إي.، وديفيد آر. أنديز. \"مضادات الفطريات: الفئة الدوائية، آليات العمل، الحركية الدوائية/الديناميكية الدوائية، التفاعلات الدوائية الدوائية، السمية، والاستخدام السريري\". *كروسرف*، 2014."
+      },
+      {
+        "reference_title": "Handbook of Basic Pharmacokinetics … Including Clinical Applications",
+        "reference_url": "https://doi.org/10.1097/00007691-198709000-00019",
+        "citation_en": "Reed, Michael D. \"Handbook of Basic Pharmacokinetics … Including Clinical Applications\". *crossref*, 1987.",
+        "citation_ar": "ريد، مايكل دي. \"دليل الحركيات الدوائية الأساسية … بما في ذلك التطبيقات السريرية\". *كروسرف*، 1987."
+      },
+      {
+        "reference_title": "Definitions and mechanisms of drug hypersensitivity",
+        "reference_url": "https://doi.org/10.1586/ecp.10.32",
+        "citation_en": "Bettina Wedi. \"Definitions and mechanisms of drug hypersensitivity\". crossref, 2010.",
+        "citation_ar": "بيتينا ويد. \"التعاريف وآليات فرط الحساسية للدواء\". *كروسرف*، 2010."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Drug Interactions and Adverse Effects: Classification, Mechanisms, and Clinical Management",
+    "academic_concept_ar": "التفاعلات الدوائية والآثار السلبية: التصنيف، الآليات، والإدارة السريرية.",
+    "concept_url_en": "https://smarticle.tech/en/article/drug-interactions-and-adverse-effects-classification-mechanisms-and-clinica-202605190528",
+    "concept_url_ar": "https://smarticle.tech/ar/article/drug-interactions-and-adverse-effects-classification-mechanisms-and-clinica-202605190528",
+    "subcategory": "Pharmacy",
+    "references": [
+      {
+        "reference_title": "Encyclopedia of drug metabolism and interactions",
+        "reference_url": "https://openlibrary.org/works/OL16695147W",
+        "citation_en": "Encyclopedia of drug metabolism and interactions. by Alexander V. Lyubimov. (2012). — Wiley & Sons, Incorporated, John. ISBN: 1118149769",
+        "citation_ar": "Encyclopedia of drug metabolism and interactions. بقلم Alexander V. Lyubimov. (2012). — Wiley & Sons, Incorporated, John. ردمك: 1118149769"
+      },
+      {
+        "reference_title": "Managing clinically important drug interactions",
+        "reference_url": "https://archive.org/details/managingclinical0000hans",
+        "citation_en": "Managing clinically important drug interactions. by Philip D. Hansten, John R Horn. (2002). — Facts & Comparisons. ISBN: 1574391380",
+        "citation_ar": "Managing clinically important drug interactions. بقلم Philip D. Hansten، John R Horn. (2002). — Facts & Comparisons. ردمك: 1574391380"
+      },
+      {
+        "reference_title": "Drug interactions",
+        "reference_url": "https://archive.org/details/druginteractions00hans",
+        "citation_en": "Drug interactions. by Philip D. Hansten, John R Horn. (1971). — Lippincott Williams & Wilkins. ISBN: 9780812104325",
+        "citation_ar": "Drug interactions. بقلم Philip D. Hansten، John R Horn. (1971). — Lippincott Williams & Wilkins. ردمك: 9780812104325"
+      },
+      {
+        "reference_title": "Meyler's side effects of drugs",
+        "reference_url": "https://archive.org/details/meylerssideeffec0000meyl",
+        "citation_en": "Meyler's side effects of drugs. by Leopold Meyler, M. N. Dukes, Leopold Meyler. (1952). — Excerpta Medica. ISBN: 0444151761",
+        "citation_ar": "Meyler's side effects of drugs. بقلم Leopold Meyler، M. N. Dukes، Leopold Meyler. (1952). — Excerpta Medica. ردمك: 0444151761"
+      },
+      {
+        "reference_title": "Food-Medication Interactions",
+        "reference_url": "https://archive.org/details/foodmedicationin0000pron",
+        "citation_en": "Food-Medication Interactions. by Zaneta M. Pronsky, Jeanne Crowe, Solomon Epstein. (1995). — Food Medication Interactions. ISBN: 0971089612",
+        "citation_ar": "Food-Medication Interactions. بقلم Zaneta M. Pronsky، Jeanne Crowe، Solomon Epstein. (1995). — Food Medication Interactions. ردمك: 0971089612"
+      },
+      {
+        "reference_title": "Safer prescribing",
+        "reference_url": "https://openlibrary.org/works/OL6727473W",
+        "citation_en": "Safer prescribing. by Linda Beeley. (1975). — distributed in U.S. by J. B. Lippincott. ISBN: 9780632017942",
+        "citation_ar": "Safer prescribing. بقلم Linda Beeley. (1975). — distributed in U.S. by J. B. Lippincott. ردمك: 9780632017942"
+      },
+      {
+        "reference_title": "Drug-induced ocular side effects and drug interactions",
+        "reference_url": "https://archive.org/details/druginducedocula0000frau_y9c9",
+        "citation_en": "Drug-induced ocular side effects and drug interactions. by Frederick T. Fraunfelder. (1976). — Lea & Febiger. ISBN: 0812111915",
+        "citation_ar": "Drug-induced ocular side effects and drug interactions. بقلم Frederick T. Fraunfelder. (1976). — Lea & Febiger. ردمك: 0812111915"
+      },
+      {
+        "reference_title": "Mechanistic and clinical descriptions of adverse drug reactions",
+        "reference_url": "https://doi.org/10.1016/b978-0-444-53741-6.00059-3",
+        "citation_en": "Mechanistic and clinical descriptions of adverse drug reactions. Crossref, 2011.",
+        "citation_ar": "الأوصاف الميكانيكية والإكلينيكية للتفاعلات الدوائية الضائرة. Crossref، 2011."
+      },
+      {
+        "reference_title": "Mechanisms of Drug Interactions I: Absorption, Metabolism, and Excretion",
+        "reference_url": "https://doi.org/10.1007/978-3-319-72422-5_2",
+        "citation_en": "Burger, David M., et al. \"Mechanisms of Drug Interactions I: Absorption, Metabolism, and Excretion\". crossref, 2018.",
+        "citation_ar": "برغر، ديفيد إم.، وآخرون. \"آليات التفاعلات الدوائية الأولى: الامتصاص، الاستقلاب، والإفراز\". Crossref، 2018."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Pharmaceutical Forms and Drug Delivery Systems: Oral, Injectable, and Topical Routes",
+    "academic_concept_ar": "الأشكال الصيدلانية وأنظمة توصيل الأدوية: الفموية، القابلة للحقن، والموضعية.",
+    "concept_url_en": "https://smarticle.tech/en/article/pharmaceutical-forms-and-drug-delivery-systems-oral-injectable-and-topical--202605190543",
+    "concept_url_ar": "https://smarticle.tech/ar/article/pharmaceutical-forms-and-drug-delivery-systems-oral-injectable-and-topical--202605190543",
+    "subcategory": "Pharmacy",
+    "references": [
+      {
+        "reference_title": "Handbook of Pharmaceutical Manufacturing Formulations, Third Edition",
+        "reference_url": "https://openlibrary.org/works/OL20744968W",
+        "citation_en": "Handbook of Pharmaceutical Manufacturing Formulations, Third Edition. by Sarfaraz K. Niazi. (2019). — CRC Press LLC. ISBN: 9781138103306",
+        "citation_ar": "Handbook of Pharmaceutical Manufacturing Formulations, Third Edition. بقلم Sarfaraz K. Niazi. (2019). — CRC Press LLC. ردمك: 9781138103306"
+      },
+      {
+        "reference_title": "ISPE Good Practice Guide",
+        "reference_url": "https://openlibrary.org/works/OL27953090W",
+        "citation_en": "ISPE Good Practice Guide. by Ispe. (2007). — International Society for Pharmaceutical Engineering. ISBN: 1946964484",
+        "citation_ar": "ISPE Good Practice Guide. بقلم Ispe. (2007). — International Society for Pharmaceutical Engineering. ردمك: 1946964484"
+      },
+      {
+        "reference_title": "Pharmaceutical Dosage Forms - Tablets",
+        "reference_url": "https://openlibrary.org/works/OL21008412W",
+        "citation_en": "Pharmaceutical Dosage Forms - Tablets. by Larry L. Augsburger, Stephen W. Hoag. (2008). — Taylor & Francis Group. ISBN: 0429191154",
+        "citation_ar": "Pharmaceutical Dosage Forms - Tablets. بقلم Larry L. Augsburger، Stephen W. Hoag. (2008). — Taylor & Francis Group. ردمك: 0429191154"
+      },
+      {
+        "reference_title": "Generic drug product development",
+        "reference_url": "https://openlibrary.org/works/OL1995277W",
+        "citation_en": "Generic drug product development. by Leon Shargel, Isadore Kanfer. (2007). — Informa Healthcare. ISBN: 9781420020014",
+        "citation_ar": "Generic drug product development. بقلم Leon Shargel، Isadore Kanfer. (2007). — Informa Healthcare. ردمك: 9781420020014"
+      },
+      {
+        "reference_title": "Introduction to pharmaceutical dosage forms",
+        "reference_url": "https://archive.org/details/introductiontoph0000anse_o3i2",
+        "citation_en": "Introduction to pharmaceutical dosage forms. by Howard C. Ansel. (1969). — Lea & Febiger. ISBN: 0812100050",
+        "citation_ar": "Introduction to pharmaceutical dosage forms. بقلم Howard C. Ansel. (1969). — Lea & Febiger. ردمك: 0812100050"
+      },
+      {
+        "reference_title": "Pharmaceutical Dosage Forms",
+        "reference_url": "https://openlibrary.org/works/OL8164621W",
+        "citation_en": "Pharmaceutical Dosage Forms. by Herbert Lieberman. (1998). — Taylor & Francis Group. ISBN: 1000148416",
+        "citation_ar": "Pharmaceutical Dosage Forms. بقلم Herbert Lieberman. (1998). — Taylor & Francis Group. ردمك: 1000148416"
+      },
+      {
+        "reference_title": "Drug delivery",
+        "reference_url": "https://openlibrary.org/works/OL16938027W",
+        "citation_en": "Drug delivery. by Binghe Wang. (2005). — Wiley & Sons, Incorporated, John. ISBN: 9781280275449",
+        "citation_ar": "Drug delivery. بقلم Binghe Wang. (2005). — Wiley & Sons, Incorporated, John. ردمك: 9781280275449"
+      },
+      {
+        "reference_title": "Introduction to clinical pharmaceutics",
+        "reference_url": "https://openlibrary.org/works/OL19858903W",
+        "citation_en": "Introduction to clinical pharmaceutics. by A. T. Florence. (2009). — Pharmaceutical Press. ISBN: 085369964X",
+        "citation_ar": "Introduction to clinical pharmaceutics. بقلم A. T. Florence. (2009). — Pharmaceutical Press. ردمك: 085369964X"
+      },
+      {
+        "reference_title": "Protein and Peptide Drug Delivery",
+        "reference_url": "https://doi.org/10.1201/b12122-29",
+        "citation_en": "Parry, R. J. \"Protein and Peptide Drug Delivery\". crossref, 2011.",
+        "citation_ar": "بارري، ر. ج. \"توصيل الأدوية البروتينية والببتيدية\". كروسريف، 2011."
+      },
+      {
+        "reference_title": "Drug Delivery Systems",
+        "reference_url": "https://doi.org/10.1201/b12122-19",
+        "citation_en": "Ram I. Mahato, Ajit S. Narang, Virender Kumar. \"Drug Delivery Systems\". crossref, 2024.",
+        "citation_ar": "رام آي. ماهاتو، أجيت إس. نارانج، فيرندر كومار. \"أنظمة توصيل الأدوية\". كروسريف، 2024."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Therapeutic Nutrition in Chronic Disease: Diabetes, Renal Failure, and Cardiovascular Conditions",
+    "academic_concept_ar": "التغذية العلاجية في الأمراض المزمنة: السكري، الفشل الكلوي، وحالات القلب والأوعية الدموية.",
+    "concept_url_en": "https://smarticle.tech/en/article/therapeutic-nutrition-in-chronic-disease-diabetes-renal-failure-and-cardiov-202605190600",
+    "concept_url_ar": "https://smarticle.tech/ar/article/therapeutic-nutrition-in-chronic-disease-diabetes-renal-failure-and-cardiov-202605190600",
+    "subcategory": "Clinical Nutrition",
+    "references": [
+      {
+        "reference_title": "Nutrition therapy for chronic kidney disease",
+        "reference_url": "https://archive.org/details/nutritiontherapy0000unse_j7y4",
+        "citation_en": "Nutrition therapy for chronic kidney disease. by Lynn K. Thomas, Jennifer Bohnstadt Othersen. (2012). — Taylor & Francis Group. ISBN: 9780429109980",
+        "citation_ar": "Nutrition therapy for chronic kidney disease. بقلم Lynn K. Thomas، Jennifer Bohnstadt Othersen. (2012). — Taylor & Francis Group. ردمك: 9780429109980"
+      },
+      {
+        "reference_title": "Guiding Principles for Developing Dietary Reference Intakes Based on Chronic Disease",
+        "reference_url": "https://openlibrary.org/works/OL21616801W",
+        "citation_en": "Guiding Principles for Developing Dietary Reference Intakes Based on Chronic Disease. by National Academies of Sciences, Engineering, and Medicine, Health and Medicine Division, Food and Nutrition Board. (2017). — National Academies Press. ISBN: 9780309462570",
+        "citation_ar": "Guiding Principles for Developing Dietary Reference Intakes Based on Chronic Disease. بقلم National Academies of Sciences, Engineering, and Medicine، Health and Medicine Division، Food and Nutrition Board. (2017). — National Academies Press. ردمك: 9780309462570"
+      },
+      {
+        "reference_title": "21 Things You Need to Know about Diabetes and Nutrition",
+        "reference_url": "https://archive.org/details/21thingsyouneedt0000dunb",
+        "citation_en": "21 Things You Need to Know about Diabetes and Nutrition. by Stephanie A. Dunbar, Cassandra L. Verdi. (2014). — American Diabetes Association. ISBN: 1580405908",
+        "citation_ar": "21 Things You Need to Know about Diabetes and Nutrition. بقلم Stephanie A. Dunbar، Cassandra L. Verdi. (2014). — American Diabetes Association. ردمك: 1580405908"
+      },
+      {
+        "reference_title": "Nutrition in Kidney Disease",
+        "reference_url": "https://openlibrary.org/works/OL20713466W",
+        "citation_en": "Nutrition in Kidney Disease. by Laura D. Byham-Gray, Jerrilynn D. Burrowes, Glenn M. Chertow. (2010). — Humana. ISBN: 1493956426",
+        "citation_ar": "Nutrition in Kidney Disease. بقلم Laura D. Byham-Gray، Jerrilynn D. Burrowes، Glenn M. Chertow. (2010). — Humana. ردمك: 1493956426"
+      },
+      {
+        "reference_title": "Nutritional management of renal disease",
+        "reference_url": "https://openlibrary.org/works/OL18295255W",
+        "citation_en": "Nutritional management of renal disease. by Shaul G. Massry. (1997). — Williams & Wilkins. ISBN: 0128185414",
+        "citation_ar": "Nutritional management of renal disease. بقلم Shaul G. Massry. (1997). — Williams & Wilkins. ردمك: 0128185414"
+      },
+      {
+        "reference_title": "Effects of Diet and Supplements on Parameters of Oxidative Stress, Inflammation, and Antioxidant Mechanisms in Patients with Chronic Renal Failure Und",
+        "reference_url": "https://doi.org/10.3390/ijms252011036",
+        "citation_en": "Anna Bogacka, M. Olszewska, Kazimierz Ciechanowski. \"Effects of Diet and Supplements on Parameters of Oxidative Stress, Inflammation, and Antioxidant Mechanisms in Patients with Chronic Renal Failure Undergoing Hemodialysis\". International Journal of Molecular Sciences, 2024.",
+        "citation_ar": "آنا بوجاتسكا، م. أولشفسكا، كازيميرز تشيخانوسكي. \"تأثيرات النظام الغذائي والمكملات الغذائية على معايير الإجهاد التأكسدي والالتهاب وآليات مضادات الأكسدة لدى المرضى الذين يعانون من الفشل الكلوي المزمن الخاضعين لغسيل الكلى\". مجلة العلوم الجزيئية الدولية، 2024."
+      },
+      {
+        "reference_title": "Prevalence of individuals with diabetes and chronic kidney disease indicated for finerenone treatment in the United States: A National Health and Nutr",
+        "reference_url": "https://doi.org/10.1111/dom.16006",
+        "citation_en": "Xiufang Kong, Wei Wang. \"Prevalence of individuals with diabetes and chronic kidney disease indicated for finerenone treatment in the United States: A National Health and Nutrition Examination Survey‐based estimation\". Diabetes, Obesity & Metabolism, 2024.",
+        "citation_ar": "شيوفانغ كونغ، وي وي. \"انتشار الأفراد المصابين بداء السكري والفشل الكلوي المزمن المؤهلين لعلاج فينيرينون في الولايات المتحدة: تقدير قائم على مسح الصحة والتغذية الوطنية\". داء السكري والسمنة وعلم الأيض، 2024."
+      },
+      {
+        "reference_title": "The Importance of Prognostic Nutritional Index in Predicting Acute Renal Failure After On-Pump Coronary Artery Bypass Operations in Patients with Insu",
+        "reference_url": "https://doi.org/10.1532/hsf.3859",
+        "citation_en": "A. Gucu, O. ozluk, O. Guvenc, S. Sunbul, M. Engin. \"The Importance of Prognostic Nutritional Index in Predicting Acute Renal Failure After On-Pump Coronary Artery Bypass Operations in Patients with Insulin-Dependent Diabetes Mellitus\". semantic_scholar_foundational, 2021.",
+        "citation_ar": "أ. غوجو، أو. أوزلوك، أو. غوفنك، س. سنبول، م. إنجين. \"أهمية مؤشر الحالة الغذائية الإنذاري في التنبؤ بالفشل الكلوي الحاد بعد عمليات مجازة الشريان التاجي باستخدام المضخة لدى المرضى الذين يعانون من داء السكري المعتمد على الأنسولين\". semantic_scholar_foundational، 2021."
+      },
+      {
+        "reference_title": "Guidelines for the Management of Adult Acute and Acute-on-Chronic Liver Failure in the ICU: Cardiovascular, Endocrine, Hematologic, Pulmonary, and Ren",
+        "reference_url": "https://doi.org/10.1097/CCM.0000000000004192",
+        "citation_en": "R. Nanchal, R. Subramanian, et al. \"Guidelines for the Management of Adult Acute and Acute-on-Chronic Liver Failure in the ICU: Cardiovascular, Endocrine, Hematologic, Pulmonary, and Renal Considerations\". *semantic_scholar_foundational*, 2020.",
+        "citation_ar": "ر. نانشل، ر. سوبرامانيان، وآخرون. \"الإرشادات الخاصة بإدارة الفشل الكبدي الحاد والفشل الكبدي الحاد على الفشل الكبدي المزمن لدى البالغين في وحدة العناية المركزة: اعتبارات القلب والأوعية الدموية، والغدد الصماء، والدم، والرئتين، والكلى\". *semantic_scholar_foundational*، 2020."
+      },
+      {
+        "reference_title": "Impact of Cardiovascular Organ Damage on Cortical Renal Perfusion in Patients with Chronic Renal Failure",
+        "reference_url": "https://doi.org/10.1155/2013/137868",
+        "citation_en": "Lubas A., Ryczek R., Kade G., Smoszna J., Niemczyk S. \"Impact of Cardiovascular Organ Damage on Cortical Renal Perfusion in Patients with Chronic Renal Failure\". semantic_scholar_foundational, 2013.",
+        "citation_ar": "لوباس أ.، ريتشيك ر.، كادي غ.، سموزنا ي.، نيمتشيك س. \"تأثير الأضرار العضوية القلبية على التروية الكلوية القشرية لدى المرضى الذين يعانون من الفشل الكلوي المزمن\". semantic_scholar_foundational، 2013."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Micronutrients in Health: Vitamins, Minerals, Deficiency Disorders, and Supplementation",
+    "academic_concept_ar": "العناصر الدقيقة في الصحة: الفيتامينات، المعادن، اضطرابات النقص، والمكملات.",
+    "concept_url_en": "https://smarticle.tech/en/article/micronutrients-in-health-vitamins-minerals-deficiency-disorders-and-supplem-202605190617",
+    "concept_url_ar": "https://smarticle.tech/ar/article/micronutrients-in-health-vitamins-minerals-deficiency-disorders-and-supplem-202605190617",
+    "subcategory": "Clinical Nutrition",
+    "references": [
+      {
+        "reference_title": "Advanced nutrition",
+        "reference_url": "https://archive.org/details/advancednutritio0000berd",
+        "citation_en": "Advanced nutrition. by Carolyn D. Berdanier, Janos Zempleni. (1995). — CRC. ISBN: 9781351990592",
+        "citation_ar": "Advanced nutrition. بقلم Carolyn D. Berdanier، Janos Zempleni. (1995). — CRC. ردمك: 9781351990592"
+      },
+      {
+        "reference_title": "Laboratory tests for the assessment of nutritional status",
+        "reference_url": "https://archive.org/details/laboratorytestsf0000saub_t2x5_2nded",
+        "citation_en": "Laboratory tests for the assessment of nutritional status. by Howerde E. Sauberlich. (1999). — CRC Press. ISBN: 9780849385063",
+        "citation_ar": "Laboratory tests for the assessment of nutritional status. بقلم Howerde E. Sauberlich. (1999). — CRC Press. ردمك: 9780849385063"
+      },
+      {
+        "reference_title": "Vitamins and minerals in the prevention and treatment of cancer",
+        "reference_url": "https://archive.org/details/vitaminsminerals0000unse_i2z2",
+        "citation_en": "Vitamins and minerals in the prevention and treatment of cancer. by Maryce M. Jacobs. (1991). — Taylor & Francis Group. ISBN: 9781351077590",
+        "citation_ar": "Vitamins and minerals in the prevention and treatment of cancer. بقلم Maryce M. Jacobs. (1991). — Taylor & Francis Group. ردمك: 9781351077590"
+      },
+      {
+        "reference_title": "Nutrients A-Z",
+        "reference_url": "https://archive.org/details/nutrientstozuser0000shar_c7t4",
+        "citation_en": "Nutrients A-Z. by Michael Sharon. (2004). — Prion. ISBN: 1853755265",
+        "citation_ar": "Nutrients A-Z. بقلم Michael Sharon. (2004). — Prion. ردمك: 1853755265"
+      },
+      {
+        "reference_title": "The benefits and risks of vitamins and minerals",
+        "reference_url": "https://openlibrary.org/works/OL39580705W",
+        "citation_en": "The benefits and risks of vitamins and minerals. by Francesca Coltrera. (2003). — Harvard Health Publications. ISBN: 9781933225388",
+        "citation_ar": "The benefits and risks of vitamins and minerals. بقلم Francesca Coltrera. (2003). — Harvard Health Publications. ردمك: 9781933225388"
+      },
+      {
+        "reference_title": "An introduction to vitamins, minerals and biological oxidation",
+        "reference_url": "https://openlibrary.org/works/OL13609282W",
+        "citation_en": "An introduction to vitamins, minerals and biological oxidation. by Stefan A. Hulea. (2008). — Universal Publishers. ISBN: 1599429462",
+        "citation_ar": "An introduction to vitamins, minerals and biological oxidation. بقلم Stefan A. Hulea. (2008). — Universal Publishers. ردمك: 1599429462"
+      },
+      {
+        "reference_title": "The suitability of chili pepper (Capsicum annuum L.) for alleviating human micronutrient dietary deficiencies: A review",
+        "reference_url": "https://doi.org/10.1002/fsn3.790",
+        "citation_en": "Olatunji, T., Afolayan, A. \"The suitability of chili pepper (Capsicum annuum L.) for alleviating human micronutrient dietary deficiencies: A review\". Food Science & Nutrition, 2018.",
+        "citation_ar": "أولاتونجي، ت.، أفولايان، أ. \"ملاءمة الفلفل الحار (Capsicum annuum L.) للتخفيف من أوجه القصور في المغذيات الدقيقة الغذائية البشرية: مراجعة\". *علوم وتغذية الأغذية*، 2018."
+      },
+      {
+        "reference_title": "Micronutrient deficiencies among preschool-aged children and women of reproductive age worldwide: a pooled analysis of individual-level data from popu",
+        "reference_url": "https://doi.org/10.1016/S2214-109X(22)00367-9",
+        "citation_en": "Gretchen A. Stevens, Ty Beal, et al. \"Micronutrient deficiencies among preschool-aged children and women of reproductive age worldwide\". *The Lancet Global Health*, 2022.",
+        "citation_ar": "غريتشن أ. ستيفنز، تاي بيل، وآخرون. \"أوجه القصور في المغذيات الدقيقة بين الأطفال في سن ما قبل المدرسة والنساء في سن الإنجاب على مستوى العالم\". *ذا لانسيت غلوبال هيلث*، 2022."
+      },
+      {
+        "reference_title": "Global estimation of dietary micronutrient inadequacies: a modelling analysis",
+        "reference_url": "https://doi.org/10.1016/S2214-109X(24)00276-6",
+        "citation_en": "Passarelli, S. et al. \"Global estimation of dietary micronutrient inadequacies\". *semantic_scholar_foundational*, 2024.",
+        "citation_ar": "باساريلي، س. وآخرون. \"التقدير العالمي لعدم كفاية المغذيات الدقيقة الغذائية\". *semantic_scholar_foundational*، 2024."
+      },
+      {
+        "reference_title": "Micronutrient Supplementation and Fortification Interventions on Health and Development Outcomes among Children Under-Five in Low- and Middle-Income C",
+        "reference_url": "https://doi.org/10.3390/nu12020289",
+        "citation_en": "Tam, E., Keats, E., Rind, F., Das, J. K., & Bhutta, Z. \"Micronutrient Supplementation and Fortification Interventions on Health and Development Outcomes among Children Under-Five in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis\". Nutrients, 2020.",
+        "citation_ar": "تام، إ.، كيتس، إ.، ريند، ف.، داس، ج. ك.، وبهوتا، ز. \"تأثيرات مكملات وتدعيم المغذيات الدقيقة على النتائج الصحية والتنموية بين الأطفال دون سن الخامسة في البلدان المنخفضة والمتوسطة الدخل: مراجعة منهجية وتحليل تلوي\". *نوترينتس*، 2020."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Obesity, Malnutrition, and Therapeutic Dietary Regimens: Evidence-Based Approaches",
+    "academic_concept_ar": "السمنة وسوء التغذية والأنظمة الغذائية العلاجية: نهج قائم على الأدلة.",
+    "concept_url_en": "https://smarticle.tech/en/article/obesity-malnutrition-and-therapeutic-dietary-regimens-evidence-based-approa-202605190629",
+    "concept_url_ar": "https://smarticle.tech/ar/article/obesity-malnutrition-and-therapeutic-dietary-regimens-evidence-based-approa-202605190629",
+    "subcategory": "Clinical Nutrition",
+    "references": [
+      {
+        "reference_title": "Case studies in physiology and nutrition",
+        "reference_url": "https://openlibrary.org/works/OL18772085W",
+        "citation_en": "Case studies in physiology and nutrition. by Lynne Berdanier. (2009). — Taylor & Francis Group. ISBN: 1420088785",
+        "citation_ar": "Case studies in physiology and nutrition. بقلم Lynne Berdanier. (2009). — Taylor & Francis Group. ردمك: 1420088785"
+      },
+      {
+        "reference_title": "Scientific evidence for musculoskeletal, bariatric, and sports nutrition",
+        "reference_url": "https://archive.org/details/scientificeviden00kohl",
+        "citation_en": "Scientific evidence for musculoskeletal, bariatric, and sports nutrition. by Ingrid Kohlstadt. (2006). — Taylor & Francis Group. ISBN: 1420019325",
+        "citation_ar": "Scientific evidence for musculoskeletal, bariatric, and sports nutrition. بقلم Ingrid Kohlstadt. (2006). — Taylor & Francis Group. ردمك: 1420019325"
+      },
+      {
+        "reference_title": "A.S.P.E.N. fluids, electrolytes, and acid-base disorders handbook",
+        "reference_url": "https://openlibrary.org/works/OL32150585W",
+        "citation_en": "A.S.P.E.N. fluids, electrolytes, and acid-base disorders handbook. by Todd Canada, Sharla K. Tajchman, Anne M. Tucker. (2015). — American Society for Parenteral and Enteral Nutrition. ISBN: 9781889622187",
+        "citation_ar": "A.S.P.E.N. fluids, electrolytes, and acid-base disorders handbook. بقلم Todd Canada، Sharla K. Tajchman، Anne M. Tucker. (2015). — American Society for Parenteral and Enteral Nutrition. ردمك: 9781889622187"
+      },
+      {
+        "reference_title": "Diet, nutrition, and immunity",
+        "reference_url": "https://archive.org/details/dietnutritionimm0000unse",
+        "citation_en": "Diet, nutrition, and immunity. by R. Armour Forse. (1994). — CRC Press. ISBN: 9781351088299",
+        "citation_ar": "Diet, nutrition, and immunity. بقلم R. Armour Forse. (1994). — CRC Press. ردمك: 9781351088299"
+      },
+      {
+        "reference_title": "Disease-related Malnutrition: An Evidence-based Approach to Treatment",
+        "reference_url": "https://doi.org/10.1016/j.clnu.2003.08.003",
+        "citation_en": "Camilo, Maria E. \"Disease-related Malnutrition: An Evidence-based Approach to Treatment\". Clinical Nutrition, 2003.",
+        "citation_ar": "كاميلو، ماريا إي. \"سوء التغذية المرتبط بالأمراض: نهج قائم على الأدلة للعلاج\". *التغذية السريرية*، 2003."
+      },
+      {
+        "reference_title": "Evidence-based diabetes nutrition therapy recommendations are effective: the key is individualization",
+        "reference_url": "https://doi.org/10.2147/dmso.s45140",
+        "citation_en": "Franz M, Boucher JL, Evert AB. \"Evidence-based diabetes nutrition therapy recommendations are effective: the key is individualization\". crossref, 2014.",
+        "citation_ar": "فرانز، إم، بوشيه، جاي إل، إيفرت، إيه بي. \"توصيات علاج التغذية لمرض السكري القائمة على الأدلة فعالة: المفتاح هو التخصيص\". *كروسريف*، 2014."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Anxiety Disorders: Classification, Neurobiology, and Evidence-Based Treatment",
+    "academic_concept_ar": "اضطرابات القلق: التصنيف، علم الأعصاب، والعلاج القائم على الأدلة.",
+    "concept_url_en": "https://smarticle.tech/en/article/anxiety-disorders-classification-neurobiology-and-evidence-based-treatment-202605190647",
+    "concept_url_ar": "https://smarticle.tech/ar/article/anxiety-disorders-classification-neurobiology-and-evidence-based-treatment-202605190647",
+    "subcategory": "Psychiatry",
+    "references": [
+      {
+        "reference_title": "A Short Introduction to Helping Young People Manage Anxiety",
+        "reference_url": "https://archive.org/details/shortintroductio0000fitz",
+        "citation_en": "A Short Introduction to Helping Young People Manage Anxiety. by Carol Fitzpatrick. (2015). — Jessica Kingsley Publishers. ISBN: 9780857009890",
+        "citation_ar": "A Short Introduction to Helping Young People Manage Anxiety. بقلم Carol Fitzpatrick. (2015). — Jessica Kingsley Publishers. ردمك: 9780857009890"
+      },
+      {
+        "reference_title": "Introduction to Coping with Health Anxiety",
+        "reference_url": "https://archive.org/details/introductiontoco0000hoga_i1w6",
+        "citation_en": "Introduction to Coping with Health Anxiety. by Charles Young, Brenda Hogan. (2013). — Little, Brown Book Group Limited. ISBN: 9781472109545",
+        "citation_ar": "Introduction to Coping with Health Anxiety. بقلم Charles Young، Brenda Hogan. (2013). — Little, Brown Book Group Limited. ردمك: 9781472109545"
+      },
+      {
+        "reference_title": "Anxiety disorders",
+        "reference_url": "https://archive.org/details/anxietydisorders0000unse_g2m7",
+        "citation_en": "Anxiety disorders. by E. J. L. Griez. (2000). — Wiley. ISBN: 9781280555381",
+        "citation_ar": "Anxiety disorders. بقلم E. J. L. Griez. (2000). — Wiley. ردمك: 9781280555381"
+      },
+      {
+        "reference_title": "CALMING THE BRAIN: BENZODIAZEPINES AND RELATED DRUGS FROM LABORATORY TO CLINIC",
+        "reference_url": "https://openlibrary.org/works/OL13620700W",
+        "citation_en": "CALMING THE BRAIN: BENZODIAZEPINES AND RELATED DRUGS FROM LABORATORY TO CLINIC. by Adam Doble, Adam Doble, Ian Martin. (2003). — MARTIN DUNITZ. ISBN: 1841840521",
+        "citation_ar": "CALMING THE BRAIN: BENZODIAZEPINES AND RELATED DRUGS FROM LABORATORY TO CLINIC. بقلم Adam Doble، Adam Doble، Ian Martin. (2003). — MARTIN DUNITZ. ردمك: 1841840521"
+      },
+      {
+        "reference_title": "An introduction to coping with health anxiety",
+        "reference_url": "https://archive.org/details/introductiontoco0000hoga_f5q5",
+        "citation_en": "An introduction to coping with health anxiety. by Brenda Hogan. (2007). — Robinson. ISBN: 1845292871",
+        "citation_ar": "An introduction to coping with health anxiety. بقلم Brenda Hogan. (2007). — Robinson. ردمك: 1845292871"
+      },
+      {
+        "reference_title": "The Neurobiology of Anxiety and Anxiety-Related Disorders: A Functional Neuroimaging Perspective",
+        "reference_url": "https://doi.org/10.1016/b978-012481460-8/50023-8",
+        "citation_en": "Chua, P., Dolan, R.J. \"The Neurobiology of Anxiety and Anxiety-Related Disorders: A Functional Neuroimaging Perspective\". *Crossref*, 2000.",
+        "citation_ar": "تشوا، بّي، دولان، ر. ج. \"علم الأعصاب للقلق والاضطرابات المرتبطة بالقلق: منظور التصوير العصبي الوظيفي\". *كروسرف*، 2000."
+      },
+      {
+        "reference_title": "Proposed Revisions in the DSM-III Classification of Anxiety Disorders Based on Research and Clinical Experience",
+        "reference_url": "https://doi.org/10.1007/978-1-4684-5254-9_1",
+        "citation_en": "Spitzer, Robert L., and Janet B. W. Williams. \"Proposed Revisions in the DSM-III Classification of Anxiety Disorders Based on Research and Clinical Experience\". crossref, 1986.",
+        "citation_ar": "سبيتزر، روبرت إل، وجانيت بّي دبليو ويليامز. \"التعديلات المقترحة في تصنيف الدليل التشخيصي والإحصائي للاضطرابات العقلية (الطبعة الثالثة) للاضطرابات القلق بناءً على الأبحاث والخبرة السريرية\". *كروسرف*، 1986."
+      },
+      {
+        "reference_title": "Diagnostic Classification of Anxiety Disorders: DSM-V and Beyond",
+        "reference_url": "https://doi.org/10.1093/med/9780199798261.003.0037",
+        "citation_en": "Stein, Murray B., and O. Joseph Bienvenu. \"Diagnostic Classification of Anxiety Disorders: DSM-V and Beyond\". crossref, 2011.",
+        "citation_ar": "شتاين، موراي بّي، وبيينفينيو، أو. جوزيف. \"التصنيف التشخيصي للاضطرابات القلق: الدليل التشخيصي والإحصائي الخامس وما بعده\". *كروسرف*، 2011."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Mood Disorders: Depression, Bipolar Disorder, and Pharmacological Management",
+    "academic_concept_ar": "اضطرابات المزاج: الاكتئاب، اضطراب ثنائي القطب، والإدارة الدوائية.",
+    "concept_url_en": "https://smarticle.tech/en/article/mood-disorders-depression-bipolar-disorder-and-pharmacological-management-202605190703",
+    "concept_url_ar": "https://smarticle.tech/ar/article/mood-disorders-depression-bipolar-disorder-and-pharmacological-management-202605190703",
+    "subcategory": "Psychiatry",
+    "references": [
+      {
+        "reference_title": "Cognitive therapy and the emotional disorders",
+        "reference_url": "https://archive.org/details/cognitivetherapy0000beck_e3y7",
+        "citation_en": "Cognitive therapy and the emotional disorders. by Aaron T. Beck. (1976). — Plume. ISBN: 0452009286",
+        "citation_ar": "Cognitive therapy and the emotional disorders. بقلم Aaron T. Beck. (1976). — Plume. ردمك: 0452009286"
+      },
+      {
+        "reference_title": "Clinician's Guide to Bipolar Disorder",
+        "reference_url": "https://archive.org/details/cliniciansguidet0000mikl",
+        "citation_en": "Clinician's Guide to Bipolar Disorder. by David J. Miklowitz, Michael J. Gitlin. (2014). — The Guilford Press. ISBN: 9781462515745",
+        "citation_ar": "Clinician's Guide to Bipolar Disorder. بقلم David J. Miklowitz، Michael J. Gitlin. (2014). — The Guilford Press. ردمك: 9781462515745"
+      },
+      {
+        "reference_title": "Pharmacotherapy of bipolar disorders",
+        "reference_url": "https://archive.org/details/pharmacotherapyo0000aubr",
+        "citation_en": "Pharmacotherapy of bipolar disorders. by Jean-Michel Aubry, Francois Ferrero, Nicolas Schaad. (2007). — John Wiley & Sons. ISBN: 0470510420",
+        "citation_ar": "Pharmacotherapy of bipolar disorders. بقلم Jean-Michel Aubry، Francois Ferrero، Nicolas Schaad. (2007). — John Wiley & Sons. ردمك: 0470510420"
+      },
+      {
+        "reference_title": "Side Affects",
+        "reference_url": "https://openlibrary.org/works/OL26763801W",
+        "citation_en": "Side Affects. by Hil Malatino. (2022). — Tantor Audio. ISBN: 9781038400895",
+        "citation_ar": "Side Affects. بقلم Hil Malatino. (2022). — Tantor Audio. ردمك: 9781038400895"
+      },
+      {
+        "reference_title": "Mental Helth Workbook",
+        "reference_url": "https://openlibrary.org/works/OL26007680W",
+        "citation_en": "Mental Helth Workbook. by Social World Press. (2021). — Independently Published. ISBN: 9798542851853",
+        "citation_ar": "Mental Helth Workbook. بقلم Social World Press. (2021). — Independently Published. ردمك: 9798542851853"
+      },
+      {
+        "reference_title": "Bipolar disorder for dummies",
+        "reference_url": "https://archive.org/details/bipolardisorderf0000fink_e9z2",
+        "citation_en": "Bipolar disorder for dummies. by Candida Fink. (2007). — Wiley. ISBN: 9781119121862",
+        "citation_ar": "Bipolar disorder for dummies. بقلم Candida Fink. (2007). — Wiley. ردمك: 9781119121862"
+      },
+      {
+        "reference_title": "Madness",
+        "reference_url": "https://archive.org/details/madnessbipolarli0000horn_h9r3",
+        "citation_en": "Madness. by Marya Hornbacher. (2008). — Hmh Audio. ISBN: 9781433212352",
+        "citation_ar": "Madness. بقلم Marya Hornbacher. (2008). — Hmh Audio. ردمك: 9781433212352"
+      },
+      {
+        "reference_title": "Truants from life",
+        "reference_url": "https://archive.org/details/truantsfromlifer00bettrich",
+        "citation_en": "Truants from life. by Bruno Bettelheim, Bruno Bettelheim. (1955). — Free Press of Glencoe. ISBN: 0029034507",
+        "citation_ar": "Truants from life. بقلم Bruno Bettelheim، Bruno Bettelheim. (1955). — Free Press of Glencoe. ردمك: 0029034507"
+      },
+      {
+        "reference_title": "Mood‐stabilizing pharmacological treatment in bipolar disorders and risk of suicide",
+        "reference_url": "https://doi.org/10.1111/j.1399-5618.2008.00464.x",
+        "citation_en": "Lars Søndergård et al. \"Mood‐stabilizing pharmacological treatment in bipolar disorders and risk of suicide\". *crossref*, 2008.",
+        "citation_ar": "لارس سونديرغارد وآخرون. \"العلاج الدوائي المستقر للمزاج في الاضطرابات ثنائية القطب وخطر الانتحار\". *كروسريف*، 2008."
+      },
+      {
+        "reference_title": "Faculty Opinions recommendation of Mood-stabilizing pharmacological treatment in bipolar disorders and risk of suicide.",
+        "reference_url": "https://doi.org/10.3410/f.1101126.557110",
+        "citation_en": "Okasha T. \"Mood-stabilizing pharmacological treatment in bipolar disorders and risk of suicide\". crossref, 2008.",
+        "citation_ar": "طه عكاشة. \"العلاج الدوائي المستقر للمزاج في الاضطرابات ثنائية القطب وخطر الانتحار\". كروسريف، 2008."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Schizophrenia Spectrum and Psychotic Disorders: Pathophysiology, Diagnosis, and Therapy",
+    "academic_concept_ar": "اضطرابات طيف الفصام والذهان: الفيزيولوجيا المرضية، التشخيص، والعلاج.",
+    "concept_url_en": "https://smarticle.tech/en/article/schizophrenia-spectrum-and-psychotic-disorders-pathophysiology-diagnosis-an-202605190717",
+    "concept_url_ar": "https://smarticle.tech/ar/article/schizophrenia-spectrum-and-psychotic-disorders-pathophysiology-diagnosis-an-202605190717",
+    "subcategory": "Psychiatry",
+    "references": [
+      {
+        "reference_title": "Schizophrenia Spectrum and Other Psychotic Disorders",
+        "reference_url": "https://openlibrary.org/works/OL25185042W",
+        "citation_en": "Schizophrenia Spectrum and Other Psychotic Disorders. by American Psychiatric Association. (2015). — American Psychiatric Association Publishing. ISBN: 9781615370412",
+        "citation_ar": "Schizophrenia Spectrum and Other Psychotic Disorders. بقلم American Psychiatric Association. (2015). — American Psychiatric Association Publishing. ردمك: 9781615370412"
+      },
+      {
+        "reference_title": "Cognitive impairment in schizophrenia: aetiology, pathophysiology, and treatment",
+        "reference_url": "https://doi.org/10.1038/s41380-023-01949-9",
+        "citation_en": "McCutcheon R., Keefe R., McGuire P. \"Cognitive impairment in schizophrenia: aetiology, pathophysiology, and treatment\". Nature Reviews, 2023.",
+        "citation_ar": "ر. مكموتشين، ر. كفيف، ب. مكموير \"الضعف الإدراكي في الفصام: المسببات، الفيزيولوجيا المرضية، والعلاج\". مراجعات Nature، 2023."
+      },
+      {
+        "reference_title": "Dysregulated Signaling at Postsynaptic Density: A Systematic Review and Translational Appraisal for the Pathophysiology, Clinics, and Antipsychotics’",
+        "reference_url": "https://doi.org/10.3390/cells12040574",
+        "citation_en": "A. de Bartolomeis, L. Vellucci, G. De Simone, B. Mazza, A. Barone, M. Ciccarelli. \"Dysregulated Signaling at Postsynaptic Density: A Systematic Review and Translational Appraisal for the Pathophysiology, Clinics, and Antipsychotics’ Treatment of Schizophrenia\". Cells, 2022.",
+        "citation_ar": "أ. دي بارتولوميس، ل. فيلوتشي، ج. دي سيمون، ب. مازا، أ. بارون، م. سيتشاريلي \"الإشارات غير المنظمة في الكثافة بعد المشبكية: مراجعة منهجية وتقييم ترجماني لأمراض الفصام، والعيادات، وعلاج مضادات الذهان\". Cells، 2022."
+      },
+      {
+        "reference_title": "Anti-inflammatory effects of 2nd generation antipsychotics in patients with schizophrenia: A systematic review and meta-analysis.",
+        "reference_url": "https://doi.org/10.1016/j.jpsychires.2023.01.042",
+        "citation_en": "Patlola, S., Donohoe, G., McKernan, D. \"Anti-inflammatory effects of 2nd generation antipsychotics in patients with schizophrenia: A systematic review and meta-analysis\". Journal of Psychiatric Research, 2023.",
+        "citation_ar": "س. باتلولا، ج. دونوهو، د. مكرنان \"التأثيرات المضادة للالتهابات لمضادات الذهان من الجيل الثاني في مرضى الفصام: مراجعة منهجية وتحليل تلوي\". مجلة البحوث النفسية، 2023."
+      },
+      {
+        "reference_title": "Synaptic plasticity in schizophrenia pathophysiology",
+        "reference_url": "https://doi.org/10.1016/j.ibneur.2023.01.008",
+        "citation_en": "Zhang, K., Liao, P., Wen, J., Hu, Z. \"Synaptic plasticity in schizophrenia pathophysiology\". semantic_scholar_foundational, 2023.",
+        "citation_ar": "ك. زانغ، ب. لياو، ج. ون، ز. هو \"المرونة المشبكية في الفيزيولوجيا المرضية للفصام\". semantic_scholar_foundational، 2023."
+      },
+      {
+        "reference_title": "Dysfunction of the NMDA Receptor in the Pathophysiology of Schizophrenia and/or the Pathomechanisms of Treatment-Resistant Schizophrenia",
+        "reference_url": "https://doi.org/10.3390/biom14091128",
+        "citation_en": "Okubo R., Okada M., Motomura E. \"Dysfunction of the NMDA Receptor in the Pathophysiology of Schizophrenia and/or the Pathomechanisms of Treatment-Resistant Schizophrenia\". Biomolecules, 2024.",
+        "citation_ar": "ر. أوكوبو، م. أوكادا، إ. موتومورا \"خلل مستقبلات NMDA في الفيزيولوجيا المرضية للفصام و/أو آليات المرض للفصام المقاوم للعلاج\". Biomolecules، 2024."
+      },
+      {
+        "reference_title": "Medication adherence in patients with psychotic disorders: an observational survey involving patients before they switch to long-acting injectable ris",
+        "reference_url": "https://doi.org/10.2147/PPA.S89748",
+        "citation_en": "Baylé, F., Tessier, A., Bouju, S., Misdrahi, D. \"Medication adherence in patients with psychotic disorders: an observational survey involving patients before they switch to long-acting injectable risperidone\". semantic_scholar_foundational, 2015.",
+        "citation_ar": "ف. بايليه، أ. تيسير، س. بوجو، د. ميسدراهي \"التزام المرضى بجرعات الأدوية في الاضطرابات الذهانية: دراسة رصدية تشمل مرضى قبل تحويلهم إلى ريسبيريدون حقن طويل المفعول\". semantic_scholar_foundational، 2015."
+      },
+      {
+        "reference_title": "Psychosis in the elderly",
+        "reference_url": "https://archive.org/details/psychosisinelder0000unse",
+        "citation_en": "Psychosis in the elderly. by Anne Hassett, David Ames, Edmond Chiu. (2005). — Taylor & Francis. ISBN: 9781102148463",
+        "citation_ar": "Psychosis in the elderly. بقلم Anne Hassett، David Ames، Edmond Chiu. (2005). — Taylor & Francis. ردمك: 9781102148463"
+      },
+      {
+        "reference_title": "Die Psychosen",
+        "reference_url": "https://openlibrary.org/works/OL2127246W",
+        "citation_en": "Die Psychosen. by Jacques Lacan, Jacques-Alain Miller. (1920). — W. W. Norton & Company. ISBN: 1317761766",
+        "citation_ar": "Die Psychosen. بقلم Jacques Lacan، Jacques-Alain Miller. (1920). — W. W. Norton & Company. ردمك: 1317761766"
+      },
+      {
+        "reference_title": "Psychotic states in children",
+        "reference_url": "https://openlibrary.org/works/OL19374207W",
+        "citation_en": "Psychotic states in children. by Margaret Rustin. (1997). — Duckworth. ISBN: 9780429904110",
+        "citation_ar": "Psychotic states in children. بقلم Margaret Rustin. (1997). — Duckworth. ردمك: 9780429904110"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Assessing the Knowledge, Attitudes, and Vaccination Practices Towards COVID-19 Vaccination Among Mainland Chinese Nursing Students and Interns: A Multicenter Cross-Sectional Study",
+    "academic_concept_ar": "تقييم المعرفة والمواقف وممارسات التطعيم ضد كوفيد‑19 بين طلاب التمريض والمتدربين في الصين القارية: دراسة مقطعية متعددة المراكز.",
+    "concept_url_en": "https://smarticle.tech/en/article/assessing-the-knowledge-attitudes-and-vaccination-practices-towards-covid-1-202605240859",
+    "concept_url_ar": "https://smarticle.tech/ar/article/assessing-the-knowledge-attitudes-and-vaccination-practices-towards-covid-1-202605240859",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Assessing the Knowledge, Attitudes, and Vaccination Practices Towards COVID-19 Vaccination Among Mainland Chinese Nursing Students and Interns: A Mult",
+        "reference_url": "https://www.dovepress.com/assessing-the-knowledge-attitudes-and-vaccination-practices-towards-co-peer-reviewed-fulltext-article-IDR",
+        "citation_en": "Dovepress. \"Assessing the Knowledge, Attitudes, and Vaccination Practices Towards COVID-19 Vaccination Among Mainland Chinese Nursing Students and Interns: A Multicenter Cross-Sectional Study\". doaj, 2023.",
+        "citation_ar": "Dovepress. \"تقييم المعرفة والمواقف وممارسات التطعيم تجاه لقاحات كوفيد-19 بين طلاب ومتدربي التمريض الصينيين في البر الرئيسي: دراسة متعددة المراكز عبر القطاعات\". doaj، 2023."
+      },
+      {
+        "reference_title": "Impact of Covid-19 Pandemic on Knowledge and Attitude of Nursing Students Regarding Vaccination and Vaccine Hesitancy in China (Preprint)",
+        "reference_url": "https://doi.org/10.2196/preprints.69834",
+        "citation_en": "Impact of Covid-19 Pandemic on Knowledge and Attitude of Nursing Students Regarding Vaccination and Vaccine Hesitancy in China (Preprint)\".",
+        "citation_ar": "أثر جائحة كوفيد-19 على معرفة ومواقف طلاب التمريض فيما يتعلق بالتطعيم والتردد في التطعيم في الصين (مسودة مسبقة)."
+      },
+      {
+        "reference_title": "Nursing students’ attitudes, knowledge, and willingness to receive the COVID-19 vaccine: A cross-sectional study",
+        "reference_url": "https://doi.org/10.1101/2021.05.24.21257710",
+        "citation_en": "Nursing students’ attitudes, knowledge, and willingness to receive the COVID-19 vaccine: A cross-sectional study.",
+        "citation_ar": "مواقف طلاب التمريض ومعارفهم واستعدادهم لتلقي لقاح كوفيد-19: دراسة قطاعية."
+      },
+      {
+        "reference_title": "What determinants of COVID-19 vaccine hesitancy among Chinese nursing students? A cross-sectional study",
+        "reference_url": "https://doi.org/10.3389/fpubh.2024.1432225",
+        "citation_en": "What determinants of COVID-19 vaccine hesitancy among Chinese nursing students? A cross-sectional study.",
+        "citation_ar": "ما هي محددات التردد في لقاح كوفيد-19 بين طلاب التمريض الصينيين؟ دراسة قطاعية."
+      },
+      {
+        "reference_title": "Attitudes and concerns of nursing students against the COVID-19 vaccine, willingness to be vaccinated: A cross-sectional study",
+        "reference_url": "https://doi.org/10.22541/au.170670664.47351156/v1",
+        "citation_en": "Attitudes and concerns of nursing students against the COVID-19 vaccine, willingness to be vaccinated: A cross-sectional study.",
+        "citation_ar": "مواقف ومخاوف طلاب التمريض تجاه لقاح كوفيد-19، واستعدادهم للتطعيم: دراسة قطاعية."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Six-Domain Moral Ecology Framework for Quality Leadership in Healthcare: A Conceptual Synthesis",
+    "academic_concept_ar": "إطار بيئي أخلاقي من ستة مجالات للقيادة النوعية في الرعاية الصحية: توليفة مفاهيمية.",
+    "concept_url_en": "https://smarticle.tech/en/article/six-domain-moral-ecology-framework-for-quality-leadership-in-healthcare-a-c-202605251537",
+    "concept_url_ar": "https://smarticle.tech/ar/article/six-domain-moral-ecology-framework-for-quality-leadership-in-healthcare-a-c-202605251537",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Six-Domain Moral Ecology Framework for Quality Leadership in Healthcare: A Conceptual Synthesis",
+        "reference_url": "https://doi.org/10.1177/00469580261449981",
+        "citation_en": "Six-Domain Moral Ecology Framework for Quality Leadership in Healthcare: A Conceptual Synthesis. *doaj*, 2026.",
+        "citation_ar": "إطار العمل الأخلاقي ذو المجالات الستة للقيادة النوعية في الرعاية الصحية: تركيب مفاهيمي. *doaj*، 2026."
+      },
+      {
+        "reference_title": "Ethical Governance, Medico-Legal Accountability, and Clinical Decision-Making in Nursing Practice: A Systematic Review of Awareness, Ethical Challenge",
+        "reference_url": "https://doi.org/10.36948/ijfmr.2026.v08i03.78424",
+        "citation_en": "Ethical Governance, Medico-Legal Accountability, and Clinical Decision-Making in Nursing Practice: A Systematic Review of Awareness, Ethical Challenges, and Institutional Determinants\".",
+        "citation_ar": "الحوكمة الأخلاقية، والمسؤولية القانونية الطبية، وصنع القرار السريري في ممارسة التمريض: مراجعة منهجية للوعي، والتحديات الأخلاقية، والمحددات المؤسسية."
+      },
+      {
+        "reference_title": "Moral Leadership in Medicine",
+        "reference_url": "https://doi.org/10.1017/cbo9780511795015",
+        "citation_en": "Moral Leadership in Medicine\".",
+        "citation_ar": "القيادة الأخلاقية في الطب."
+      },
+      {
+        "reference_title": "AI Governance Failures in Healthcare: A Diagnostic Framework Integrating Policy Tools and Care Delivery",
+        "reference_url": "https://doi.org/10.2139/ssrn.6566900",
+        "citation_en": "AI Governance Failures in Healthcare: A Diagnostic Framework Integrating Policy Tools and Care Delivery.",
+        "citation_ar": "إخفاقات حوكمة الذكاء الاصطناعي في الرعاية الصحية: إطار عمل تشخيصي يدمج أدوات السياسة وتقديم الرعاية."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "WHO Leadership in Emergencies Training Boosts Crisis Response Skills",
+    "academic_concept_ar": "تعزيز مهارات الاستجابة للأزمات عبر تدريب القيادة في الطوارئ من منظمة الصحة العالمية.",
+    "concept_url_en": "https://smarticle.tech/en/article/who-leadership-in-emergencies-training-boosts-crisis-response-skills-202605261040",
+    "concept_url_ar": "https://smarticle.tech/ar/article/who-leadership-in-emergencies-training-boosts-crisis-response-skills-202605261040",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Evaluating the WHO leadership in emergencies training programme: participants' perspective",
+        "reference_url": "https://doi.org/10.3389/femer.2025.1599284",
+        "citation_en": "WHO leadership in emergencies training programme: participants' perspective. *doaj*, 2025.",
+        "citation_ar": "برنامج تدريب القيادة في الطوارئ التابع لمنظمة الصحة العالمية: منظور المشاركين. *doaj*، 2025."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "MedQA-MA: 12,000 Moroccan Arabic Medical Questions for AI",
+    "academic_concept_ar": "MedQA-MA: 12,000 سؤال طبي باللهجة المغربية للذكاء الاصطناعي.",
+    "concept_url_en": "https://smarticle.tech/en/article/medqa-ma-12-000-moroccan-arabic-medical-questions-for-ai-202605281034",
+    "concept_url_ar": "https://smarticle.tech/ar/article/medqa-ma-12-000-moroccan-arabic-medical-questions-for-ai-202605281034",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "MedQA-MA: A Moroccan Arabic medical question-answering dataset for virtual healthcare assistants and large language modelsMendeley Data",
+        "reference_url": "https://doi.org/10.1016/j.dib.2026.112537",
+        "citation_en": "MedQA-MA: A Moroccan Arabic medical question-answering dataset for virtual healthcare assistants and large language models. *doaj*, 2026.",
+        "citation_ar": "ميدكيو إيه-إم إيه: مجموعة بيانات طبية عربية مغربية للإجابة على الأسئلة لصالح المساعدين الافتراضيين للرعاية الصحية والنماذج اللغوية الكبيرة. *دوي*، 2026."
+      },
+      {
+        "reference_title": "MENARA: Medical Natural Arabic Response Assistant",
+        "reference_url": "https://doi.org/10.3390/make8040110",
+        "citation_en": "MENARA: Medical Natural Arabic Response Assistant\".",
+        "citation_ar": "مينارا: مساعد الاستجابة الطبية العربية الطبيعية."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "EHR Nudges Double Genetic Testing for Breast and Ovarian Cancer",
+    "academic_concept_ar": "السجلات الصحية الإلكترونية تحفّز اختبارًا جينيًا مزدوجًا لسرطان الثدي والمبيض.",
+    "concept_url_en": "https://smarticle.tech/en/article/ehr-nudges-double-genetic-testing-for-breast-and-ovarian-cancer-202605281346",
+    "concept_url_ar": "https://smarticle.tech/ar/article/ehr-nudges-double-genetic-testing-for-breast-and-ovarian-cancer-202605281346",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Protocol to evaluate sequential electronic health record-based strategies to increase genetic testing for breast and ovarian cancer risk across divers",
+        "reference_url": "https://doi.org/10.1186/s13012-023-01308-w",
+        "citation_en": "Protocol to evaluate sequential electronic health record-based strategies to increase genetic testing for breast and ovarian cancer risk across diverse patient populations in gynecology practices. Source, 2023.",
+        "citation_ar": "بروتوكول لتقييم الاستراتيجيات المتسلسلة القائمة على السجلات الصحية الإلكترونية لزيادة الاختبارات الجينية لخطر الإصابة بسرطان الثدي والمبيض عبر مختلف الفئات السكانية للمرضى في عيادات أمراض النساء."
+      },
+      {
+        "reference_title": "Committee Opinion No. 693: Counseling About Genetic Testing and Communication of Genetic Test Results",
+        "reference_url": "https://doi.org/10.1097/aog.0000000000002020",
+        "citation_en": "Committee Opinion No. 693: Counseling About Genetic Testing and Communication of Genetic Test Results\".",
+        "citation_ar": "الرأي اللجئي رقم 693: تقديم الاستشارات بشأن الاختبارات الجينية وإيصال نتائج الاختبارات الجينية."
+      },
+      {
+        "reference_title": "Ethical Considerations for Genetic Testing and Counseling in Obstetrics and Gynecology",
+        "reference_url": "https://doi.org/10.1097/aog.0000000000006131",
+        "citation_en": "Ethical Considerations for Genetic Testing and Counseling in Obstetrics and Gynecology\".",
+        "citation_ar": "الاعتبارات الأخلاقية للاختبارات الجينية والاستشارات في مجال التوليد وأمراض النساء."
+      },
+      {
+        "reference_title": "Novel decision-theoretic and risk-stratification metrics of predictive performance: Application to deciding who should undergo genetic testing",
+        "reference_url": "https://arxiv.org/abs/1711.05686",
+        "citation_en": "Novel decision-theoretic and risk-stratification metrics of predictive performance: Application to deciding who should undergo genetic testing\".",
+        "citation_ar": "مقاييس نظرية القرار الجديدة وت stratifications المخاطر للأداء التنبؤي: تطبيق على تحديد من يجب أن يخضع للاختبارات الجينية."
+      },
+      {
+        "reference_title": "Genetic Testing for Every Breast Cancer Patient: Would it be Real?",
+        "reference_url": "https://doi.org/10.23880/ijsst-16000141",
+        "citation_en": "Genetic Testing for Every Breast Cancer Patient: Would it be Real?\".",
+        "citation_ar": "الاختبارات الجينية لكل مريضة بسرطان الثدي: هل سيكون ذلك واقعياً؟"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "NHANES Cancer Patient Database Construction for Epidemiology",
+    "academic_concept_ar": "بناء قاعدة بيانات مرضى السرطان من NHANES للوبائيات.",
+    "concept_url_en": "https://smarticle.tech/en/article/nhanes-cancer-patient-database-construction-for-epidemiology-202605281354",
+    "concept_url_ar": "https://smarticle.tech/ar/article/nhanes-cancer-patient-database-construction-for-epidemiology-202605281354",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Construction of the cancer patients’ database based on the US National Health and Nutrition Examination Survey (NHANES) datasets for cancer epidemiolo",
+        "reference_url": "https://doi.org/10.1186/s12874-025-02478-5",
+        "citation_en": "Construction of the cancer patients’ database based on the US National Health and Nutrition Examination Survey (NHANES) datasets for cancer epidemiology research. *doaj*, 2025.",
+        "citation_ar": "إنشاء قاعدة بيانات مرضى السرطان بناءً على مجموعات بيانات المسح الوطني لفحص الصحة والتغذية في الولايات المتحدة (NHANES) لأبحاث وبائيات السرطان. *doaj*، 2025."
+      },
+      {
+        "reference_title": "National Health and Nutrition Examination Survey (NHANES) in USA",
+        "reference_url": "https://doi.org/10.1097/00001648-200611001-00173",
+        "citation_en": "National Health and Nutrition Examination Survey (NHANES) in USA.",
+        "citation_ar": "المسح الوطني لفحص الصحة والتغذية في الولايات المتحدة (NHANES)."
+      },
+      {
+        "reference_title": "Serum Vitamin D and Cancer Mortality in the NHANES III Study (1988–2006)",
+        "reference_url": "https://doi.org/10.1016/j.annepidem.2010.07.085",
+        "citation_en": "Serum Vitamin D and Cancer Mortality in the NHANES III Study (1988–2006)\". *Annals of Epidemiology*, Year unknown.",
+        "citation_ar": "فيتامين د في الدم والوفيات الناتجة عن السرطان في دراسة NHANES III (1988–2006). *Annals of Epidemiology*، السنة غير معروفة."
+      },
+      {
+        "reference_title": "RNHANES: Facilitates Analysis of CDC NHANES Data",
+        "reference_url": "https://doi.org/10.32614/cran.package.rnhanes",
+        "citation_en": "RNHANES. \"RNHANES: Facilitates Analysis of CDC NHANES Data\".",
+        "citation_ar": "RNHANES. \"RNHANES: يسهل تحليل بيانات NHANES التابعة لمراكز السيطرة على الأمراض والوقاية منها (CDC)\"."
+      },
+      {
+        "reference_title": "nhanesA: NHANES Data Retrieval",
+        "reference_url": "https://doi.org/10.32614/cran.package.nhanesa",
+        "citation_en": "nhanesA. \"nhanesA: NHANES Data Retrieval\". , .",
+        "citation_ar": "nhanesA. \"nhanesA: استرجاع بيانات NHANES\"."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Unhealthy Lifestyle Score Predicts Hypertension and Dyslipidemia Risk in Korea",
+    "academic_concept_ar": "مؤشر نمط الحياة غير الصحي يتنبأ بخطر ارتفاع ضغط الدم واضطراب شحميات الدم في كوريا.",
+    "concept_url_en": "https://smarticle.tech/en/article/unhealthy-lifestyle-score-predicts-hypertension-and-dyslipidemia-risk-in-ko-202605281412",
+    "concept_url_ar": "https://smarticle.tech/ar/article/unhealthy-lifestyle-score-predicts-hypertension-and-dyslipidemia-risk-in-ko-202605281412",
+    "subcategory": "Public Health",
+    "references": [
+      {
+        "reference_title": "Association of Unhealthy Lifestyle Score on the Risk of Hypertension, Dyslipidemia, and Their Comorbidity in Korea: A Cross-Sectional Study",
+        "reference_url": "https://doi.org/10.3390/proceedings2023091308",
+        "citation_en": "Association of Unhealthy Lifestyle Score on the Risk of Hypertension, Dyslipidemia, and Their Comorbidity in Korea: A Cross-Sectional Study. Proceedings, 2024.",
+        "citation_ar": "ارتباط درجة نمط الحياة غير الصحي بخطر الإصابة بارتفاع ضغط الدم وخلل شحوم الدم ووجودهما معاً في كوريا: دراسة مستعرضة.ceedings، 2024."
+      },
+      {
+        "reference_title": "Association of healthy lifestyle factors with the risk of hypertension, dyslipidemia, and their comorbidity in Korea: results from the Korea National",
+        "reference_url": "https://doi.org/10.4178/epih.e2024049",
+        "citation_en": "Association of healthy lifestyle factors with the risk of hypertension, dyslipidemia, and their comorbidity in Korea: results from the Korea National Health and Nutrition Examination Survey 2019-2021\". *Epidemiology and Health*, n.d.",
+        "citation_ar": "ارتباط عوامل نمط الحياة الصحية بخطر الإصابة بارتفاع ضغط الدم وخلل شحوم الدم ووجودهما معاً في كوريا: نتائج من المسح الكوري الوطني للصحة والتغذية 2019-2021. *Epidemiology and Health*، بدون تاريخ."
+      },
+      {
+        "reference_title": "The mediating role of healthy lifestyle between socioeconomic status and hypertension: a nationwide cross-sectional study from NHANES 2017-2020",
+        "reference_url": "https://doi.org/10.21203/rs.3.rs-9071146/v1",
+        "citation_en": "\"The mediating role of healthy lifestyle between socioeconomic status and hypertension: a nationwide cross-sectional study from NHANES 2017-2020\". , .",
+        "citation_ar": "الدور الوسيط لنمط الحياة الصحي بين الوضع الاجتماعي والاقتصادي وارتفاع ضغط الدم: دراسة مستعرضة على مستوى الدولة من المسح الوطني الأمريكي لفحص الصحة والتغذية 2017-2020."
+      },
+      {
+        "reference_title": "Cardiometabolic Health Risks, Lifestyle Behaviours and Quality of Life in People with Early Psychosis – A Cross Sectional Study",
+        "reference_url": "https://doi.org/10.20944/preprints202108.0243.v1",
+        "citation_en": "Cardiometabolic Health Risks, Lifestyle Behaviours and Quality of Life in People with Early Psychosis – A Cross Sectional Study.",
+        "citation_ar": "مخاطر الصحة القلبية الأيضية، سلوكيات نمط الحياة، وجودة الحياة لدى الأشخاص الذين يعانون من الفصام المبكر – دراسة مستعرضة."
+      },
+      {
+        "reference_title": "Factors Associated with Lifestyle Modification among Chinese Adults with Hypertension: A Cross-sectional Study",
+        "reference_url": "https://doi.org/10.2174/0118744346468716260318102215",
+        "citation_en": "\"Factors Associated with Lifestyle Modification among Chinese Adults with Hypertension: A Cross-sectional Study\". , .",
+        "citation_ar": "العوامل المرتبطة بتعديل نمط الحياة بين البالغين الصينيين المصابين بارتفاع ضغط الدم: دراسة مستعرضة."
+      }
+    ]
+  }
+]
