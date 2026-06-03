@@ -1,0 +1,1301 @@
+[
+  {
+    "academic_concept_en": "Platonic Idealism: The Theory of Forms and the Nature of Reality",
+    "academic_concept_ar": "المثالية الأفلاطونية: نظرية الأشكال وطبيعة الواقع.",
+    "concept_url_en": "https://smarticle.tech/en/article/platonic-idealism-the-theory-of-forms-and-the-nature-of-reality-202605121244",
+    "concept_url_ar": "https://smarticle.tech/ar/article/platonic-idealism-the-theory-of-forms-and-the-nature-of-reality-202605121244",
+    "subcategory": "Ancient Philosophy",
+    "references": [
+      {
+        "reference_title": "Γοργίας",
+        "reference_url": "https://archive.org/details/georgias00plat",
+        "citation_en": "Γοργίας. by Πλάτων. (1827). — Liberal Arts Press. ISBN: 9780371868508",
+        "citation_ar": "Γοργίας. بقلم Πλάτων. (1827). — Liberal Arts Press. ردمك: 9780371868508"
+      },
+      {
+        "reference_title": "Συμπόσιον",
+        "reference_url": "https://archive.org/details/uvrescompltes42plat",
+        "citation_en": "Συμπόσιον. by Πλάτων. (1559). — In Libraria Orphanotrophei. ISBN: 9781504052207",
+        "citation_ar": "Συμπόσιον. بقلم Πλάτων. (1559). — In Libraria Orphanotrophei. ردمك: 9781504052207"
+      },
+      {
+        "reference_title": "Φαίδων",
+        "reference_url": "https://archive.org/details/uvrescompltes41plat",
+        "citation_en": "Φαίδων. by Πλάτων. (1713). — J. Allyn. ISBN: 1543267645",
+        "citation_ar": "Φαίδων. بقلم Πλάτων. (1713). — J. Allyn. ردمك: 1543267645"
+      },
+      {
+        "reference_title": "Ἀπολογία Σωκράτους",
+        "reference_url": "https://archive.org/details/platonisapologia00plat",
+        "citation_en": "Ἀπολογία Σωκράτους. by Πλάτων. (1675). — NuVision Publications. ISBN: 1090371497",
+        "citation_ar": "Ἀπολογία Σωκράτους. بقلم Πλάτων. (1675). — NuVision Publications. ردمك: 1090371497"
+      },
+      {
+        "reference_title": "πολιτεία",
+        "reference_url": "https://archive.org/details/republicofplat00plat",
+        "citation_en": "πολιτεία. by Πλάτων. (1554). — Namaskar Books. ISBN: 9603520950",
+        "citation_ar": "πολιτεία. بقلم Πλάτων. (1554). — Namaskar Books. ردمك: 9603520950"
+      },
+      {
+        "reference_title": "Select works of Porphyry : $b Containing his four books on abstinence from animal food; his treatise on the Homeric cave of the nymphs; and his Auxili",
+        "reference_url": "https://www.gutenberg.org/ebooks/77014",
+        "citation_en": "Select works of Porphyry : $b Containing his four books on abstinence from animal food; his treatise on the Homeric cave of the nymphs; and his Auxiliaries to the perception of intelligible natures. With an appendix, explaining the allegory of the wandering of Ulysses. by Porphyry. — Project Gutenberg",
+        "citation_ar": "Select works of Porphyry : $b Containing his four books on abstinence from animal food; his treatise on the Homeric cave of the nymphs; and his Auxiliaries to the perception of intelligible natures. With an appendix, explaining the allegory of the wandering of Ulysses. بقلم Porphyry. — Project Gutenberg"
+      },
+      {
+        "reference_title": "The six books of Proclus, the Platonic successor, on the theology of Plato (vol. 1 of 2) : $b  translated from the Greek, to which a seventh book is a",
+        "reference_url": "https://www.gutenberg.org/ebooks/77393",
+        "citation_en": "The six books of Proclus, the Platonic successor, on the theology of Plato (vol. 1 of 2) : $b  translated from the Greek, to which a seventh book is added, in order to supply the deficiency of another book on this subject, which was written by Proclus, but since lost, also, a translation from the Greek of Proclus' Elements of theology, to which are added a translation of the treatise of Proclus, On providence and fate, a translation of extracts from his treatise, entitled, Ten doubts concerning providence, and a translation of extracts from his treatise on the subsistence of evil; as preserved in the Bibliotheca Gr. of Fabricus. by Proclus. — Project Gutenberg",
+        "citation_ar": "The six books of Proclus, the Platonic successor, on the theology of Plato (vol. 1 of 2) : $b  translated from the Greek, to which a seventh book is added, in order to supply the deficiency of another book on this subject, which was written by Proclus, but since lost, also, a translation from the Greek of Proclus' Elements of theology, to which are added a translation of the treatise of Proclus, On providence and fate, a translation of extracts from his treatise, entitled, Ten doubts concerning providence, and a translation of extracts from his treatise on the subsistence of evil; as preserved in the Bibliotheca Gr. of Fabricus. بقلم Proclus. — Project Gutenberg"
+      },
+      {
+        "reference_title": "Plato and Platonism",
+        "reference_url": "https://www.gutenberg.org/ebooks/4095",
+        "citation_en": "Plato and Platonism. by Pater, Walter. — Project Gutenberg",
+        "citation_ar": "Plato and Platonism. بقلم Pater, Walter. — Project Gutenberg"
+      },
+      {
+        "reference_title": "De Amicitia, Scipio's Dream",
+        "reference_url": "https://www.gutenberg.org/ebooks/7491",
+        "citation_en": "De Amicitia, Scipio's Dream. by Cicero, Marcus Tullius. — Project Gutenberg",
+        "citation_ar": "De Amicitia, Scipio's Dream. بقلم Cicero, Marcus Tullius. — Project Gutenberg"
+      },
+      {
+        "reference_title": "Forms and Structure in Plato's Metaphysics",
+        "reference_url": "https://doi.org/10.1093/oso/9780197577158.001.0001",
+        "citation_en": "A. Marmodoro. \"Forms and Structure in Plato's Metaphysics\". semantic_scholar_foundational, 2021.",
+        "citation_ar": "أ. مارمودورو. \"الأشكال والتركيب في ميتافيزيقا أفلاطون\". semantic_scholar_foundational، 2021."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Aristotelian Logic, Metaphysics, and the Four Causes",
+    "academic_concept_ar": "المنطق الأرسطي والميتافيزيقا والأسباب الأربعة",
+    "concept_url_en": "https://smarticle.tech/en/article/aristotelian-logic-metaphysics-and-the-four-causes-202605121252",
+    "concept_url_ar": "https://smarticle.tech/ar/article/aristotelian-logic-metaphysics-and-the-four-causes-202605121252",
+    "subcategory": "Ancient Philosophy",
+    "references": [
+      {
+        "reference_title": "La Poetica",
+        "reference_url": "https://archive.org/details/metaphysicsofari00aris",
+        "citation_en": "La Poetica. by Aristotle. (1479). — Ediciones de la Biblioteca, Universidad Central de Venezuela. ISBN: 0140446192",
+        "citation_ar": "La Poetica. بقلم Aristotle. (1479). — Ediciones de la Biblioteca, Universidad Central de Venezuela. ردمك: 0140446192"
+      },
+      {
+        "reference_title": "An essay on metaphysics",
+        "reference_url": "https://archive.org/details/essayonmetaphysi0000coll",
+        "citation_en": "An essay on metaphysics. by R. G. Collingwood. (1940). — Oxford University Press, USA. ISBN: 9780819133151",
+        "citation_ar": "An essay on metaphysics. بقلم R. G. Collingwood. (1940). — Oxford University Press, USA. ردمك: 9780819133151"
+      },
+      {
+        "reference_title": "Isagoge",
+        "reference_url": "https://openlibrary.org/works/OL1225890W",
+        "citation_en": "Isagoge. by Porphyry. (1887). — Liviana. ISBN: 2711613445",
+        "citation_ar": "Isagoge. بقلم Porphyry. (1887). — Liviana. ردمك: 2711613445"
+      },
+      {
+        "reference_title": "Alexander of Aphrodisias",
+        "reference_url": "https://openlibrary.org/works/OL21043483W",
+        "citation_en": "Alexander of Aphrodisias. by E. W. Dooley, E. W. Dooley, Michael Griffin. (2014). — Bloomsbury Academic. ISBN: 1306720435",
+        "citation_ar": "Alexander of Aphrodisias. بقلم E. W. Dooley، E. W. Dooley، Michael Griffin. (2014). — Bloomsbury Academic. ردمك: 1306720435"
+      },
+      {
+        "reference_title": "Philosophy of Aristotle",
+        "reference_url": "https://archive.org/details/philosophyofaris0000renf_v7u2",
+        "citation_en": "Philosophy of Aristotle. by Renford Bambrough, J. L. Creed. (1962). — Signet Classics. ISBN: 9780451528872",
+        "citation_ar": "Philosophy of Aristotle. بقلم Renford Bambrough، J. L. Creed. (1962). — Signet Classics. ردمك: 9780451528872"
+      },
+      {
+        "reference_title": "Aristotle's Modal Logic",
+        "reference_url": "https://openlibrary.org/works/OL8244683W",
+        "citation_en": "Aristotle's Modal Logic. by Richard Patterson. (2002). — Cambridge University Press. ISBN: 0511884184",
+        "citation_ar": "Aristotle's Modal Logic. بقلم Richard Patterson. (2002). — Cambridge University Press. ردمك: 0511884184"
+      },
+      {
+        "reference_title": "Aristotle: Semantics and Ontology General Introduction",
+        "reference_url": "https://openlibrary.org/works/OL9090597W",
+        "citation_en": "Aristotle: Semantics and Ontology General Introduction. by Lambertus Marie De Rijk. (2002). — Brill Academic Publishers. ISBN: 9004123245",
+        "citation_ar": "Aristotle: Semantics and Ontology General Introduction. بقلم Lambertus Marie De Rijk. (2002). — Brill Academic Publishers. ردمك: 9004123245"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Stoicism and Epicureanism: Ethics, Happiness, and the Good Life",
+    "academic_concept_ar": "الرواقية والأبيقورية: الأخلاق والسعادة والحياة الطيبة.",
+    "concept_url_en": "https://smarticle.tech/en/article/stoicism-and-epicureanism-ethics-happiness-and-the-good-life-202605121302",
+    "concept_url_ar": "https://smarticle.tech/ar/article/stoicism-and-epicureanism-ethics-happiness-and-the-good-life-202605121302",
+    "subcategory": "Ancient Philosophy",
+    "references": [
+      {
+        "reference_title": "Stoic Ethics",
+        "reference_url": "https://books.google.com/books",
+        "citation_en": "Stoic Ethics. by William O. Stephens. (2007). — A&C Black. ISBN: 9781441170453",
+        "citation_ar": "Stoic Ethics. بقلم William O. Stephens. (2007). — A&C Black. ردمك: 9781441170453"
+      },
+      {
+        "reference_title": "Stoics, Epicureans, and sceptics",
+        "reference_url": "https://archive.org/details/stoicsepicureans00shar",
+        "citation_en": "Stoics, Epicureans, and sceptics. by R. W. Sharples. (1996). — Routledge. ISBN: 0415110343",
+        "citation_ar": "Stoics, Epicureans, and sceptics. بقلم R. W. Sharples. (1996). — Routledge. ردمك: 0415110343"
+      },
+      {
+        "reference_title": "Can Stoicism inspire stuttering intervention? The clinical usefulness of an ancient philosophy.",
+        "reference_url": "https://doi.org/10.1111/1460-6984.12832",
+        "citation_en": "Connery A., Cavanna A., Coleman R. \"Can Stoicism inspire stuttering intervention? The clinical usefulness of an ancient philosophy\". semantic_scholar_foundational, 2022.",
+        "citation_ar": "كونري، إيه.، كافانا، إيه.، كولمان، آر. \"هل يمكن للرواقية أن تلهم التدخل في التأتأة؟ الفائدة السريرية لفلسفة قديمة\". semantic_scholar_foundational، 2022."
+      },
+      {
+        "reference_title": "Greek Medicine Practice at Ancient Rome: The Physician Molecularist Asclepiades",
+        "reference_url": "https://doi.org/10.3390/medicines4040092",
+        "citation_en": "Santacroce, L.; Bottalico, L.; Charitos, I. A. \"Greek Medicine Practice at Ancient Rome: The Physician Molecularist Asclepiades\". Medicines, 2017.",
+        "citation_ar": "سانتاكروس، إل.؛ بوتيليكو، إل.؛ كاريتوس، آي. إيه. \"الممارسة الطبية اليونانية في روما القديمة: الطبيب الجزيئي أسكليبياديس\". Medicines، 2017."
+      },
+      {
+        "reference_title": "A Civic Alternative to Stoicism: The Ethics of Hellenistic Honorary Decrees",
+        "reference_url": "https://doi.org/10.1525/CA.2018.37.2.187",
+        "citation_en": "Gray, B. \"A Civic Alternative to Stoicism: The Ethics of Hellenistic Honorary Decrees\". Classical Antiquity, 2018.",
+        "citation_ar": "جراي، ب. \"بديل مدني للرواقية: أخلاقيات المراسيم الفخرية الهلنستية\". Classical Antiquity، 2018."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Ibn Rushd (Averroes): Rationalism, Aristotle, and the Active Intellect",
+    "academic_concept_ar": "ابن رشد (أفيروز): العقلانية، أرسطو، والعقل الفعال.",
+    "concept_url_en": "https://smarticle.tech/en/article/ibn-rushd-averroes-rationalism-aristotle-and-the-active-intellect-202605121316",
+    "concept_url_ar": "https://smarticle.tech/ar/article/ibn-rushd-averroes-rationalism-aristotle-and-the-active-intellect-202605121316",
+    "subcategory": "Islamic Philosophy",
+    "references": [
+      {
+        "reference_title": "The Muqaddimah, an introduction to history",
+        "reference_url": "https://archive.org/details/muqaddimatalalla008800",
+        "citation_en": "The Muqaddimah, an introduction to history. by Ibn Khaldūn, عبد الرحمن ابن خلدون Abdel Rahman Ibn Khaldun. (1858). — Routledge & K. Paul, in association with Secker and Warburg. ISBN: 0878500561",
+        "citation_ar": "The Muqaddimah, an introduction to history. بقلم Ibn Khaldūn، عبد الرحمن ابن خلدون Abdel Rahman Ibn Khaldun. (1858). — Routledge & K. Paul, in association with Secker and Warburg. ردمك: 0878500561"
+      },
+      {
+        "reference_title": "Nicomachean Ethics",
+        "reference_url": "https://archive.org/details/nicomacheanethic1865aris",
+        "citation_en": "Nicomachean Ethics. by Aristotle. (1558). — Harvard University Press. ISBN: 1015407412",
+        "citation_ar": "Nicomachean Ethics. بقلم Aristotle. (1558). — Harvard University Press. ردمك: 1015407412"
+      },
+      {
+        "reference_title": "Alfarabi, Avicenna, and Averroes, on Intellect",
+        "reference_url": "https://books.google.com/books",
+        "citation_en": "Alfarabi, Avicenna, and Averroes, on Intellect. by Herbert A. Davidson. (1992). — Oxford University Press. ISBN: 9780195360776",
+        "citation_ar": "Alfarabi, Avicenna, and Averroes, on Intellect. بقلم Herbert A. Davidson. (1992). — Oxford University Press. ردمك: 9780195360776"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Al-Farabi's Political Philosophy: The Virtuous City and Philosopher-King",
+    "academic_concept_ar": "الفلسفة السياسية للفارابي: المدينة الفاضلة والملك الفيلسوف.",
+    "concept_url_en": "https://smarticle.tech/en/article/al-farabi-s-political-philosophy-the-virtuous-city-and-philosopher-king-202605160149",
+    "concept_url_ar": "https://smarticle.tech/ar/article/al-farabi-s-political-philosophy-the-virtuous-city-and-philosopher-king-202605160149",
+    "subcategory": "Islamic Philosophy",
+    "references": [
+      {
+        "reference_title": "Medieval political philosophy",
+        "reference_url": "https://archive.org/details/medievalpolitica00lern",
+        "citation_en": "Medieval political philosophy. by Ralph Lerner. (1963). — Free Press. ISBN: 9780801491399",
+        "citation_ar": "Medieval political philosophy. بقلم Ralph Lerner. (1963). — Free Press. ردمك: 9780801491399"
+      },
+      {
+        "reference_title": "Political thought in medieval Islam",
+        "reference_url": "https://archive.org/details/politicalthought0000rose",
+        "citation_en": "Political thought in medieval Islam. by Erwin Isak Jakob Rosenthal. (1958). — University Press. ISBN: 9780313250941",
+        "citation_ar": "Political thought in medieval Islam. بقلم Erwin Isak Jakob Rosenthal. (1958). — University Press. ردمك: 9780313250941"
+      },
+      {
+        "reference_title": "State and Government in Medieval Islam",
+        "reference_url": "https://openlibrary.org/works/OL20346800W",
+        "citation_en": "State and Government in Medieval Islam. by Ann K. S. Lambton. (2013). — Routledge. ISBN: 9781136605208",
+        "citation_ar": "State and Government in Medieval Islam. بقلم Ann K. S. Lambton. (2013). — Routledge. ردمك: 9781136605208"
+      },
+      {
+        "reference_title": "Al- farabi on the perfect state",
+        "reference_url": "https://openlibrary.org/works/OL824493W",
+        "citation_en": "Al- farabi on the perfect state. by Fārābī. (1985). — Oxford University Press. ISBN: 9780198245056",
+        "citation_ar": "Al- farabi on the perfect state. بقلم Fārābī. (1985). — Oxford University Press. ردمك: 9780198245056"
+      },
+      {
+        "reference_title": "Al Farabi",
+        "reference_url": "https://openlibrary.org/works/OL23789923W",
+        "citation_en": "Al Farabi. by Philippe Vallat. (2012). — Societe d'edition Les Belles lettres. ISBN: 2251183132",
+        "citation_ar": "Al Farabi. بقلم Philippe Vallat. (2012). — Societe d'edition Les Belles lettres. ردمك: 2251183132"
+      },
+      {
+        "reference_title": "On the perfect state",
+        "reference_url": "https://openlibrary.org/works/OL824486W",
+        "citation_en": "On the perfect state. by Fārābī, Richard Walzer. (1998). — Distributed by KAZI Publications. ISBN: 1871031761",
+        "citation_ar": "On the perfect state. بقلم Fārābī، Richard Walzer. (1998). — Distributed by KAZI Publications. ردمك: 1871031761"
+      },
+      {
+        "reference_title": "Poetics",
+        "reference_url": "https://archive.org/details/artofpoetry00aris",
+        "citation_en": "Poetics. by Aristotle. (1536). — NuVision Publications. ISBN: 1420925989",
+        "citation_ar": "Poetics. بقلم Aristotle. (1536). — NuVision Publications. ردمك: 1420925989"
+      },
+      {
+        "reference_title": "La Poetica",
+        "reference_url": "https://archive.org/details/metaphysicsofari00aris",
+        "citation_en": "La Poetica. by Aristotle. (1479). — Harvard University Press. ISBN: 9781430447160",
+        "citation_ar": "La Poetica. بقلم Aristotle. (1479). — Harvard University Press. ردمك: 9781430447160"
+      },
+      {
+        "reference_title": "Aquinas",
+        "reference_url": "https://archive.org/details/selectedwritings0000thom_m2u0",
+        "citation_en": "Aquinas. by Thomas Aquinas. (1948). — Franciscans of the Immaculate. ISBN: 0631129243",
+        "citation_ar": "Aquinas. بقلم Thomas Aquinas. (1948). — Franciscans of the Immaculate. ردمك: 0631129243"
+      },
+      {
+        "reference_title": "THE DISAPPEARING PHILOSOPHER-KING",
+        "reference_url": "https://doi.org/10.4324/9780203201817-10",
+        "citation_en": "Plato. \"THE DISAPPEARING PHILOSOPHER-KING\". *crossref*, 2003.",
+        "citation_ar": "بلاتو. \"الملك الفيلسوف الذي يتلاشى\". *كروسريف*، 2003."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Al-Ghazali's Epistemology vs. Ibn Sina's Avicennism: A Philosophical Debate",
+    "academic_concept_ar": "الإبستمولوجيا الغزالية مقابل الأفيسينية لابن سينا: نقاش فلسفي.",
+    "concept_url_en": "https://smarticle.tech/en/article/al-ghazali-s-epistemology-vs-ibn-sina-s-avicennism-a-philosophical-debate-202605160156",
+    "concept_url_ar": "https://smarticle.tech/ar/article/al-ghazali-s-epistemology-vs-ibn-sina-s-avicennism-a-philosophical-debate-202605160156",
+    "subcategory": "Islamic Philosophy",
+    "references": [
+      {
+        "reference_title": "Islamic Law, Epistemology and Modernity",
+        "reference_url": "https://openlibrary.org/works/OL8105040W",
+        "citation_en": "Islamic Law, Epistemology and Modernity. by Ashk Dahlen. (2003). — Taylor & Francis Group. ISBN: 9780415762403",
+        "citation_ar": "Islamic Law, Epistemology and Modernity. بقلم Ashk Dahlen. (2003). — Taylor & Francis Group. ردمك: 9780415762403"
+      },
+      {
+        "reference_title": "The Principles of Epistemology in Islamic Philosophy",
+        "reference_url": "https://openlibrary.org/works/OL8357991W",
+        "citation_en": "The Principles of Epistemology in Islamic Philosophy. by Mehdi Ha'Iri Yazdi. (1992). — State Univ of New York Pr. ISBN: 9780791409473",
+        "citation_ar": "The Principles of Epistemology in Islamic Philosophy. بقلم Mehdi Ha'Iri Yazdi. (1992). — State Univ of New York Pr. ردمك: 9780791409473"
+      },
+      {
+        "reference_title": "Epistemology of the Quran",
+        "reference_url": "https://openlibrary.org/works/OL20831516W",
+        "citation_en": "Epistemology of the Quran. by M. Ashraf Adeel. (2019). — Springer. ISBN: 303017557X",
+        "citation_ar": "Epistemology of the Quran. بقلم M. Ashraf Adeel. (2019). — Springer. ردمك: 303017557X"
+      },
+      {
+        "reference_title": "Philosophy of Religion in Post-Revolutionary Iran",
+        "reference_url": "https://openlibrary.org/works/OL22147481W",
+        "citation_en": "Philosophy of Religion in Post-Revolutionary Iran. by Heydar Shadi. (2018). — Taylor & Francis Group. ISBN: 9781315108766",
+        "citation_ar": "Philosophy of Religion in Post-Revolutionary Iran. بقلم Heydar Shadi. (2018). — Taylor & Francis Group. ردمك: 9781315108766"
+      },
+      {
+        "reference_title": "Philosophical instructions",
+        "reference_url": "https://openlibrary.org/works/OL10213730W",
+        "citation_en": "Philosophical instructions. by Muhammad Taqi Misbah Yazdi, MuhÌ£ammad TaqiÌ MisÌ£baÌhÌ£ YazdiÌ, Ayatullah Muhammad Taqi Misbah Yazdi. (1999). — Global Publications. ISBN: 9781883058753",
+        "citation_ar": "Philosophical instructions. بقلم Muhammad Taqi Misbah Yazdi، MuhÌ£ammad TaqiÌ MisÌ£baÌhÌ£ YazdiÌ، Ayatullah Muhammad Taqi Misbah Yazdi. (1999). — Global Publications. ردمك: 9781883058753"
+      },
+      {
+        "reference_title": "Nazariyat al Mar'ifah Bayna al Qur'an Wa'l Falsafah Vol. 3",
+        "reference_url": "https://openlibrary.org/works/OL28807711W",
+        "citation_en": "Nazariyat al Mar'ifah Bayna al Qur'an Wa'l Falsafah Vol. 3. by Rajih A. Kurdi, Rabbaniyat al Ma'rifah, Wa Mawgifuha Min. (1991). — International Institute of Islamic Thought, The. ISBN: 9780912463476",
+        "citation_ar": "Nazariyat al Mar'ifah Bayna al Qur'an Wa'l Falsafah Vol. 3. بقلم Rajih A. Kurdi، Rabbaniyat al Ma'rifah، Wa Mawgifuha Min. (1991). — International Institute of Islamic Thought, The. ردمك: 9780912463476"
+      },
+      {
+        "reference_title": "Science and epistemology in the Koran",
+        "reference_url": "https://openlibrary.org/works/OL2626254W",
+        "citation_en": "Science and epistemology in the Koran. by Masudul Alam Choudhury. (2006). — Edwin Mellen Press. ISBN: 0773460306",
+        "citation_ar": "Science and epistemology in the Koran. بقلم Masudul Alam Choudhury. (2006). — Edwin Mellen Press. ردمك: 0773460306"
+      },
+      {
+        "reference_title": "God and Humans in Islamic Thought: 'Abd al-Jabbar, Ibn Sina and al-Ghazali (review)",
+        "reference_url": "https://doi.org/10.1353/pew.2008.0020",
+        "citation_en": "Marenbon, J. \"God and Humans in Islamic Thought: 'Abd al-Jabbar, Ibn Sina and al-Ghazali (review)\". *Philosophy East and West*, 2008.",
+        "citation_ar": "مارينبون، ج. \"الله والبشر في الفكر الإسلامي: عبد الجبار وابن سينا والغزالي (مراجعة)\". *فلسفة شرق وغرب*، 2008."
+      },
+      {
+        "reference_title": "Religion vs. Philosophy I—al-Ghazali",
+        "reference_url": "https://doi.org/10.2307/jj.809345.11",
+        "citation_en": "Al-Ghazali. \"Religion vs. Philosophy I—al-Ghazali\". crossref, 2023.",
+        "citation_ar": "الغزالي. \"الدين مقابل الفلسفة الأول—الغزالي\". كروسريف، 2023."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Cartesian Rationalism: Cogito, Mind-Body Dualism, and Method of Doubt",
+    "academic_concept_ar": "الرواقية الكارتيزية: الكوجيتو، الثنائية الجسدية‑العقلية، وطريقة الشك.",
+    "concept_url_en": "https://smarticle.tech/en/article/cartesian-rationalism-cogito-mind-body-dualism-and-method-of-doubt-202605160202",
+    "concept_url_ar": "https://smarticle.tech/ar/article/cartesian-rationalism-cogito-mind-body-dualism-and-method-of-doubt-202605160202",
+    "subcategory": "Modern Philosophy",
+    "references": [
+      {
+        "reference_title": "Philosophical writings",
+        "reference_url": "https://archive.org/details/philosophicalwri00desc",
+        "citation_en": "Philosophical writings. by René Descartes. (1952). — Nelson. ISBN: 0171370996",
+        "citation_ar": "Philosophical writings. بقلم René Descartes. (1952). — Nelson. ردمك: 0171370996"
+      },
+      {
+        "reference_title": "Res cogitans",
+        "reference_url": "https://archive.org/details/rescogitansessay0000vend",
+        "citation_en": "Res cogitans. by Zeno Vendler. (1972). — Cornell University Press. ISBN: 9781501743733",
+        "citation_ar": "Res cogitans. بقلم Zeno Vendler. (1972). — Cornell University Press. ردمك: 9781501743733"
+      },
+      {
+        "reference_title": "Cartesian Rationalism",
+        "reference_url": "https://openlibrary.org/works/OL21574303W",
+        "citation_en": "Cartesian Rationalism. by Zbigniew Drozdowicz. (2015). — Lang GmbH, Internationaler Verlag der Wissenschaften, Peter. ISBN: 9783653056112",
+        "citation_ar": "Cartesian Rationalism. بقلم Zbigniew Drozdowicz. (2015). — Lang GmbH, Internationaler Verlag der Wissenschaften, Peter. ردمك: 9783653056112"
+      },
+      {
+        "reference_title": "Divine Will and the Mechanical Philosophy",
+        "reference_url": "https://openlibrary.org/works/OL8305801W",
+        "citation_en": "Divine Will and the Mechanical Philosophy. by Margaret J. Osler. (1994). — Cambridge University Press. ISBN: 9780521524926",
+        "citation_ar": "Divine Will and the Mechanical Philosophy. بقلم Margaret J. Osler. (1994). — Cambridge University Press. ردمك: 9780521524926"
+      },
+      {
+        "reference_title": "Descartes and the Enlightenment",
+        "reference_url": "https://archive.org/details/descartesenlight0000scho",
+        "citation_en": "Descartes and the Enlightenment. by Peter A. Schouls. (1989). — McGill-Queen's University Press. ISBN: 9780852245620",
+        "citation_ar": "Descartes and the Enlightenment. بقلم Peter A. Schouls. (1989). — McGill-Queen's University Press. ردمك: 9780852245620"
+      },
+      {
+        "reference_title": "Cartesian women",
+        "reference_url": "https://archive.org/details/cartesianwomenve00hart",
+        "citation_en": "Cartesian women. by Erica Harth. (1992). — Cornell University Press. ISBN: 0801427150",
+        "citation_ar": "Cartesian women. بقلم Erica Harth. (1992). — Cornell University Press. ردمك: 0801427150"
+      },
+      {
+        "reference_title": "Cartesian Dualism: Bridging Descartes’ Mind-Body Dichotomy to Contemporary Psychology and Mental Health",
+        "reference_url": "https://doi.org/10.59652/jcpas.v3i2.513",
+        "citation_en": "Deo Kenneth Camargo. \"Cartesian Dualism: Bridging Descartes’ Mind-Body Dichotomy to Contemporary Psychology and Mental Health\". crossref, 2025.",
+        "citation_ar": "من تأليف كينيث كامارغو. \"الازدواجية الديكارتية: جسر ديكارت بين ثنائية العقل والجسد وعلم النفس المعاصر والصحة العقلية\". كروسريف، 2025."
+      },
+      {
+        "reference_title": "Descartes on Mind and Body",
+        "reference_url": "https://doi.org/10.5840/cogito1988229",
+        "citation_en": "Cottingham, John. \"Descartes on Mind and Body\". crossref, 1988.",
+        "citation_ar": "من تأليف جون كوتينغهام. \"ديكارت عن العقل والجسد\". كروسريف، 1988."
+      },
+      {
+        "reference_title": "Mind-Body Dualism and the Harvey-Descartes Controversy",
+        "reference_url": "https://doi.org/10.2307/2709897",
+        "citation_en": "Gorham, Geoffrey. \"Mind-Body Dualism and the Harvey-Descartes Controversy\". *crossref*, 1994.",
+        "citation_ar": "من تأليف جيفري غورهام. \"الازدواجية العقل والجسد والجدل بين هارفي وديكارت\". *كروسريف*، 1994."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Kantian Epistemology: Categories of Understanding and the Synthetic A Priori",
+    "academic_concept_ar": "الإبستمولوجيا الكانطية: فئات الفهم والمعرفة التركيبية السابقة للخبرة.",
+    "concept_url_en": "https://smarticle.tech/en/article/kantian-epistemology-categories-of-understanding-and-the-synthetic-a-priori-202605160211",
+    "concept_url_ar": "https://smarticle.tech/ar/article/kantian-epistemology-categories-of-understanding-and-the-synthetic-a-priori-202605160211",
+    "subcategory": "Modern Philosophy",
+    "references": [
+      {
+        "reference_title": "Kritik der Urteilskraft",
+        "reference_url": "https://archive.org/details/critiquekantaest00kantuoft",
+        "citation_en": "Kritik der Urteilskraft. by Immanuel Kant. (1793). — Konemann. ISBN: 0760762023",
+        "citation_ar": "Kritik der Urteilskraft. بقلم Immanuel Kant. (1793). — Konemann. ردمك: 0760762023"
+      },
+      {
+        "reference_title": "Die Welt als Wille und Vorstellung",
+        "reference_url": "https://archive.org/details/worldaswillidea02scho_0",
+        "citation_en": "Die Welt als Wille und Vorstellung. by Arthur Schopenhauer. (1819). — Digireads.com Pub.. ISBN: 9798760673473",
+        "citation_ar": "Die Welt als Wille und Vorstellung. بقلم Arthur Schopenhauer. (1819). — Digireads.com Pub.. ردمك: 9798760673473"
+      },
+      {
+        "reference_title": "The Kantian epistemology and theism",
+        "reference_url": "https://archive.org/details/kantianepistemol00hodgrich",
+        "citation_en": "The Kantian epistemology and theism. by Hodge, Caspar Wistar Jr.. (1894). — MacCalla & Co.",
+        "citation_ar": "The Kantian epistemology and theism. بقلم Hodge, Caspar Wistar Jr.. (1894). — MacCalla & Co."
+      },
+      {
+        "reference_title": "Kantian Epistemology and Theism",
+        "reference_url": "https://openlibrary.org/works/OL37682294W",
+        "citation_en": "Kantian Epistemology and Theism. by Caspar Wistar Hodge. (2023). — Creative Media Partners, LLC. ISBN: 9781020923944",
+        "citation_ar": "Kantian Epistemology and Theism. بقلم Caspar Wistar Hodge. (2023). — Creative Media Partners, LLC. ردمك: 9781020923944"
+      },
+      {
+        "reference_title": "Who's Afraid of Idealism?",
+        "reference_url": "https://openlibrary.org/works/OL8499966W",
+        "citation_en": "Who's Afraid of Idealism?. by Luis M. Augusto, Luis M. Augusto. (2005). — University Press of America. ISBN: 9780761832973",
+        "citation_ar": "Who's Afraid of Idealism?. بقلم Luis M. Augusto، Luis M. Augusto. (2005). — University Press of America. ردمك: 9780761832973"
+      },
+      {
+        "reference_title": "Readings in epistemology from Descartes, Locke, Berkeley, Hume, Kant",
+        "reference_url": "https://openlibrary.org/works/OL18406335W",
+        "citation_en": "Readings in epistemology from Descartes, Locke, Berkeley, Hume, Kant. by Vincent G. Potter. (1986). — Fordham University Press. ISBN: 0823213080",
+        "citation_ar": "Readings in epistemology from Descartes, Locke, Berkeley, Hume, Kant. بقلم Vincent G. Potter. (1986). — Fordham University Press. ردمك: 0823213080"
+      },
+      {
+        "reference_title": "Synthetic a priori and mathematical account in Kant's philosophy",
+        "reference_url": "https://openlibrary.org/works/OL23453797W",
+        "citation_en": "Synthetic a priori and mathematical account in Kant's philosophy. by Giacomo Maria Virone. (2012). — LED. ISBN: 8879165992",
+        "citation_ar": "Synthetic a priori and mathematical account in Kant's philosophy. بقلم Giacomo Maria Virone. (2012). — LED. ردمك: 8879165992"
+      },
+      {
+        "reference_title": "Locke, Kant, and Synthetic A Priori Cognition",
+        "reference_url": "https://doi.org/10.1515/kantyb-2015-0003",
+        "citation_en": "Brian A. Chance. \"Locke, Kant, and Synthetic A Priori Cognition\". *crossref*, 2015.",
+        "citation_ar": "برايان إيه. تشانس. \"لوك، كانط، والإدراك الاستنباطي التركيبي القبلي\". *كروسريف*، 2015."
+      },
+      {
+        "reference_title": "The Synthetic A Priori in Strawson ‘s Kantianism",
+        "reference_url": "https://doi.org/10.1093/oso/9780199252824.003.0007",
+        "citation_en": "Stroud, Barry. \"The Synthetic A Priori in Strawson’s Kantianism\". *crossref*, 2003.",
+        "citation_ar": "باري سترود. \"الاستنباطي التركيبي القبلي في كانطية ستروسون\". *كروسريف*، 2003."
+      },
+      {
+        "reference_title": "Kant and Husserl on the Synthetic A Priori",
+        "reference_url": "https://doi.org/10.1515/kant.1972.63.1-4.341",
+        "citation_en": "Gallagher, Kenneth T. \"Kant and Husserl on the Synthetic A Priori\". *Kant-Studien*, 1972.",
+        "citation_ar": "كينيث تي. غالاغر. \"كانط وهوسرل حول الاستنباطي التركيبي القبلي\". *كانت-شتودين*، 1972."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "British Empiricism: Locke on Ideas, Hume on Causation, and the Limits of Knowledge",
+    "academic_concept_ar": "الإمبريالية البريطانية: لوك حول الأفكار، هيوم حول السببية، وحدود المعرفة.",
+    "concept_url_en": "https://smarticle.tech/en/article/british-empiricism-locke-on-ideas-hume-on-causation-and-the-limits-of-knowl-202605160219",
+    "concept_url_ar": "https://smarticle.tech/ar/article/british-empiricism-locke-on-ideas-hume-on-causation-and-the-limits-of-knowl-202605160219",
+    "subcategory": "Modern Philosophy",
+    "references": [
+      {
+        "reference_title": "A history of philosophy",
+        "reference_url": "https://archive.org/details/historyofphiloso0003copl_i3g7",
+        "citation_en": "A history of philosophy. by Frederick Charles Copleston. (1900). — Newman Bookshop. ISBN: 0855321814",
+        "citation_ar": "A history of philosophy. بقلم Frederick Charles Copleston. (1900). — Newman Bookshop. ردمك: 0855321814"
+      },
+      {
+        "reference_title": "Essays and treatises on several subjects",
+        "reference_url": "https://archive.org/details/essaysandtreati28humegoog",
+        "citation_en": "Essays and treatises on several subjects. by David Hume. (1753). — Printed for A. Millar",
+        "citation_ar": "Essays and treatises on several subjects. بقلم David Hume. (1753). — Printed for A. Millar"
+      },
+      {
+        "reference_title": "The Varieties of Religious Experience",
+        "reference_url": "https://archive.org/details/varietiesofrelig0000jame_l3u3",
+        "citation_en": "The Varieties of Religious Experience. by William James, Dr. William James, WILLIAM JAMES. (1817). — Image Books. ISBN: 9781726136587",
+        "citation_ar": "The Varieties of Religious Experience. بقلم William James، Dr. William James، WILLIAM JAMES. (1817). — Image Books. ردمك: 9781726136587"
+      },
+      {
+        "reference_title": "Language, truth and logic",
+        "reference_url": "https://archive.org/details/AlfredAyer",
+        "citation_en": "Language, truth and logic. by A. J. Ayer. (1936). — Penguin. ISBN: 0140136592",
+        "citation_ar": "Language, truth and logic. بقلم A. J. Ayer. (1936). — Penguin. ردمك: 0140136592"
+      },
+      {
+        "reference_title": "Essays in radical empiricism",
+        "reference_url": "https://archive.org/details/essaysinradicale00jame",
+        "citation_en": "Essays in radical empiricism. by William James. (1912). — University of Nebraska Press. ISBN: 9780803275898",
+        "citation_ar": "Essays in radical empiricism. بقلم William James. (1912). — University of Nebraska Press. ردمك: 9780803275898"
+      },
+      {
+        "reference_title": "Experience and nature",
+        "reference_url": "https://archive.org/details/experiencenature00dewe_487",
+        "citation_en": "Experience and nature. by John Dewey. (1925). — Open court Publishing Company. ISBN: 0875480977",
+        "citation_ar": "Experience and nature. بقلم John Dewey. (1925). — Open court Publishing Company. ردمك: 0875480977"
+      },
+      {
+        "reference_title": "Art as Experience",
+        "reference_url": "https://archive.org/details/artasexperience0000dewe_l1f6",
+        "citation_en": "Art as Experience. by John Dewey. (1934). — Allen and Unwin. ISBN: 0399500251",
+        "citation_ar": "Art as Experience. بقلم John Dewey. (1934). — Allen and Unwin. ردمك: 0399500251"
+      },
+      {
+        "reference_title": "Separability and concept-empiricism: hume vs. locke",
+        "reference_url": "https://doi.org/10.1080/09608780701605010",
+        "citation_en": "Weintraub, Ruth. \"Separability and concept-empiricism: hume vs. locke\". *crossref*, 2007.",
+        "citation_ar": "روث وينتروب. \"الفصلية والمذهب التجريبي للمفاهيم: هيوم مقابل لوك\". *كروسريف*، 2007."
+      },
+      {
+        "reference_title": "Hume on Ideas, Evidence, and Knowledge",
+        "reference_url": "https://doi.org/10.1093/acprof:oso/9780198716785.003.0003",
+        "citation_en": "De Pierris, Graciela. \"Hume on Ideas, Evidence, and Knowledge\". *crossref*, 2015.",
+        "citation_ar": "غراتسيلا دي بيريس. \"هيوم حول الأفكار والأدلة والمعرفة\". *كروسريف*، 2015."
+      },
+      {
+        "reference_title": "Hume and Locke on Causation and Scientific Methodology",
+        "reference_url": "https://doi.org/10.1093/acprof:oso/9780198716785.003.0004",
+        "citation_en": "De Pierris, Graciela. \"Hume and Locke on Causation and Scientific Methodology\". crossref, 2015.",
+        "citation_ar": "غراتسيلا دي بيريس. \"هيوم ولوك حول السببية والمنهجية العلمية\". *كروسريف*، 2015."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Existentialism: Sartre, Heidegger, and Authentic Existence",
+    "academic_concept_ar": "الوجودية: سارتر، هايدغر، والوجود الأصيل",
+    "concept_url_en": "https://smarticle.tech/en/article/existentialism-sartre-heidegger-and-authentic-existence-202605160227",
+    "concept_url_ar": "https://smarticle.tech/ar/article/existentialism-sartre-heidegger-and-authentic-existence-202605160227",
+    "subcategory": "Contemporary Philosophy",
+    "references": [
+      {
+        "reference_title": "Sein und Zeit",
+        "reference_url": "https://archive.org/details/ontimebeing0000heid_c7l5",
+        "citation_en": "Sein und Zeit. by Martin Heidegger. (1927). — Neomarius. ISBN: 9780710086457",
+        "citation_ar": "Sein und Zeit. بقلم Martin Heidegger. (1927). — Neomarius. ردمك: 9780710086457"
+      },
+      {
+        "reference_title": "Jenseits von Gut und Böse",
+        "reference_url": "https://archive.org/details/beyondgoodevil0000niet",
+        "citation_en": "Jenseits von Gut und Böse. by Friedrich Nietzsche. (1885). — Allen & Unwin. ISBN: 9781981824007",
+        "citation_ar": "Jenseits von Gut und Böse. بقلم Friedrich Nietzsche. (1885). — Allen & Unwin. ردمك: 9781981824007"
+      },
+      {
+        "reference_title": "Le Deuxième Sexe",
+        "reference_url": "https://archive.org/details/secondsex0000beau_f7y6",
+        "citation_en": "Le Deuxième Sexe. by Simone de Beauvoir. (1949). — Bantam Books. ISBN: 9781530969593",
+        "citation_ar": "Le Deuxième Sexe. بقلم Simone de Beauvoir. (1949). — Bantam Books. ردمك: 9781530969593"
+      },
+      {
+        "reference_title": "Le mur",
+        "reference_url": "https://archive.org/details/bwb_P3-DGI-113",
+        "citation_en": "Le mur. by Jean-Paul Sartre. (1935). — Alianza. ISBN: 0828837759",
+        "citation_ar": "Le mur. بقلم Jean-Paul Sartre. (1935). — Alianza. ردمك: 0828837759"
+      },
+      {
+        "reference_title": "La nausée",
+        "reference_url": "https://archive.org/details/nauseasart00sart",
+        "citation_en": "La nausée. by Jean-Paul Sartre. (1938). — Rodopi. ISBN: 9782070368051",
+        "citation_ar": "La nausée. بقلم Jean-Paul Sartre. (1938). — Rodopi. ردمك: 9782070368051"
+      },
+      {
+        "reference_title": "L'être et le néant",
+        "reference_url": "https://archive.org/details/letreetleneant00jean",
+        "citation_en": "L'être et le néant. by Jean-Paul Sartre. (1943). — Gramercy Books. ISBN: 9781138301375",
+        "citation_ar": "L'être et le néant. بقلم Jean-Paul Sartre. (1943). — Gramercy Books. ردمك: 9781138301375"
+      },
+      {
+        "reference_title": "L'Homme révolté",
+        "reference_url": "https://archive.org/details/rebel0000unse_n3f7",
+        "citation_en": "L'Homme révolté. by Albert Camus. (1951). — Izd-vo Politicheskoĭ lit-ry. ISBN: 0141914106",
+        "citation_ar": "L'Homme révolté. بقلم Albert Camus. (1951). — Izd-vo Politicheskoĭ lit-ry. ردمك: 0141914106"
+      },
+      {
+        "reference_title": "... Trotzdem Ja zum Leben sagen",
+        "reference_url": "https://archive.org/details/manssearchformea0000vikt_n7m8",
+        "citation_en": "... Trotzdem Ja zum Leben sagen. by Viktor E. Frankl. (1946). — Verlag für Jugend und Volk. ISBN: 8171086381",
+        "citation_ar": "... Trotzdem Ja zum Leben sagen. بقلم Viktor E. Frankl. (1946). — Verlag für Jugend und Volk. ردمك: 8171086381"
+      },
+      {
+        "reference_title": "Relations with Others and Authentic Existence",
+        "reference_url": "https://doi.org/10.5040/9781472547552.ch-005",
+        "citation_en": "Cross, R. \"Relations with Others and Authentic Existence\". *crossref*, 2010.",
+        "citation_ar": "كروس، ر. \"العلاقات مع الآخرين والوجود الأصيل\". *كروسرف*، 2010."
+      },
+      {
+        "reference_title": "Heidegger, Authenticity and the Self",
+        "reference_url": "https://doi.org/10.4324/9781315771861",
+        "citation_en": "Taylor, C. \"Heidegger, Authenticity and the Self\". *crossref*, 2014.",
+        "citation_ar": "تايلور، س. \"هايدغر، الأصالة والذات\". *كروسرف*، 2014."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Analytic Philosophy: Logical Analysis and the Linguistic Turn",
+    "academic_concept_ar": "الفلسفة التحليلية: التحليل المنطقي والتحول اللغوي.",
+    "concept_url_en": "https://smarticle.tech/en/article/analytic-philosophy-logical-analysis-and-the-linguistic-turn-202605160234",
+    "concept_url_ar": "https://smarticle.tech/ar/article/analytic-philosophy-logical-analysis-and-the-linguistic-turn-202605160234",
+    "subcategory": "Contemporary Philosophy",
+    "references": [
+      {
+        "reference_title": "Tractatus logico-philosophicus",
+        "reference_url": "https://archive.org/details/tractatuslogicop1971witt",
+        "citation_en": "Tractatus logico-philosophicus. by Ludwig Wittgenstein, Isidoro Reguera Pérez, Ivo Hernández. (1921). — K. Paul, Trench, Trubner & co., ltd.. ISBN: 8430938095",
+        "citation_ar": "Tractatus logico-philosophicus. بقلم Ludwig Wittgenstein، Isidoro Reguera Pérez، Ivo Hernández. (1921). — K. Paul, Trench, Trubner & co., ltd.. ردمك: 8430938095"
+      },
+      {
+        "reference_title": "The Problems of Philosophy",
+        "reference_url": "https://archive.org/details/rkas.1029.problemsofphilos0000bert_u1j0",
+        "citation_en": "The Problems of Philosophy. by Bertrand Russell. (1900). — Westland, Brian. ISBN: 9781985105546",
+        "citation_ar": "The Problems of Philosophy. بقلم Bertrand Russell. (1900). — Westland, Brian. ردمك: 9781985105546"
+      },
+      {
+        "reference_title": "Organon",
+        "reference_url": "https://archive.org/details/theorganon01arisuoft",
+        "citation_en": "Organon. by Aristotle. (1481). — Harvard University Press. ISBN: 9789630514583",
+        "citation_ar": "Organon. بقلم Aristotle. (1481). — Harvard University Press. ردمك: 9789630514583"
+      },
+      {
+        "reference_title": "Analytic Philosophy and the Linguistic Turn",
+        "reference_url": "https://doi.org/10.17325/sgjp.2011.27..9",
+        "citation_en": "엄정식. \"Analytic Philosophy and the Linguistic Turn\". crossref, 2011.",
+        "citation_ar": "엄정식. \"Analytic Philosophy and the Linguistic Turn\". crossref, 2011."
+      },
+      {
+        "reference_title": "Hermeneutic and Analytic Philosophy. Two Complementary Versions of the Linguistic Turn?",
+        "reference_url": "https://doi.org/10.1017/cbo9780511524110.021",
+        "citation_en": "Habermas, Jürgen. \"Hermeneutic and Analytic Philosophy. Two Complementary Versions of the Linguistic Turn?\". crossref, 1999.",
+        "citation_ar": "Habermas, Jürgen. \"Hermeneutic and Analytic Philosophy. Two Complementary Versions of the Linguistic Turn?\". crossref, 1999."
+      },
+      {
+        "reference_title": "Hausserl and the Linguistic Turn",
+        "reference_url": "https://doi.org/10.1093/019513916x.003.0007",
+        "citation_en": "Charles Parsons. \"Hausserl and the Linguistic Turn\". crossref, 2001.",
+        "citation_ar": "Charles Parsons. \"Hausserl and the Linguistic Turn\". crossref, 2001."
+      },
+      {
+        "reference_title": "The Linguistic Turn in Analytic Philosophy",
+        "reference_url": "https://doi.org/10.1093/oxfordhb/9780199238842.013.0030",
+        "citation_en": "Hacker, Peter M. S. \"The Linguistic Turn in Analytic Philosophy\". *Oxford Handbook of Analytic Philosophy*, 2013.",
+        "citation_ar": "Hacker, Peter M. S. \"The Linguistic Turn in Analytic Philosophy\". *Oxford Handbook of Analytic Philosophy*, 2013."
+      },
+      {
+        "reference_title": "The Linguistic Turn and the Conceptual Turn",
+        "reference_url": "https://doi.org/10.1002/9780470696675.ch1",
+        "citation_en": "Rorty, R. \"The Linguistic Turn and the Conceptual Turn\". *crossref*, 2007.",
+        "citation_ar": "Rorty, R. \"The Linguistic Turn and the Conceptual Turn\". *crossref*, 2007."
+      },
+      {
+        "reference_title": "CHAPTER 1 THE LINGUISTIC TURN",
+        "reference_url": "https://doi.org/10.1515/9783110320763.19",
+        "citation_en": "Rorty, Richard. \"CHAPTER 1 THE LINGUISTIC TURN\". *crossref*, 2003.",
+        "citation_ar": "Rorty, Richard. \"CHAPTER 1 THE LINGUISTIC TURN\". *crossref*, 2003."
+      },
+      {
+        "reference_title": "The Linguistic Turn in the German Tradition of the Philosophy of Language",
+        "reference_url": "https://doi.org/10.7551/mitpress/4249.003.0002",
+        "citation_en": "Beaney, M. \"The Linguistic Turn in the German Tradition of the Philosophy of Language\". crossref, 2002.",
+        "citation_ar": "Beaney, M. \"The Linguistic Turn in the German Tradition of the Philosophy of Language\". crossref, 2002."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Postmodernism: Foucault, Derrida, and the Critique of Grand Narratives",
+    "academic_concept_ar": "ما بعد الحداثة: فوكو، دريدا، والنقد للقصص الكبرى.",
+    "concept_url_en": "https://smarticle.tech/en/article/postmodernism-foucault-derrida-and-the-critique-of-grand-narratives-202605160241",
+    "concept_url_ar": "https://smarticle.tech/ar/article/postmodernism-foucault-derrida-and-the-critique-of-grand-narratives-202605160241",
+    "subcategory": "Contemporary Philosophy",
+    "references": [
+      {
+        "reference_title": "Se una notte d'inverno un viaggiatore",
+        "reference_url": "https://archive.org/details/ruguozaidongyeyi0000calv",
+        "citation_en": "Se una notte d'inverno un viaggiatore. by Italo Calvino. (1979). — David Campbell Publishers. ISBN: 9782020062398",
+        "citation_ar": "Se una notte d'inverno un viaggiatore. بقلم Italo Calvino. (1979). — David Campbell Publishers. ردمك: 9782020062398"
+      },
+      {
+        "reference_title": "Mille plateaux",
+        "reference_url": "https://archive.org/details/thousandplateaus0000dele",
+        "citation_en": "Mille plateaux. by Gilles Deleuze, Félix Guattari. (1980). — Continuum. ISBN: 9788585490652",
+        "citation_ar": "Mille plateaux. بقلم Gilles Deleuze، Félix Guattari. (1980). — Continuum. ردمك: 9788585490652"
+      },
+      {
+        "reference_title": "Quiddities",
+        "reference_url": "https://archive.org/details/ApparitionPoemsThePositTrilogy_641",
+        "citation_en": "Quiddities. by Adam Fieled. (2009). — Tears in the Fence. ISBN: 9781609640194",
+        "citation_ar": "Quiddities. بقلم Adam Fieled. (2009). — Tears in the Fence. ردمك: 9781609640194"
+      },
+      {
+        "reference_title": "Mario Botta",
+        "reference_url": "https://archive.org/details/mariobottalightg0000bott",
+        "citation_en": "Mario Botta. by Mario Botta, Vittorio Fagone, Francesco Dal Co. (1979). — Birkhauser Verlag. ISBN: 9788817865227",
+        "citation_ar": "Mario Botta. بقلم Mario Botta، Vittorio Fagone، Francesco Dal Co. (1979). — Birkhauser Verlag. ردمك: 9788817865227"
+      },
+      {
+        "reference_title": "Aldo Rossi",
+        "reference_url": "https://openlibrary.org/works/OL543412W",
+        "citation_en": "Aldo Rossi. by Aldo Rossi. (1979). — Mazzotta. ISBN: 9781878271150",
+        "citation_ar": "Aldo Rossi. بقلم Aldo Rossi. (1979). — Mazzotta. ردمك: 9781878271150"
+      },
+      {
+        "reference_title": "Postmodernism, or, the cultural logic of late capitalism",
+        "reference_url": "https://archive.org/details/postmodernismorc0000jame_v7l1",
+        "citation_en": "Postmodernism, or, the cultural logic of late capitalism. by Fredric Jameson. (1990). — Jing xiao zhe Xin hua shu dian. ISBN: 9788498796520",
+        "citation_ar": "Postmodernism, or, the cultural logic of late capitalism. بقلم Fredric Jameson. (1990). — Jing xiao zhe Xin hua shu dian. ردمك: 9788498796520"
+      },
+      {
+        "reference_title": "The philosophical discourse of modernity",
+        "reference_url": "https://archive.org/details/philosophicaldis0000habe",
+        "citation_en": "The philosophical discourse of modernity. by Jürgen Habermas. (1987). — Polity Press. ISBN: 9780262581028",
+        "citation_ar": "The philosophical discourse of modernity. بقلم Jürgen Habermas. (1987). — Polity Press. ردمك: 9780262581028"
+      },
+      {
+        "reference_title": "Forord",
+        "reference_url": "https://archive.org/details/prefaceslightrea0000kier",
+        "citation_en": "Forord. by Søren Kierkegaard. (1844). — Univ Pr of Florida. ISBN: 9780691048277",
+        "citation_ar": "Forord. بقلم Søren Kierkegaard. (1844). — Univ Pr of Florida. ردمك: 9780691048277"
+      },
+      {
+        "reference_title": "La fine della modernità",
+        "reference_url": "https://archive.org/details/elfindelamoderni00gian",
+        "citation_en": "La fine della modernità. by Gianni Vattimo. (1985). — Reclam, Ditzingen. ISBN: 0801834449",
+        "citation_ar": "La fine della modernità. بقلم Gianni Vattimo. (1985). — Reclam, Ditzingen. ردمك: 0801834449"
+      },
+      {
+        "reference_title": "Peter Eisenman",
+        "reference_url": "https://openlibrary.org/works/OL121113W",
+        "citation_en": "Peter Eisenman. by Peter Eisenman, Emmanuel Petit, Mark Wigley. (1988). — A + U. ISBN: 9783775715614",
+        "citation_ar": "Peter Eisenman. بقلم Peter Eisenman، Emmanuel Petit، Mark Wigley. (1988). — A + U. ردمك: 9783775715614"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Formal and Symbolic Logic: Propositional and Predicate Calculus",
+    "academic_concept_ar": "المنطق الرسمي والرمزي: حساب القضايا وحساب المتغيرات.",
+    "concept_url_en": "https://smarticle.tech/en/article/formal-and-symbolic-logic-propositional-and-predicate-calculus-202605160251",
+    "concept_url_ar": "https://smarticle.tech/ar/article/formal-and-symbolic-logic-propositional-and-predicate-calculus-202605160251",
+    "subcategory": "Logic",
+    "references": [
+      {
+        "reference_title": "Beginning logic",
+        "reference_url": "https://archive.org/details/beginninglogic00lemm",
+        "citation_en": "Beginning logic. by E. J. Lemmon. (1965). — Hackett Pub. Co.. ISBN: 9780442306762",
+        "citation_ar": "Beginning logic. بقلم E. J. Lemmon. (1965). — Hackett Pub. Co.. ردمك: 9780442306762"
+      },
+      {
+        "reference_title": "Logic: theory and practice",
+        "reference_url": "https://openlibrary.org/works/OL7038578W",
+        "citation_en": "Logic: theory and practice. by M. K. Rennie. (1973). — University of Queensland Press. ISBN: 9780702208539",
+        "citation_ar": "Logic: theory and practice. بقلم M. K. Rennie. (1973). — University of Queensland Press. ردمك: 9780702208539"
+      },
+      {
+        "reference_title": "A Teaching Companion to Lemmon's Beginning Logic",
+        "reference_url": "https://archive.org/details/teachingcompanio0000schu",
+        "citation_en": "A Teaching Companion to Lemmon's Beginning Logic. by George F. Schumm. (1979). — Hackett Publishing Company. ISBN: 0915144654",
+        "citation_ar": "A Teaching Companion to Lemmon's Beginning Logic. بقلم George F. Schumm. (1979). — Hackett Publishing Company. ردمك: 0915144654"
+      },
+      {
+        "reference_title": "Mathematical logic",
+        "reference_url": "https://archive.org/details/mathematicallogi00cori_149",
+        "citation_en": "Mathematical logic. by René Cori, Rene Cori, Daniel Lascar. (2000). — Oxford University Press. ISBN: 9780198500490",
+        "citation_ar": "Mathematical logic. بقلم René Cori، Rene Cori، Daniel Lascar. (2000). — Oxford University Press. ردمك: 9780198500490"
+      },
+      {
+        "reference_title": "Propositional and Predicate Calculus",
+        "reference_url": "https://openlibrary.org/works/OL9037187W",
+        "citation_en": "Propositional and Predicate Calculus. by Derek Goldrei. (2005). — Springer. ISBN: 1846282292",
+        "citation_ar": "Propositional and Predicate Calculus. بقلم Derek Goldrei. (2005). — Springer. ردمك: 1846282292"
+      },
+      {
+        "reference_title": "Mathematical Logic - A Course with Exercises Pt. 1",
+        "reference_url": "https://openlibrary.org/works/OL29383894W",
+        "citation_en": "Mathematical Logic - A Course with Exercises Pt. 1. by Rene Cori, D. Lascar, Donald H. Pelletier. (2001). — Oxford University Press. ISBN: 1280819669",
+        "citation_ar": "Mathematical Logic - A Course with Exercises Pt. 1. بقلم Rene Cori، D. Lascar، Donald H. Pelletier. (2001). — Oxford University Press. ردمك: 1280819669"
+      },
+      {
+        "reference_title": "Lógica para computación",
+        "reference_url": "https://openlibrary.org/works/OL4708878W",
+        "citation_en": "Lógica para computación. by Francisco S. Naishtat. (1986). — Editorial Universitaria de Buenos Aires",
+        "citation_ar": "Lógica para computación. بقلم Francisco S. Naishtat. (1986). — Editorial Universitaria de Buenos Aires"
+      },
+      {
+        "reference_title": "Propositional and Predicate Calculus A Model of Argument",
+        "reference_url": "https://doi.org/10.1007/1-84628-229-2",
+        "citation_en": "Hurley, P. \"Propositional and Predicate Calculus: A Model of Argument\". Springer, 2005.",
+        "citation_ar": "هورلي، ب. \"حساب القضايا وحساب المحمولات: نموذج للحجاج\". سبرنغر، 2005."
+      },
+      {
+        "reference_title": "Chapter 1 Propositional Calculus",
+        "reference_url": "https://doi.org/10.1016/s0049-237x(08)71718-x",
+        "citation_en": "Chapter 1 Propositional Calculus. \"Chapter 1 Propositional Calculus\". crossref, 1967.",
+        "citation_ar": "الفصل الأول: حساب القضايا. \"الفصل الأول: حساب القضايا\". كروسرف، 1967."
+      },
+      {
+        "reference_title": "Propositional Calculus",
+        "reference_url": "https://doi.org/10.1201/9781315274744-2",
+        "citation_en": "Propositional Calculus. \"Propositional Calculus\". crossref, 1988.",
+        "citation_ar": "حساب القضايا. \"حساب القضايا\". كروسرف، 1988."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Inductive Reasoning, Probability, and the Problem of Induction",
+    "academic_concept_ar": "الاستدلال الاستقرائي، الاحتمال، ومشكلة الاستقراء.",
+    "concept_url_en": "https://smarticle.tech/en/article/inductive-reasoning-probability-and-the-problem-of-induction-202605160259",
+    "concept_url_ar": "https://smarticle.tech/ar/article/inductive-reasoning-probability-and-the-problem-of-induction-202605160259",
+    "subcategory": "Logic",
+    "references": [
+      {
+        "reference_title": "The nature and application of inductive logic",
+        "reference_url": "https://openlibrary.org/works/OL1176450W",
+        "citation_en": "The nature and application of inductive logic. by Rudolf Carnap. (1951). — University of Chicago Press",
+        "citation_ar": "The nature and application of inductive logic. بقلم Rudolf Carnap. (1951). — University of Chicago Press"
+      },
+      {
+        "reference_title": "Nomic probability and the foundations of induction",
+        "reference_url": "https://archive.org/details/nomicprobability00poll",
+        "citation_en": "Nomic probability and the foundations of induction. by John L. Pollock. (1990). — Oxford University Press, Incorporated. ISBN: 0195345215",
+        "citation_ar": "Nomic probability and the foundations of induction. بقلم John L. Pollock. (1990). — Oxford University Press, Incorporated. ردمك: 0195345215"
+      },
+      {
+        "reference_title": "Thinking about acting",
+        "reference_url": "https://archive.org/details/thinkingaboutact0000poll",
+        "citation_en": "Thinking about acting. by John J. Pollock. (2006). — Oxford University Press. ISBN: 9780195304817",
+        "citation_ar": "Thinking about acting. بقلم John J. Pollock. (2006). — Oxford University Press. ردمك: 9780195304817"
+      },
+      {
+        "reference_title": "Foundations and Applications of Inductive Probability",
+        "reference_url": "https://openlibrary.org/works/OL9634376W",
+        "citation_en": "Foundations and Applications of Inductive Probability. by R. D. Rosenkrantz. (1981). — Ridgeview Publishing Company. ISBN: 0917930037",
+        "citation_ar": "Foundations and Applications of Inductive Probability. بقلم R. D. Rosenkrantz. (1981). — Ridgeview Publishing Company. ردمك: 0917930037"
+      },
+      {
+        "reference_title": "An Introduction to Probability and Inductive Logic Desk Examination Edition",
+        "reference_url": "https://archive.org/details/introductiontopr0000ianh",
+        "citation_en": "An Introduction to Probability and Inductive Logic Desk Examination Edition. by Ian Hacking. (2001). — Cambridge University Press. ISBN: 0521005345",
+        "citation_ar": "An Introduction to Probability and Inductive Logic Desk Examination Edition. بقلم Ian Hacking. (2001). — Cambridge University Press. ردمك: 0521005345"
+      },
+      {
+        "reference_title": "P300 and positive slow waves reveal the plausibility in inductive reasoning.",
+        "reference_url": "https://doi.org/10.1111/psyp.13337",
+        "citation_en": "Lei, Y., Wang, J., Zhu, Y., Chen, Q., Li, H. \"P300 and positive slow waves reveal the plausibility in inductive reasoning\". Psychophysiology, 2019.",
+        "citation_ar": "لي، ي.، وانغ، ج.، زهو، ي.، تشين، كيو.، لي، ه. \"الكشف عن معقولية الاستدلال الاستقرائي من خلال موجات P300 والموجات البطيئة الإيجابية\". *علم النفس الفسيولوجي*، 2019."
+      },
+      {
+        "reference_title": "A Survey of Inductive Reasoning for Large Language Models",
+        "reference_url": "https://arxiv.org/abs/2510.10182",
+        "citation_en": "Chen, Kedi et al. \"A Survey of Inductive Reasoning for Large Language Models\". semantic_scholar_foundational, 2025.",
+        "citation_ar": "تشين، كيدي وآخرون. \"مسح للاستدلال الاستقرائي للنماذج اللغوية الكبيرة\". *semantic_scholar_foundational*، 2025."
+      },
+      {
+        "reference_title": "A bayesian model of individual differences and flexibility in inductive reasoning for categorization of examples",
+        "reference_url": "https://doi.org/10.1145/3375462.3375512",
+        "citation_en": "Louis Faucon, Jennifer K. Olsen, P. Dillenbourg. \"A bayesian model of individual differences and flexibility in inductive reasoning for categorization of examples\". semantic_scholar_foundational, 2020.",
+        "citation_ar": "لويس فوكوون، جنيفر ك. أولسن، ب. ديلنبورغ. \"نموذج بيزي للفروق الفردية والمرونة في الاستدلال الاستقرائي لتصنيف الأمثلة\". *semantic_scholar_foundational*، 2020."
+      },
+      {
+        "reference_title": "A survey of Bayesian Network structure learning",
+        "reference_url": "https://arxiv.org/abs/2109.11415",
+        "citation_en": "Kitson N. K., Constantinou A., Guo Z., Liu Y., Chobtham K. \"A survey of Bayesian Network structure learning\". semantic_scholar_foundational, 2021.",
+        "citation_ar": "كيتسون ن. ك.، قسطنطينو أ.، غوو ز.، ليو ي.، تشوبثام ك. \"مسح لتعلم بنية شبكات بيز\". *semantic_scholar_foundational*، 2021."
+      },
+      {
+        "reference_title": "Empowering LLMs with Logical Reasoning: A Comprehensive Survey",
+        "reference_url": "https://arxiv.org/abs/2502.15652",
+        "citation_en": "Fengxiang Cheng, Haoxuan Li, Fenrong Liu, R. Rooij, Kun Zhang, Zhouchen Lin. \"Empowering LLMs with Logical Reasoning: A Comprehensive Survey\". semantic_scholar_foundational, 2024.",
+        "citation_ar": "فينغشيانغ تشينغ، هاوكسوان لي، فنرونغ ليو، ر. رووي، كون زانغ، زهو تشن لين. \"تمكين النماذج اللغوية الكبيرة بالمنطق الاستنتاجي: مسح شامل\". *semantic_scholar_foundational*، 2024."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Modal and Temporal Logic: Necessity, Possibility, and Worlds",
+    "academic_concept_ar": "المنطق الشرطي والزماني: الضرورة، الاحتمال، والعوالم.",
+    "concept_url_en": "https://smarticle.tech/en/article/modal-and-temporal-logic-necessity-possibility-and-worlds-202605160311",
+    "concept_url_ar": "https://smarticle.tech/ar/article/modal-and-temporal-logic-necessity-possibility-and-worlds-202605160311",
+    "subcategory": "Logic",
+    "references": [
+      {
+        "reference_title": "Modality and the English modals",
+        "reference_url": "https://archive.org/details/modalityenglishm0000palm_q0z1",
+        "citation_en": "Modality and the English modals. by F. R. Palmer. (1979). — Routledge. ISBN: 9780582034860",
+        "citation_ar": "Modality and the English modals. بقلم F. R. Palmer. (1979). — Routledge. ردمك: 9780582034860"
+      },
+      {
+        "reference_title": "Meaning and necessity",
+        "reference_url": "https://archive.org/details/meaningnecessity00carn",
+        "citation_en": "Meaning and necessity. by Rudolf Carnap. (1947). — University Press. ISBN: 9780226093468",
+        "citation_ar": "Meaning and necessity. بقلم Rudolf Carnap. (1947). — University Press. ردمك: 9780226093468"
+      },
+      {
+        "reference_title": "An introduction to modal logic",
+        "reference_url": "https://archive.org/details/introductiontomo0000hugh_z5w7",
+        "citation_en": "An introduction to modal logic. by G. E. Hughes. (1968). — Methuen. ISBN: 9780416294705",
+        "citation_ar": "An introduction to modal logic. بقلم G. E. Hughes. (1968). — Methuen. ردمك: 9780416294705"
+      },
+      {
+        "reference_title": "Possible worlds",
+        "reference_url": "https://archive.org/details/possibleworlds00girl_967",
+        "citation_en": "Possible worlds. by Rod Girle. (2003). — Acumen. ISBN: 9780773526686",
+        "citation_ar": "Possible worlds. بقلم Rod Girle. (2003). — Acumen. ردمك: 9780773526686"
+      },
+      {
+        "reference_title": "Modal logics and philosophy",
+        "reference_url": "https://archive.org/details/modallogicsphilo00girl",
+        "citation_en": "Modal logics and philosophy. by Rod Girle. (2000). — McGill-Queen's University Press. ISBN: 1844652084",
+        "citation_ar": "Modal logics and philosophy. بقلم Rod Girle. (2000). — McGill-Queen's University Press. ردمك: 1844652084"
+      },
+      {
+        "reference_title": "Modality",
+        "reference_url": "https://archive.org/details/modality0000meli",
+        "citation_en": "Modality. by Joseph Melia. (2003). — Taylor & Francis Group. ISBN: 184465334X",
+        "citation_ar": "Modality. بقلم Joseph Melia. (2003). — Taylor & Francis Group. ردمك: 184465334X"
+      },
+      {
+        "reference_title": "Mathematics, Models, and Modality",
+        "reference_url": "https://archive.org/details/mathematicsmodel00burg",
+        "citation_en": "Mathematics, Models, and Modality. by John P. Burgess. (2008). — Cambridge University Press. ISBN: 0511487347",
+        "citation_ar": "Mathematics, Models, and Modality. بقلم John P. Burgess. (2008). — Cambridge University Press. ردمك: 0511487347"
+      },
+      {
+        "reference_title": "Deductive logic",
+        "reference_url": "https://archive.org/details/deductivelogicin00clar",
+        "citation_en": "Deductive logic. by D. S. Clarke. (1973). — Southern Illinois University Press. ISBN: 9780809306572",
+        "citation_ar": "Deductive logic. بقلم D. S. Clarke. (1973). — Southern Illinois University Press. ردمك: 9780809306572"
+      },
+      {
+        "reference_title": "Introducing Multimodality",
+        "reference_url": "https://openlibrary.org/works/OL20249816W",
+        "citation_en": "Introducing Multimodality. by Carey Jewitt, Jeff Bezemer, Kay O'Halloran. (2016). — Taylor & Francis Group. ISBN: 9780415639262",
+        "citation_ar": "Introducing Multimodality. بقلم Carey Jewitt، Jeff Bezemer، Kay O'Halloran. (2016). — Taylor & Francis Group. ردمك: 9780415639262"
+      },
+      {
+        "reference_title": "Multimodality, cognition, and experimental literature",
+        "reference_url": "https://openlibrary.org/works/OL15933828W",
+        "citation_en": "Multimodality, cognition, and experimental literature. by Alison Gibbons. (2011). — Routledge. ISBN: 1136632182",
+        "citation_ar": "Multimodality, cognition, and experimental literature. بقلم Alison Gibbons. (2011). — Routledge. ردمك: 1136632182"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "THE ATTITUDE TO HUMOR AS A PEDAGOGICAL TOOL IN THE PERIOD OF ANTIQUITY",
+    "academic_concept_ar": "الموقف من الفكاهة كأداة تربوية في فترة العصور القديمة.",
+    "concept_url_en": "https://smarticle.tech/en/article/the-attitude-to-humor-as-a-pedagogical-tool-in-the-period-of-antiquity-202605241130",
+    "concept_url_ar": "https://smarticle.tech/ar/article/the-attitude-to-humor-as-a-pedagogical-tool-in-the-period-of-antiquity-202605241130",
+    "subcategory": "Ancient Philosophy",
+    "references": [
+      {
+        "reference_title": "THE ATTITUDE TO HUMOR AS A PEDAGOGICAL TOOL IN THE PERIOD OF ANTIQUITY",
+        "reference_url": "https://doi.org/10.12731/2658-4034-2024-15-3-517",
+        "citation_en": "THE ATTITUDE TO HUMOR AS A PEDAGOGICAL TOOL IN THE PERIOD OF ANTIQUITY. \"THE ATTITUDE TO HUMOR AS A PEDAGOGICAL TOOL IN THE PERIOD OF ANTIQUITY\". doaj, 2024.",
+        "citation_ar": "الموقف من الفكاهة كأداة تربوية في عصر العصور القديمة. \"الموقف من الفكاهة كأداة تربوية في عصر العصور القديمة\". دواج، 2024."
+      },
+      {
+        "reference_title": "Ridiculed death and the dead: Black humor on the epitaphs and epigrams of the ancient Greece",
+        "reference_url": "https://doi.org/10.2298/GEI0701193S",
+        "citation_en": "Ridiculed death and the dead: Black humor on the epitaphs and epigrams of the ancient Greece\".",
+        "citation_ar": "الاستهزاء بالموت والموتى: الفكاهة السوداء في النقوش الجنائزية والأقوال القصيرة لليونان القديمة."
+      },
+      {
+        "reference_title": "Socratic Humor in the Hellenistic Period",
+        "reference_url": "https://doi.org/10.1525/california/9780520291034.003.0006",
+        "citation_en": "Socratic Humor in the Hellenistic Period. *Classical Antiquity*, n.d.",
+        "citation_ar": "الفكاهة السقراطية في العصر الهلنستي. *العصور الكلاسيكية القديمة*، د.ت."
+      },
+      {
+        "reference_title": "Ridentem dicere uerum: Etymology and Humor in Varro and Plutarch",
+        "reference_url": "https://doi.org/10.1515/9783111572796-014",
+        "citation_en": "Ridentem dicere uerum: Etymology and Humor in Varro and Plutarch.",
+        "citation_ar": "\"رِيدِنتِمْ دِيسِيرِه وِيرُوم\": علم أصول الكلمات والفكاهة عند فارو وبلوتارخ."
+      },
+      {
+        "reference_title": "What Makes Us Laugh: Humor Theory and Research from Plato and Aristotle to Sigmund Freud",
+        "reference_url": "https://doi.org/10.5040/9798216003335.ch-002",
+        "citation_en": "What Makes Us Laugh: Humor Theory and Research from Plato and Aristotle to Sigmund Freud\".",
+        "citation_ar": "ما الذي يجعلنا نضحك: نظرية الفكاهة وأبحاثها من أفلاطون وأرسطو إلى سيغموند فرويد."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Filosofia, etica e tecnologie alimentari: questioni etiche e teoretiche",
+    "academic_concept_ar": "الفلسفة، الأخلاق والتقنيات الغذائية: القضايا الأخلاقية والنظرية.",
+    "concept_url_en": "https://smarticle.tech/en/article/filosofia-etica-e-tecnologie-alimentari-questioni-etiche-e-teoretiche-202605241143",
+    "concept_url_ar": "https://smarticle.tech/ar/article/filosofia-etica-e-tecnologie-alimentari-questioni-etiche-e-teoretiche-202605241143",
+    "subcategory": "Ancient Philosophy",
+    "references": [
+      {
+        "reference_title": "Filosofia, etica e tecnologie alimentari: questioni etiche e teoretiche",
+        "reference_url": "https://www.scienzaefilosofia.com/wp-content/uploads/2024/07/1_DOSSIER_Editoriale.pdf",
+        "citation_en": "Filosofia, etica e tecnologie alimentari: questioni etiche e teoretiche. doaj, 2024.",
+        "citation_ar": "Filosofia, etica e tecnologie alimentari: questioni etiche e teoretiche. doaj, 2024."
+      },
+      {
+        "reference_title": "Modi di vedere",
+        "reference_url": "https://doi.org/10.13125/rhesis/6077",
+        "citation_en": "Modi di vedere\".",
+        "citation_ar": "Modi di vedere\"."
+      },
+      {
+        "reference_title": "“And Þerfore Seythe Seneca”: ricezione delle Epistulae Morales ad Lucilium nei sermoni in medio inglese",
+        "reference_url": "https://doi.org/10.14672/fg.2860",
+        "citation_en": "“And Þerfore Seythe Seneca”.",
+        "citation_ar": "“And Þerfore Seythe Seneca”."
+      },
+      {
+        "reference_title": "Breve storia romanzata della filosofia della tecnologia",
+        "reference_url": "https://doi.org/10.4000/164lb",
+        "citation_en": "Breve storia romanzata della filosofia della tecnologia\".",
+        "citation_ar": "Breve storia romanzata della filosofia della tecnologia\"."
+      },
+      {
+        "reference_title": "Variazioni ed identità: la genetica tra determinismo e libertà",
+        "reference_url": "https://core.ac.uk/download/11918759.pdf",
+        "citation_en": "Variazioni ed identità: la genetica tra determinismo e libertà\".",
+        "citation_ar": "Variazioni ed identità: la genetica tra determinismo e libertà\"."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Selhání základem morálních teorií?: k dialektické metaetice Michaela Steinmanna",
+    "academic_concept_ar": "الفشل أساساً للنظريات الأخلاقية؟: نحو الميتافيزيقا الجدلية ما بعد الأخلاق لميخائيل شتاينمان",
+    "concept_url_en": "https://smarticle.tech/en/article/selhani-zakladem-moralnich-teorii-k-dialekticke-metaetice-michaela-steinman-202605241156",
+    "concept_url_ar": "https://smarticle.tech/ar/article/selhani-zakladem-moralnich-teorii-k-dialekticke-metaetice-michaela-steinman-202605241156",
+    "subcategory": "Contemporary Philosophy",
+    "references": [
+      {
+        "reference_title": "Selhání základem morálních teorií?: k dialektické metaetice Michaela Steinmanna",
+        "reference_url": "https://doi.org/10.46854/fc.2024.3r.499",
+        "citation_en": "\"Selhání základem morálních teorií?: k dialektické metaetice Michaela Steinmanna\". doaj, 2024.",
+        "citation_ar": "\"أعجزتِ الأخلاقُ عن أن تكونَ أساساً للنظرياتِ الأخلاقيةِ؟: في الديالكتيكِ الميتا-أخلاقيِّ لمايكل شتاينمان\". دواج، 2024."
+      },
+      {
+        "reference_title": "Atletické soutěžení jako sokratovská filosofie Athletic competition as Socratic philosophy",
+        "reference_url": "http://www.gymnica.upol.cz/index.php/gymnica/article/view/79",
+        "citation_en": "Atletické soutěžení jako sokratovská filosofie. \"Athletic competition as Socratic philosophy\".",
+        "citation_ar": "المنافسةُ الرياضيةُ بوصفها فلسفةً سقراطيةً. \"Athletic competition as Socratic philosophy\"."
+      },
+      {
+        "reference_title": "Research Publication",
+        "reference_url": "https://doi.org/10.3860/kk.v0i10.468",
+        "citation_en": "Poems. \"Poems\". , .",
+        "citation_ar": "قصائد. \"Poems\". [بدون معلومات إضافية]."
+      },
+      {
+        "reference_title": "Bernard Williams: Removal of Slave Morality",
+        "reference_url": "https://core.ac.uk/download/401843518.pdf",
+        "citation_en": "Bernard Williams: Removal of Slave Morality\".",
+        "citation_ar": "برنارد ويليامز: إزالةِ الأخلاقِ العبوديةِ\"."
+      },
+      {
+        "reference_title": "SILAC-based proteomic profiling of the human MDA-MB-231 metastatic breast cancer cell line in response to the two antitumoral lactoferrin isoforms: th",
+        "reference_url": "https://doi.org/10.1371/journal.pone.0104563",
+        "citation_en": "SILAC-based proteomic profiling of the human MDA-MB-231 metastatic breast cancer cell line in response to the two antitumoral lactoferrin isoforms: the secreted lactoferrin and the intracellular delta-lactoferrin. PLoS ONE, 2014.",
+        "citation_ar": "التوصيفُ البروتوميكيُّ القائمُ على تقنيةِ SILAC للخطِّ الخلويِّ MDA-MB-231 لسرطانِ الثديِ المنتشرِ البشريِّ استجابةً للنمطينِ المتضادّينِ من اللاكتوفيرينِ المضادّينِ للورمِ: اللاكتوفيرينِ الإفرازيِّ واللاكتوفيرينِ intracellular delta-اللاكتوفيرينِ\". بلوس وان، 2014."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Examining Greco’s Solution to ‘The Garbage Problem’ in",
+    "academic_concept_ar": "فحص حل غريكو لمشكلة ‘النفايات’ في",
+    "concept_url_en": "https://smarticle.tech/en/article/examining-grecos-solution-to-the-garbage-problem-in-202605251543",
+    "concept_url_ar": "https://smarticle.tech/ar/article/examining-grecos-solution-to-the-garbage-problem-in-202605251543",
+    "subcategory": "Ancient Philosophy",
+    "references": [
+      {
+        "reference_title": "Examining Greco’s Solution to ‘The Garbage Problem’ in\nthe Epistemology of Testimony",
+        "reference_url": "https://doi.org/10.22091/jptr.2024.10010.2958",
+        "citation_en": "Examining Greco’s Solution to ‘The Garbage Problem’ in the Epistemology of Testimony. doaj, 2024.",
+        "citation_ar": "فحص حل غريكو لمشكلة \"النفايات\" في إبستمولوجيا الشهادة. دواج، 2024."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Prudence, Rules, and Regulative Epistemology",
+    "academic_concept_ar": "التروي، القواعد، والنظرية المعرفة التنظيمية",
+    "concept_url_en": "https://smarticle.tech/en/article/prudence-rules-and-regulative-epistemology-202605251550",
+    "concept_url_ar": "https://smarticle.tech/ar/article/prudence-rules-and-regulative-epistemology-202605251550",
+    "subcategory": "Ethics",
+    "references": [
+      {
+        "reference_title": "Prudence, Rules, and Regulative Epistemology",
+        "reference_url": "https://doi.org/10.3390/philosophies8050091",
+        "citation_en": "Philosophies. \"Prudence, Rules, and Regulative Epistemology\". Philosophies, 2023.",
+        "citation_ar": "الفلسفات. \"الحكمة، القواعد، والإبستمولوجيا التنظيمية\". *فلسفات*، 2023."
+      },
+      {
+        "reference_title": "Regulative Epistemology in the Seventeenth Century",
+        "reference_url": "https://doi.org/10.1093/oso/9780190847289.003.0002",
+        "citation_en": "Regulative Epistemology in the Seventeenth Century\".",
+        "citation_ar": "الإبستمولوجيا التنظيمية في القرن السابع عشر."
+      },
+      {
+        "reference_title": "Prudential Rules",
+        "reference_url": "https://doi.org/10.1017/cbo9780511498787.003",
+        "citation_en": "Prudential Rules\". *The Cambridge Economic History of the United States*, n.d.",
+        "citation_ar": "\"القواعد الحكيمة\". *التاريخ الاقتصادي الكامبريدجي للولايات المتحدة*، د.ت."
+      },
+      {
+        "reference_title": "Virtues and Rules in Epistemology",
+        "reference_url": "https://doi.org/10.1093/oso/9780195140774.003.0008",
+        "citation_en": "Virtues and Rules in Epistemology\".",
+        "citation_ar": "الفضائل والقواعد في الإبستمولوجيا."
+      },
+      {
+        "reference_title": "The case for rules in reasoning",
+        "reference_url": "https://doi.org/10.4324/9780203763230-25",
+        "citation_en": "The case for rules in reasoning\".",
+        "citation_ar": "الحجة لصالح القواعد في التفكير."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Timed Petri Net to PROMELA Translation for Real-Time Systems",
+    "academic_concept_ar": "ترجمة شبكة بيتري الزمنية إلى PROMELA للأنظمة الزمنية الحقيقية.",
+    "concept_url_en": "https://smarticle.tech/en/article/timed-petri-net-to-promela-translation-for-real-time-systems-202605261201",
+    "concept_url_ar": "https://smarticle.tech/ar/article/timed-petri-net-to-promela-translation-for-real-time-systems-202605261201",
+    "subcategory": "Logic",
+    "references": [
+      {
+        "reference_title": "An automated qualitative analysis of real-time systems using Timed Petri net and SPIN",
+        "reference_url": "https://doi.org/10.1080/23311916.2024.2375100",
+        "citation_en": "An automated qualitative analysis of real-time systems using Timed Petri net and SPIN. doaj, 2024.",
+        "citation_ar": "التحليل النوعي الآلي للأنظمة الزمنية الحقيقية باستخدام شبكات بيتري الزمنية وأداة سبين. دواج، 2024."
+      },
+      {
+        "reference_title": "Verification of Safety and Liveness on Process Management System using Spin Model Checker",
+        "reference_url": "https://doi.org/10.1109/icet59753.2023.10375005",
+        "citation_en": "Verification of Safety and Liveness on Process Management System using Spin Model Checker\". IEEE, 2023.",
+        "citation_ar": "التحقق من السلامة والحيوية في نظام إدارة العمليات باستخدام أداة سبين للتحقق من النماذج. آي تريب إي، 2023."
+      },
+      {
+        "reference_title": "Verifying Real-Time Embedded Software by Means of Automated State-based Online Testing and the SPIN Model Checker—Application to RTEdge Models",
+        "reference_url": "https://doi.org/10.22215/etd/2013-09934",
+        "citation_en": "Verifying Real-Time Embedded Software by Means of Automated State-based Online Testing and the SPIN Model Checker—Application to RTEdge Models.",
+        "citation_ar": "التحقق من البرمجيات المضمنة الزمنية الحقيقية بوسائل الاختبار الآلي القائم على الحالة عبر الإنترنت وأداة سبين للتحقق من النماذج—تطبيق على نماذج آر تي إيدج."
+      },
+      {
+        "reference_title": "Verification of a Dynamic Channel Model using the SPIN Model Checker",
+        "reference_url": "https://doi.org/10.3233/978-1-60750-774-1-35",
+        "citation_en": "Verification of a Dynamic Channel Model using the SPIN Model Checker.",
+        "citation_ar": "التحقق من نموذج القناة الديناميكي باستخدام أداة سبين للتحقق من النماذج."
+      },
+      {
+        "reference_title": "Formal verification of real-time software by symbolic model-checker",
+        "reference_url": "https://doi.org/10.1109/csd.1998.657543",
+        "citation_en": "Formal verification of real-time software by symbolic model-checker\".",
+        "citation_ar": "التحقق الرسمي للبرمجيات الزمنية الحقيقية بواسطة أداة التحقق من النماذج الرمزية."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "The Transcendental Deduction of Categories as Philosophical Proof",
+    "academic_concept_ar": "الاستنتاج المتعالي للفئات كبرهان فلسفي",
+    "concept_url_en": "https://smarticle.tech/en/article/the-transcendental-deduction-of-categories-as-philosophical-proof-202605261217",
+    "concept_url_ar": "https://smarticle.tech/ar/article/the-transcendental-deduction-of-categories-as-philosophical-proof-202605261217",
+    "subcategory": "Modern Philosophy",
+    "references": [
+      {
+        "reference_title": "The Transcendental Deduction of Categories as Philosophical Proof",
+        "reference_url": "https://doi.org/10.5922/0207-6918-2023-3-4",
+        "citation_en": "Kant, I. \"The Transcendental Deduction of Categories as Philosophical Proof\". doaj, 2023.",
+        "citation_ar": "كانط، إيمانويل. \"الاستدلال الاستنباطي المتعالي للمقولات كدليل فلسفي\". دواج، 2023."
+      },
+      {
+        "reference_title": "The Transcendental Deduction of the Categories",
+        "reference_url": "https://doi.org/10.4324/9780429196430-5",
+        "citation_en": "The Transcendental Deduction of the Categories\".",
+        "citation_ar": "\"الاستدلال الاستنباطي المتعالي للمقولات\"."
+      },
+      {
+        "reference_title": "Two-Steps-in-One-Proof: The Structure of the Transcendental Deduction of the Categories",
+        "reference_url": "https://doi.org/10.1353/hph.1990.0091",
+        "citation_en": "\"Two-Steps-in-One-Proof: The Structure of the Transcendental Deduction of the Categories\". , .",
+        "citation_ar": "\"خطوتان في دليل واحد: بنية الاستدلال الاستنباطي المتعالي للمقولات\"."
+      },
+      {
+        "reference_title": "From the unity of sensible intuition to the sensible unity of intuition: revisiting the proof-structure of Kant’s B-Deduction argument",
+        "reference_url": "https://doi.org/10.7203/REK.4.1.12644",
+        "citation_en": "\"From the unity of sensible intuition to the sensible unity of intuition: revisiting the proof-structure of Kant’s B-Deduction argument\". , .",
+        "citation_ar": "\"من وحدة الحدس الحسي إلى الوحدة الحسية للحدس: إعادة النظر في بنية هيكل الدليل في حجة كانط في الاستدلال الاستنباطي ب\"."
+      },
+      {
+        "reference_title": "The Transcendental Deduction of the Categories I",
+        "reference_url": "https://doi.org/10.1093/acprof:oso/9780199381166.003.0006",
+        "citation_en": "The Transcendental Deduction of the Categories I\".",
+        "citation_ar": "\"الاستدلال الاستنباطي المتعالي للمقولات 1\"."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Mulla Sadra Graded Existence Theory for Knowledge Justification",
+    "academic_concept_ar": "نظرية الوجود المتدرج لمولى صَدْرَى لتبرير المعرفة.",
+    "concept_url_en": "https://smarticle.tech/en/article/mulla-sadra-graded-existence-theory-for-knowledge-justification-202605261237",
+    "concept_url_ar": "https://smarticle.tech/ar/article/mulla-sadra-graded-existence-theory-for-knowledge-justification-202605261237",
+    "subcategory": "Islamic Philosophy",
+    "references": [
+      {
+        "reference_title": "Ontological Analysis of the Knowledge in Transcendent Philosophy and Its Relation to the Correspondence Theory",
+        "reference_url": "https://doi.org/10.30465/cw.2025.51215.2092",
+        "citation_en": "Ontological Analysis of the Knowledge in Transcendent Philosophy and Its Relation to the Correspondence Theory. doaj, 2025.",
+        "citation_ar": "التحليل الأنطولوجي للمعرفة في الفلسفة المتعالية وعلاقتها بنظرية التطابق."
+      },
+      {
+        "reference_title": "Explaining the Ontological Differences between Islamic Transcendent Philosophy and Emergentism on the Soul-Body Problem",
+        "reference_url": "https://doi.org/10.58209/jpt.1.4.265",
+        "citation_en": "Explaining the Ontological Differences between Islamic Transcendent Philosophy and Emergentism on the Soul-Body Problem.",
+        "citation_ar": "شرح الفروق الأنطولوجية بين الفلسفة المتعالية الإسلامية والظهورية حول مسألة النفس والجسد."
+      },
+      {
+        "reference_title": "Ontology of Intentionality and Primacy of Existence",
+        "reference_url": "https://doi.org/10.1007/978-3-030-39884-2_3",
+        "citation_en": "Ontology of Intentionality and Primacy of Existence.",
+        "citation_ar": "أنطولوجيا القصدية وأولية الوجود."
+      },
+      {
+        "reference_title": "Mulla Sadra and the Problem of Knowledge",
+        "reference_url": "https://doi.org/10.4324/9781315596211-7",
+        "citation_en": "Mulla Sadra and the Problem of Knowledge.",
+        "citation_ar": "الملا صدرا ومسألة المعرفة."
+      },
+      {
+        "reference_title": "Mulla Sadra and Metaphysics",
+        "reference_url": "https://doi.org/10.4324/9780203879542",
+        "citation_en": "Mulla Sadra and Metaphysics\".",
+        "citation_ar": "الملا صدرا والميتافيزيقا."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Grünberg's Direct-Indirect Justification of Intuition",
+    "academic_concept_ar": "تبرير جرونبرغ المباشر وغير المباشر للحدس",
+    "concept_url_en": "https://smarticle.tech/en/article/grunberg-s-direct-indirect-justification-of-intuition-202605261246",
+    "concept_url_ar": "https://smarticle.tech/ar/article/grunberg-s-direct-indirect-justification-of-intuition-202605261246",
+    "subcategory": "Epistemology",
+    "references": [
+      {
+        "reference_title": "Sezgisel Bilginin Gerekçelendirilebilirliği Üzerine: Klasik ve Modern Epistemolojide Analitik Bir İnceleme",
+        "reference_url": "https://doi.org/10.58634/felsefedunyasi.1686797",
+        "citation_en": "Sezgisel Bilginin Gerekçelendirilebilirliği Üzerine: Klasik ve Modern Epistemolojide Analitik Bir İnceleme. \"Sezgisel Bilginin Gerekçelendirilebilirliği Üzerine: Klasik ve Modern Epistemolojide Analitik Bir İnceleme\". Source, 2025.",
+        "citation_ar": "حول مبررات المعرفة الحدسية: دراسة تحليلية في الإبستمولوجيا الكلاسيكية والحديثة."
+      },
+      {
+        "reference_title": "Prospects For Peircean Epistemic Infinitism",
+        "reference_url": "https://core.ac.uk/download/210995411.pdf",
+        "citation_en": "Prospects For Peircean Epistemic Infinitism\".",
+        "citation_ar": "آفاق Infinitism الإبستمي عند بيرس."
+      },
+      {
+        "reference_title": "Deliberative Indispensability and Epistemic Justification",
+        "reference_url": "https://doi.org/10.1093/acprof:oso/9780198738695.003.0005",
+        "citation_en": "Deliberative Indispensability and Epistemic Justification\".",
+        "citation_ar": "الضرورة التداولية والمبررات الإبستمية."
+      },
+      {
+        "reference_title": "Immediate Justification, Perception, and Intuition",
+        "reference_url": "https://doi.org/10.1093/acprof:oso/9780199899494.003.0004",
+        "citation_en": "Immediate Justification, Perception, and Intuition.",
+        "citation_ar": "المبررات الفورية والإدراك والحدس."
+      },
+      {
+        "reference_title": "INTUITIONS, SIMPLICITY AND EXTRAPOLATION FROM CONCEPTS",
+        "reference_url": "https://doi.org/10.22201/iifs.18704905e.2019.08",
+        "citation_en": "Intuitions, Simplicity and Extrapolation from Concepts\". INTUITIONS, SIMPLICITY AND EXTRAPOLATION FROM CONCEPTS, 2019.",
+        "citation_ar": "الحدوس والبساطة والاستدلال من المفاهيم."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Avicenna's Ontology Refutes Schellenberg's Divine Hiddenness Argument",
+    "academic_concept_ar": "أنطولوجيا ابن سينا تدحض حجة الإخفاء الإلهي لسشلنبرغ.",
+    "concept_url_en": "https://smarticle.tech/en/article/avicenna-s-ontology-refutes-schellenberg-s-divine-hiddenness-argument-202605261410",
+    "concept_url_ar": "https://smarticle.tech/ar/article/avicenna-s-ontology-refutes-schellenberg-s-divine-hiddenness-argument-202605261410",
+    "subcategory": "Logic",
+    "references": [
+      {
+        "reference_title": "A Critical Evaluation of Schellenberg’s Divine Hiddenness Argument Based on Avicenna’s Ontological and Epistemological Foundations",
+        "reference_url": "https://doi.org/10.22091/jptr.2024.10870.3076",
+        "citation_en": "A Critical Evaluation of Schellenberg’s Divine Hiddenness Argument Based on Avicenna’s Ontological and Epistemological Foundations. \"A Critical Evaluation of Schellenberg’s Divine Hiddenness Argument Based on Avicenna’s Ontological and Epistemological Foundations\". Source, 2025.",
+        "citation_ar": "A Critical Evaluation of Schellenberg’s Divine Hiddenness Argument Based on Avicenna’s Ontological and Epistemological Foundations. \"A Critical Evaluation of Schellenberg’s Divine Hiddenness Argument Based on Avicenna’s Ontological and Epistemological Foundations\". Source, 2025."
+      },
+      {
+        "reference_title": "God as victim of human sin: a sin-based response to J. L. Schellenberg’s hiddenness argument",
+        "reference_url": "https://doi.org/10.1093/jts/flag016",
+        "citation_en": "\"God as victim of human sin: a sin-based response to J. L. Schellenberg’s hiddenness argument\". , .",
+        "citation_ar": "\"God as victim of human sin: a sin-based response to J. L. Schellenberg’s hiddenness argument\". , ."
+      },
+      {
+        "reference_title": "On the concept of ‘God’ and Schellenberg’s divine hiddenness argument",
+        "reference_url": "https://doi.org/10.1007/s11153-026-09993-5",
+        "citation_en": "On the concept of ‘God’ and Schellenberg’s divine hiddenness argument\".",
+        "citation_ar": "On the concept of ‘God’ and Schellenberg’s divine hiddenness argument\"."
+      },
+      {
+        "reference_title": "Divine Love and the Argument from Divine Hiddenness",
+        "reference_url": "https://doi.org/10.24204/ejpr.v6i2.180",
+        "citation_en": "\"Divine Love and the Argument from Divine Hiddenness\". , .",
+        "citation_ar": "\"Divine Love and the Argument from Divine Hiddenness\". , ."
+      },
+      {
+        "reference_title": "Divine hiddenness: part 1 (recent work on the hiddenness argument)",
+        "reference_url": "https://doi.org/10.1111/phc3.12355",
+        "citation_en": "Divine hiddenness: part 1 (recent work on the hiddenness argument)\".",
+        "citation_ar": "Divine hiddenness: part 1 (recent work on the hiddenness argument)\"."
+      }
+    ]
+  }
+]

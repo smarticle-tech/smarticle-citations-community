@@ -1,0 +1,1424 @@
+[
+  {
+    "academic_concept_en": "Islamic Theology (Aqeedah): Creed, Divine Attributes, and Doctrinal Schools",
+    "academic_concept_ar": "العقيدة الإسلامية (Aqeedah): الإيمان، الصفات الإلهية، والمدارس العقائدية.",
+    "concept_url_en": "https://smarticle.tech/en/article/islamic-theology-aqeedah-creed-divine-attributes-and-doctrinal-schools-202605130555",
+    "concept_url_ar": "https://smarticle.tech/ar/article/islamic-theology-aqeedah-creed-divine-attributes-and-doctrinal-schools-202605130555",
+    "subcategory": "Islam",
+    "references": [
+      {
+        "reference_title": "The bezels of wisdom",
+        "reference_url": "https://archive.org/details/bezelsofwisdom00ibna",
+        "citation_en": "The bezels of wisdom. by Ibn al-Arabi. (1966). — Intishārāt Baydār. ISBN: 9789649080079",
+        "citation_ar": "The bezels of wisdom. بقلم Ibn al-Arabi. (1966). — Intishārāt Baydār. ردمك: 9789649080079"
+      },
+      {
+        "reference_title": "Kitāb al-lumaʻ fī al-radd ʻalá ahl al-zaygh wa-al-bidaʻ",
+        "reference_url": "https://openlibrary.org/works/OL18439040W",
+        "citation_en": "Kitāb al-lumaʻ fī al-radd ʻalá ahl al-zaygh wa-al-bidaʻ. by Abū al-Ḥasan ʻAlī ibn Ismāʻīl Ashʻarī. (1952). — Dār Lubnān lil-Ṭibāʻah wa-al-Nashr. ISBN: 9789981592650",
+        "citation_ar": "Kitāb al-lumaʻ fī al-radd ʻalá ahl al-zaygh wa-al-bidaʻ. بقلم Abū al-Ḥasan ʻAlī ibn Ismāʻīl Ashʻarī. (1952). — Dār Lubnān lil-Ṭibāʻah wa-al-Nashr. ردمك: 9789981592650"
+      },
+      {
+        "reference_title": "Sharḥ al-ʻAqāʼid al-Nasafīyah",
+        "reference_url": "https://openlibrary.org/works/OL63306W",
+        "citation_en": "Sharḥ al-ʻAqāʼid al-Nasafīyah. by Masʻūd ibn ʻUmar Taftāzānī. (1931). — Maktabat al-Kullīyāt al-Azharīyah",
+        "citation_ar": "Sharḥ al-ʻAqāʼid al-Nasafīyah. بقلم Masʻūd ibn ʻUmar Taftāzānī. (1931). — Maktabat al-Kullīyāt al-Azharīyah"
+      },
+      {
+        "reference_title": "Ghāyat al-marām fī ʻilm al-kalām",
+        "reference_url": "https://openlibrary.org/works/OL1614109W",
+        "citation_en": "Ghāyat al-marām fī ʻilm al-kalām. by ʻAlī ibn Abī ʻAlī Āmidī. (1971). — [publisher not identified]. ISBN: 2745143115",
+        "citation_ar": "Ghāyat al-marām fī ʻilm al-kalām. بقلم ʻAlī ibn Abī ʻAlī Āmidī. (1971). — [publisher not identified]. ردمك: 2745143115"
+      },
+      {
+        "reference_title": "Introduction à la théologie musulmane",
+        "reference_url": "https://openlibrary.org/works/OL1357079W",
+        "citation_en": "Introduction à la théologie musulmane. by Louis Gardet. (1948). — Dār al-ʻIlm lil-Malāyīn",
+        "citation_ar": "Introduction à la théologie musulmane. بقلم Louis Gardet. (1948). — Dār al-ʻIlm lil-Malāyīn"
+      },
+      {
+        "reference_title": "Risālat al-tawḥīd",
+        "reference_url": "https://openlibrary.org/works/OL10746522W",
+        "citation_en": "Risālat al-tawḥīd. by Muḥammad ʻAbduh. (1938). — Intishārāt-i Saqqiz (Muḥammadī)",
+        "citation_ar": "Risālat al-tawḥīd. بقلم Muḥammad ʻAbduh. (1938). — Intishārāt-i Saqqiz (Muḥammadī)"
+      },
+      {
+        "reference_title": "Iljām al-ʻawāmm ʻan ʻilm al-kalām",
+        "reference_url": "https://openlibrary.org/works/OL32427210W",
+        "citation_en": "Iljām al-ʻawāmm ʻan ʻilm al-kalām. by al-Ghazzālī. (1870). — [publisher not identified]",
+        "citation_ar": "Iljām al-ʻawāmm ʻan ʻilm al-kalām. بقلم al-Ghazzālī. (1870). — [publisher not identified]"
+      },
+      {
+        "reference_title": "Naqḍ Kalām al-muftarīn ʻalá al-Ḥanābilah al-Salafīyīn",
+        "reference_url": "https://openlibrary.org/works/OL11146882W",
+        "citation_en": "Naqḍ Kalām al-muftarīn ʻalá al-Ḥanābilah al-Salafīyīn. by Aḥmad ibn Ḥajar Āl Bū Ṭāmī Āl Ibn ʻAlī. (1980). — Maktabat Ibn Taymīyah",
+        "citation_ar": "Naqḍ Kalām al-muftarīn ʻalá al-Ḥanābilah al-Salafīyīn. بقلم Aḥmad ibn Ḥajar Āl Bū Ṭāmī Āl Ibn ʻAlī. (1980). — Maktabat Ibn Taymīyah"
+      },
+      {
+        "reference_title": "Islam",
+        "reference_url": "https://openlibrary.org/works/OL21696427W",
+        "citation_en": "Islam. by Roberto Tottoli. (2020). — Taylor & Francis Group. ISBN: 0367491095",
+        "citation_ar": "Islam. بقلم Roberto Tottoli. (2020). — Taylor & Francis Group. ردمك: 0367491095"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Islamic Jurisprudence (Fiqh): Sources of Law, Legal Schools, and Ijtihad",
+    "academic_concept_ar": "الفقه الإسلامي: مصادر القانون، المدارس الفقهية، والاجتهاد.",
+    "concept_url_en": "https://smarticle.tech/en/article/islamic-jurisprudence-fiqh-sources-of-law-legal-schools-and-ijtihad-202605130605",
+    "concept_url_ar": "https://smarticle.tech/ar/article/islamic-jurisprudence-fiqh-sources-of-law-legal-schools-and-ijtihad-202605130605",
+    "subcategory": "Islam",
+    "references": [
+      {
+        "reference_title": "Development of Muslim Theology, Jurisprudence, and Constitutional Theory",
+        "reference_url": "https://www.gutenberg.org/ebooks/59135",
+        "citation_en": "Development of Muslim Theology, Jurisprudence, and Constitutional Theory. by MacDonald, Duncan Black. — Project Gutenberg",
+        "citation_ar": "Development of Muslim Theology, Jurisprudence, and Constitutional Theory. بقلم MacDonald, Duncan Black. — Project Gutenberg"
+      },
+      {
+        "reference_title": "Appropriate Usuli Sources in Building the Jurisprudence of Muslim Minorities",
+        "reference_url": "https://doi.org/10.31221/osf.io/by4nm",
+        "citation_en": "International Journal of Fiqh and Usul al-Fiqh Studies. \"Appropriate Usuli Sources in Building the Jurisprudence of Muslim Minorities\". crossref, 2018.",
+        "citation_ar": "مجلة الدراسات الفقهية وأصول الفقه الدولية. \"المصادر الأصولية المناسبة في بناء فقه الأقليات المسلمة\". كروسريف، 2018."
+      },
+      {
+        "reference_title": "Sources of Moral Obligation to non-Muslims in the \"Jurisprudence of Muslim Minorities\" (Fiqh al-aqalliyyāt) Discourse",
+        "reference_url": "https://doi.org/10.1163/156851908x413757",
+        "citation_en": "Andrew March. \"Sources of Moral Obligation to non-Muslims in the \"Jurisprudence of Muslim Minorities\" (Fiqh al-aqalliyyāt) Discourse\". crossref, 2009.",
+        "citation_ar": "أندرو مارش. \"مصادر الالتزام الأخلاقي تجاه غير المسلمين في خطاب فقه الأقليات المسلمة (فقه الأقلّيات)\". كروسريف، 2009."
+      },
+      {
+        "reference_title": "THE CONCEPT AND SOURCES OF THE SCIENCE OF FIQH",
+        "reference_url": "https://doi.org/10.37547/ijhps/volume03issue12-04",
+        "citation_en": "Avazova Shaira Tukhtamratovna. \"THE CONCEPT AND SOURCES OF THE SCIENCE OF FIQH\". crossref, 2023.",
+        "citation_ar": "أفازوفا شايرا توختامراتوفنا. \"مفهوم ومصادر علم الفقه\". كروسريف، 2023."
+      },
+      {
+        "reference_title": "The Concept of Taghyir in Al-Bazdawi’s Usul al-Fiqh and Its Relevance to Contract Law in the Compilation of Islamic Economic Law in Indonesia",
+        "reference_url": "https://doi.org/10.31436/ijfus.v9i1.362",
+        "citation_en": "Enang Hidayat. \"The Concept of Taghyir in Al-Bazdawi’s Usul al-Fiqh and Its Relevance to Contract Law in the Compilation of Islamic Economic Law in Indonesia\". crossref, 2025.",
+        "citation_ar": "هنيت هدايات. \"مفهوم التغيير في أصول الفقه عند البزدوي وعلاقته بقانون العقود في تجميع القانون الاقتصادي الإسلامي في إندونيسيا\". كروسريف، 2025."
+      },
+      {
+        "reference_title": "New Sources for the History of the Beginnings of Islamic Jurisprudence",
+        "reference_url": "https://doi.org/10.1163/9789004491533_005",
+        "citation_en": "Harald Motzki. \"New Sources for the History of the Beginnings of Islamic Jurisprudence\". crossref, 2002.",
+        "citation_ar": "هارالد موتزكي. \"مصادر جديدة لتاريخ بدايات الفقه الإسلامي\". كروسريف، 2002."
+      },
+      {
+        "reference_title": "The Beginnings of Islamic Jurisprudence in the Research of the Nineteenth and Twentieth Centuries",
+        "reference_url": "https://doi.org/10.1163/9789004491533_004",
+        "citation_en": "Harald Motzki. \"The Beginnings of Islamic Jurisprudence in the Research of the Nineteenth and Twentieth Centuries\". crossref, 2002.",
+        "citation_ar": "هارالد موتزكي. \"بدايات الفقه الإسلامي في بحوث القرنين التاسع عشر والعشرين\". كروسريف، 2002."
+      },
+      {
+        "reference_title": "4. Islamic Law: Its ‘Sources’ (Uṣūl al-fiqh) and Ijtihād",
+        "reference_url": "https://doi.org/10.1515/9783110825800.78",
+        "citation_en": "Islamic Law: Its ‘Sources’ (Uṣūl al-fiqh) and Ijtihād. *crossref*, 1981.",
+        "citation_ar": "القانون الإسلامي: \"مصادره (أصول الفقه) والاجتهاد\". *كروسريف*، 1981."
+      },
+      {
+        "reference_title": "The Beginnings of Islamic Jurisprudence",
+        "reference_url": "https://doi.org/10.1163/9789004491533_007",
+        "citation_en": "Harald Motzki. \"The Beginnings of Islamic Jurisprudence\". *crossref*, 2002.",
+        "citation_ar": "هارالد موتزكي. \"بدايات الفقه الإسلامي\". *كروسريف*، 2002."
+      },
+      {
+        "reference_title": "The Origins of Islamic Jurisprudence",
+        "reference_url": "https://doi.org/10.1163/9789004491533",
+        "citation_en": "Harald Motzki. \"The Origins of Islamic Jurisprudence\". crossref, 2002.",
+        "citation_ar": "هارالد موتزكي. \"أصول الفقه الإسلامي\". كروسريف، 2002."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Quranic Sciences and Hadith Methodology: Revelation, Transmission, and Authentication",
+    "academic_concept_ar": "علوم القرآن ومنهجية الحديث: الوحي، النقل، والتحقق.",
+    "concept_url_en": "https://smarticle.tech/en/article/quranic-sciences-and-hadith-methodology-revelation-transmission-and-authent-202605150225",
+    "concept_url_ar": "https://smarticle.tech/ar/article/quranic-sciences-and-hadith-methodology-revelation-transmission-and-authent-202605150225",
+    "subcategory": "Islam",
+    "references": [
+      {
+        "reference_title": "Ravishʹshināsī-i tārīkhī dar ʻulūm-i Qurʼān va Ḥadīs̲",
+        "reference_url": "https://openlibrary.org/works/OL23236117W",
+        "citation_en": "Ravishʹshināsī-i tārīkhī dar ʻulūm-i Qurʼān va Ḥadīs̲. by Muḥammad Ḥasan Aḥmadī. (2014). — Intishārāt-i Dānishgāh-i Qum. ISBN: 9648261962",
+        "citation_ar": "Ravishʹshināsī-i tārīkhī dar ʻulūm-i Qurʼān va Ḥadīs̲. بقلم Muḥammad Ḥasan Aḥmadī. (2014). — Intishārāt-i Dānishgāh-i Qum. ردمك: 9648261962"
+      },
+      {
+        "reference_title": "Jamʻ al-fawāʾid min Jāmiʻ al-uṣūl wa-Majmaʻ al-zawāʾid",
+        "reference_url": "https://openlibrary.org/works/OL4766792W",
+        "citation_en": "Jamʻ al-fawāʾid min Jāmiʻ al-uṣūl wa-Majmaʻ al-zawāʾid. by Muḥammad ibn Muḥammad Rūdānī. (1985). — Bank Fayṣal al-Islāmī",
+        "citation_ar": "Jamʻ al-fawāʾid min Jāmiʻ al-uṣūl wa-Majmaʻ al-zawāʾid. بقلم Muḥammad ibn Muḥammad Rūdānī. (1985). — Bank Fayṣal al-Islāmī"
+      },
+      {
+        "reference_title": "ʻUyūn muntakhabah min istidrākāt Ibn al-Muẓaffar al-Rāzī ʻalaʹ tafsīr al-Thaʻlabī",
+        "reference_url": "https://openlibrary.org/works/OL32322753W",
+        "citation_en": "ʻUyūn muntakhabah min istidrākāt Ibn al-Muẓaffar al-Rāzī ʻalaʹ tafsīr al-Thaʻlabī. by ʻAbd Allāh Rajab Mūsá. (2020). — Dār al-Khazānah al-Azharīyah lil-Dirāsāt wa-al-Nashr. ISBN: 9789068756",
+        "citation_ar": "ʻUyūn muntakhabah min istidrākāt Ibn al-Muẓaffar al-Rāzī ʻalaʹ tafsīr al-Thaʻlabī. بقلم ʻAbd Allāh Rajab Mūsá. (2020). — Dār al-Khazānah al-Azharīyah lil-Dirāsāt wa-al-Nashr. ردمك: 9789068756"
+      },
+      {
+        "reference_title": "al-Wajīz fī ʻilm al-uṣūl",
+        "reference_url": "https://openlibrary.org/works/OL39222384W",
+        "citation_en": "al-Wajīz fī ʻilm al-uṣūl. by Muḥammad ʻAbd al-Muʻṭī. (2002). — Dār al-Tawzīʻ wa-al-Nashr al-Islāmīyah. ISBN: 9772653583",
+        "citation_ar": "al-Wajīz fī ʻilm al-uṣūl. بقلم Muḥammad ʻAbd al-Muʻṭī. (2002). — Dār al-Tawzīʻ wa-al-Nashr al-Islāmīyah. ردمك: 9772653583"
+      },
+      {
+        "reference_title": "al-Bayān fī mutashābihāt al-Qurʼān al-karīm bi-ḥāshiyat al-muṣḥaf al-sharīf bi-Riwāyat Ḥafṣ ʻan ʻĀṣim bi-al-rasm al-ʻUthmānī",
+        "reference_url": "https://openlibrary.org/works/OL32317967W",
+        "citation_en": "al-Bayān fī mutashābihāt al-Qurʼān al-karīm bi-ḥāshiyat al-muṣḥaf al-sharīf bi-Riwāyat Ḥafṣ ʻan ʻĀṣim bi-al-rasm al-ʻUthmānī. by Dawlat Muḥammad Aḥmadī Mūsá ʻImrān. (2018). — Dawlat Muḥammad Aḥmadī Mūsá ʻImrān. ISBN: 9789779052410",
+        "citation_ar": "al-Bayān fī mutashābihāt al-Qurʼān al-karīm bi-ḥāshiyat al-muṣḥaf al-sharīf bi-Riwāyat Ḥafṣ ʻan ʻĀṣim bi-al-rasm al-ʻUthmānī. بقلم Dawlat Muḥammad Aḥmadī Mūsá ʻImrān. (2018). — Dawlat Muḥammad Aḥmadī Mūsá ʻImrān. ردمك: 9789779052410"
+      },
+      {
+        "reference_title": "Uṣūl al-fikr al-tarbawī fī al-Islām",
+        "reference_url": "https://openlibrary.org/works/OL4768153W",
+        "citation_en": "Uṣūl al-fikr al-tarbawī fī al-Islām. by ʻAbbās Maḥjūb. (1987). — ʻĀlam al-Kutub al-Ḥadīth. ISBN: 9789957466633",
+        "citation_ar": "Uṣūl al-fikr al-tarbawī fī al-Islām. بقلم ʻAbbās Maḥjūb. (1987). — ʻĀlam al-Kutub al-Ḥadīth. ردمك: 9789957466633"
+      },
+      {
+        "reference_title": "Muqawwamāt al-dawlah al-Islāmīyah al-ḥadīthah",
+        "reference_url": "https://openlibrary.org/works/OL44688794W",
+        "citation_en": "Muqawwamāt al-dawlah al-Islāmīyah al-ḥadīthah. by Muḥammad ʻAlī Abū Ḥamdah. (1999)",
+        "citation_ar": "Muqawwamāt al-dawlah al-Islāmīyah al-ḥadīthah. بقلم Muḥammad ʻAlī Abū Ḥamdah. (1999)"
+      },
+      {
+        "reference_title": "مباحث في طرائق تدريس العلوم الشرعية",
+        "reference_url": "https://openlibrary.org/works/OL37003078W",
+        "citation_en": "مباحث في طرائق تدريس العلوم الشرعية. by Ḥusām ʻAbd al-Malik ʻAbdalī. (2008). — Dār al-Nahḍah lil-Ṭibāʻah wa-al-Nashr wa-al-Tawzīʻ",
+        "citation_ar": "مباحث في طرائق تدريس العلوم الشرعية. بقلم Ḥusām ʻAbd al-Malik ʻAbdalī. (2008). — Dār al-Nahḍah lil-Ṭibāʻah wa-al-Nashr wa-al-Tawzīʻ"
+      },
+      {
+        "reference_title": "The Qur’an and Authentication of Hadith",
+        "reference_url": "https://doi.org/10.2307/j.ctvkc67mk.7",
+        "citation_en": "Andrew Rippin. \"The Qur’an and Authentication of Hadith\". *crossref*, 2010.",
+        "citation_ar": "أندرو ريبين. \"القرآن وتوثيق الحديث\". *كروسريف*، 2010."
+      },
+      {
+        "reference_title": "Authentication of Hadith Through Sound Reasoning",
+        "reference_url": "https://doi.org/10.2307/j.ctvkc67mk.9",
+        "citation_en": "Al-Azami, M. M. \"Authentication of Hadith Through Sound Reasoning\". crossref, 2010.",
+        "citation_ar": "المازني، محمد مصطفى. \"توثيق الحديث من خلال الاستدلال السليم\". كروسريف، 2010."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Christian Theology: Christology, Trinity, and the Doctrinal Councils",
+    "academic_concept_ar": "اللاهوت المسيحي: ألوهية المسيح، الثالوث، ومجالس العقيدة.",
+    "concept_url_en": "https://smarticle.tech/en/article/christian-theology-christology-trinity-and-the-doctrinal-councils-202605150243",
+    "concept_url_ar": "https://smarticle.tech/ar/article/christian-theology-christology-trinity-and-the-doctrinal-councils-202605150243",
+    "subcategory": "Christianity",
+    "references": [
+      {
+        "reference_title": "The One and the Many",
+        "reference_url": "https://openlibrary.org/works/OL22374504W",
+        "citation_en": "The One and the Many. by John D. Zizioulas, Fr. Gregory Edwards, Stamatis Skliris. (2010). — Western American Diocese, Sebastian Press. ISBN: 0971950547",
+        "citation_ar": "The One and the Many. بقلم John D. Zizioulas، Fr. Gregory Edwards، Stamatis Skliris. (2010). — Western American Diocese, Sebastian Press. ردمك: 0971950547"
+      },
+      {
+        "reference_title": "Imperial Law or Councils of the Church? Theodosius I and the Imposition of Doctrinal Uniformity",
+        "reference_url": "https://doi.org/10.1017/s0424208400003107",
+        "citation_en": "Hunt, E. D. \"Imperial Law or Councils of the Church? Theodosius I and the Imposition of Doctrinal Uniformity\". *crossref*, 2007.",
+        "citation_ar": "هانت، إي. د. \"القانون الإمبراطوري أم مجالس الكنيسة؟ ثيودوسيوس الأول وفرض الوحدة العقائدية\". *كروسريف*، 2007."
+      },
+      {
+        "reference_title": "The Doctrinal Significance of the Councils of Nicaea, Ephesus, and Chalcedon",
+        "reference_url": "https://doi.org/10.1093/oxfordhb/9780199641901.013.49",
+        "citation_en": "The Doctrinal Significance of the Councils of Nicaea, Ephesus, and Chalcedon. \"The Doctrinal Significance of the Councils of Nicaea, Ephesus, and Chalcedon\". Oxford Handbook of Early Christian Studies, 2024.",
+        "citation_ar": "الأهمية العقائدية لمجالس نيقية، أفسس، وخلقيدونية. \"الأهمية العقائدية لمجالس نيقية، أفسس، وخلقيدونية\". *دليل أكسفورد للدراسات المسيحية المبكرة*، 2024."
+      },
+      {
+        "reference_title": "Creeds, councils and doctrinal development",
+        "reference_url": "https://doi.org/10.4324/9780203470626-37",
+        "citation_en": "Cross, R. \"Creeds, councils and doctrinal development\". *crossref*, 2002.",
+        "citation_ar": "كروس، ر. \"العقائد، المجالس، والتطور العقائدي\". *كروسريف*، 2002."
+      },
+      {
+        "reference_title": "The Papacy and Councils from the Beginnings until Leo I (440–461). Studies on the Origins of the Pope’s Superordination over Councils",
+        "reference_url": "https://doi.org/10.5840/philhist198316296",
+        "citation_en": "Ernst-Dieter Hehl. \"The Papacy and Councils from the Beginnings until Leo I (440–461)\". Studies on the Origins of the Pope’s Superordination over Councils, 1983.",
+        "citation_ar": "إرنست-ديتر ههل. \"الكرسي الرسولي والمجالس من البداية وحتى ليو الأول (440–461)\". دراسات حول أصول تفوق البابا على المجالس، 1983."
+      },
+      {
+        "reference_title": "Heresies, Doctrinal Controversies, and Church Councils",
+        "reference_url": "https://doi.org/10.1093/0198270119.005.0001",
+        "citation_en": "Heresies, Doctrinal Controversies, and Church Councils. *crossref*, 2002.",
+        "citation_ar": "البدع، الخلافات العقائدية، ومجالس الكنيسة. *كروسريف*، 2002."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Biblical Exegesis: Methods of Interpretation from Patristic to Modern Scholarship",
+    "academic_concept_ar": "التفسير الكتابي: أساليب التفسير من العصور البطريركية إلى البحث الحديث.",
+    "concept_url_en": "https://smarticle.tech/en/article/biblical-exegesis-methods-of-interpretation-from-patristic-to-modern-schola-202605150255",
+    "concept_url_ar": "https://smarticle.tech/ar/article/biblical-exegesis-methods-of-interpretation-from-patristic-to-modern-schola-202605150255",
+    "subcategory": "Christianity",
+    "references": [
+      {
+        "reference_title": "Bible",
+        "reference_url": "https://archive.org/details/holybiblesoarran01unse",
+        "citation_en": "Bible. by Bible. (1200). — E.F. Backus. ISBN: 0564069019",
+        "citation_ar": "Bible. بقلم Bible. (1200). — E.F. Backus. ردمك: 0564069019"
+      },
+      {
+        "reference_title": "Was ist Formgeschichte?",
+        "reference_url": "https://archive.org/details/growthofbiblical00koch",
+        "citation_en": "Was ist Formgeschichte?. by Koch, Klaus. (1964). — Neukirchener Verlag des Erziehungsvereins. ISBN: 9780713601350",
+        "citation_ar": "Was ist Formgeschichte?. بقلم Koch, Klaus. (1964). — Neukirchener Verlag des Erziehungsvereins. ردمك: 9780713601350"
+      },
+      {
+        "reference_title": "Exegesis",
+        "reference_url": "https://openlibrary.org/works/OL18244033W",
+        "citation_en": "Exegesis. by Gérald Antoine, François Bovon, Donald G. Miller. (1978). — Pickwick Press. ISBN: 9780915138258",
+        "citation_ar": "Exegesis. بقلم Gérald Antoine، François Bovon، Donald G. Miller. (1978). — Pickwick Press. ردمك: 9780915138258"
+      },
+      {
+        "reference_title": "Rendering the Word in Theological Hermeneutics",
+        "reference_url": "https://openlibrary.org/works/OL9491694W",
+        "citation_en": "Rendering the Word in Theological Hermeneutics. by Mark Alan Bowald. (2007). — Ashgate. ISBN: 1315605333",
+        "citation_ar": "Rendering the Word in Theological Hermeneutics. بقلم Mark Alan Bowald. (2007). — Ashgate. ردمك: 1315605333"
+      },
+      {
+        "reference_title": "Biblical interpretation",
+        "reference_url": "https://archive.org/details/biblicalinterpre0000tate",
+        "citation_en": "Biblical interpretation. by W. Randolph Tate. (1991). — Hendrickson Publishers. ISBN: 9781598560800",
+        "citation_ar": "Biblical interpretation. بقلم W. Randolph Tate. (1991). — Hendrickson Publishers. ردمك: 9781598560800"
+      },
+      {
+        "reference_title": "The mind of Mark",
+        "reference_url": "https://openlibrary.org/works/OL5902466W",
+        "citation_en": "The mind of Mark. by Quentin Quesnell. (1969). — Pontifical Biblical Institute",
+        "citation_ar": "The mind of Mark. بقلم Quentin Quesnell. (1969). — Pontifical Biblical Institute"
+      },
+      {
+        "reference_title": "Patristic Theories of Biblical Interpretation",
+        "reference_url": "https://doi.org/10.1017/cbo9781107588967",
+        "citation_en": "Patristic Theories of Biblical Interpretation. \"Patristic Theories of Biblical Interpretation\". Cambridge University Press, 2016.",
+        "citation_ar": "Patristic Theories of Biblical Interpretation. \"Patristic Theories of Biblical Interpretation\". Cambridge University Press, 2016."
+      },
+      {
+        "reference_title": "Biblical Interpretation in the Patristic Era, A 'Handbook of Patristic Exegesis' and Some Other Recent Books and Related Projects",
+        "reference_url": "https://doi.org/10.1163/157007206775567924",
+        "citation_en": "van Oort, Johannes. \"Biblical Interpretation in the Patristic Era, A 'Handbook of Patristic Exegesis' and Some Other Recent Books and Related Projects\". *crossref*, 2006.",
+        "citation_ar": "van Oort, Johannes. \"Biblical Interpretation in the Patristic Era, A 'Handbook of Patristic Exegesis' and Some Other Recent Books and Related Projects\". *crossref*, 2006."
+      },
+      {
+        "reference_title": "Patristic Theories of Biblical Interpretation: The Latin Fathers. Edited by Tarmo Toom.",
+        "reference_url": "https://doi.org/10.1093/jts/flx221",
+        "citation_en": "Keech, Dominic. \"Patristic Theories of Biblical Interpretation: The Latin Fathers\". *Journal of Theological Studies*, 2017.",
+        "citation_ar": "Keech, Dominic. \"Patristic Theories of Biblical Interpretation: The Latin Fathers\". *Journal of Theological Studies*, 2017."
+      },
+      {
+        "reference_title": "The Complex Background of Biblical Interpretation",
+        "reference_url": "https://doi.org/10.5040/9780567660695.ch-001",
+        "citation_en": "The Complex Background of Biblical Interpretation. *crossref*, 1995.",
+        "citation_ar": "The Complex Background of Biblical Interpretation. *crossref*, 1995."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Early Church History: The Apostolic Age, Persecution, and the Council of Nicaea",
+    "academic_concept_ar": "تاريخ الكنيسة المبكر: العصر الرسولي، الاضطهاد، ومجلس نيقية.",
+    "concept_url_en": "https://smarticle.tech/en/article/early-church-history-the-apostolic-age-persecution-and-the-council-of-nicae-202605150301",
+    "concept_url_ar": "https://smarticle.tech/ar/article/early-church-history-the-apostolic-age-persecution-and-the-council-of-nicae-202605150301",
+    "subcategory": "Christianity",
+    "references": [
+      {
+        "reference_title": "Bible",
+        "reference_url": "https://archive.org/details/holybiblesoarran01unse",
+        "citation_en": "Bible. by Bible. (1200). — E.F. Backus. ISBN: 0564069019",
+        "citation_ar": "Bible. بقلم Bible. (1200). — E.F. Backus. ردمك: 0564069019"
+      },
+      {
+        "reference_title": "A Source Book for Ancient Church History",
+        "reference_url": "https://www.gutenberg.org/ebooks/24979",
+        "citation_en": "A Source Book for Ancient Church History. by Ayer, Joseph Cullen. — Project Gutenberg",
+        "citation_ar": "A Source Book for Ancient Church History. بقلم Ayer, Joseph Cullen. — Project Gutenberg"
+      },
+      {
+        "reference_title": "Church History (Volumes 1-3)",
+        "reference_url": "https://www.gutenberg.org/ebooks/51491",
+        "citation_en": "Church History (Volumes 1-3). by Kurtz, J. H. (Johann Heinrich). — Project Gutenberg",
+        "citation_ar": "Church History (Volumes 1-3). بقلم Kurtz, J. H. (Johann Heinrich). — Project Gutenberg"
+      },
+      {
+        "reference_title": "<i>Christianity in the Apostolic Age</i>. George T. Purves<i>Ten Epochs of Church History: The Apostolic Age, Its Life, Doctrine, Worship, and Polity<",
+        "reference_url": "https://doi.org/10.1086/477715",
+        "citation_en": "Purves, George T. \"Christianity in the Apostolic Age\". Ten Epochs of Church History: The Apostolic Age, Its Life, Doctrine, Worship, and Polity, 1901.",
+        "citation_ar": "بورفس، جورج تي. \"المسيحية في العصر الرسولي\". *عشرة عصور من تاريخ الكنيسة: العصر الرسولي، حياته، عقائده، عبادته، ونظامه الكنسي*، 1901."
+      },
+      {
+        "reference_title": "MARTYRDOM AND PERSECUTION IN THE EARLY CHURCH*",
+        "reference_url": "https://doi.org/10.1111/j.1468-229x.1967.tb01198.x",
+        "citation_en": "Mattingly, Harold B. \"Martyrdom and Persecution in the Early Church\". *Crossref*, 1967.",
+        "citation_ar": "ماتينغلي، هارولد ب. \"الاستشهاد والاضطهاد في الكنيسة المبكرة\". *كروسريف*، 1967."
+      },
+      {
+        "reference_title": "Martyrdom and Persecution in the Early Church. A Study of a Conflict from the Maccabees to Donatus",
+        "reference_url": "https://doi.org/10.2307/4346622",
+        "citation_en": "Hammond, Mason, and W. H. C. Frend. \"Martyrdom and Persecution in the Early Church. A Study of a Conflict from the Maccabees to Donatus\". crossref, 1968.",
+        "citation_ar": "هاموند، ماسون، وويليام إتش. سي. فرند. \"الاستشهاد والاضطهاد في الكنيسة المبكرة. دراسة صراع من المكابيين إلى دوناتوس\". *كروسريف*، 1968."
+      },
+      {
+        "reference_title": "Martyrdom and Persecution in the Early Church",
+        "reference_url": "https://doi.org/10.1111/j.1467-9809.1969.tb00310.x",
+        "citation_en": "G. S. R. THOMAS. \"Martyrdom and Persecution in the Early Church\". crossref, 1969.",
+        "citation_ar": "جي. إس. آر. توماس. \"الاستشهاد والاضطهاد في الكنيسة المبكرة\". *كروسريف*، 1969."
+      },
+      {
+        "reference_title": "Nicaea, Council of",
+        "reference_url": "https://doi.org/10.1002/9781444338386.wbeah05125",
+        "citation_en": "Winrich Löhr. \"Nicaea, Council of\". *crossref*, 2012.",
+        "citation_ar": "وينريش لهر. \"مجمع نيقية\". *كروسريف*، 2012."
+      },
+      {
+        "reference_title": "ORIGIN AND EARLY HISTORY OF THE APOSTOLIC OFFICE",
+        "reference_url": "https://doi.org/10.1163/9789047404293_002",
+        "citation_en": "Theodore Korteweg. \"ORIGIN AND EARLY HISTORY OF THE APOSTOLIC OFFICE\". crossref, 2004.",
+        "citation_ar": "ثيودور كورتيويغ. \"الأصل والتاريخ المبكر للمكتب الرسولي\". *كروسريف*، 2004."
+      },
+      {
+        "reference_title": "The Early Church (from The Apostolic Age to the Council of Nicaea)",
+        "reference_url": "https://doi.org/10.4324/9780203099636-2",
+        "citation_en": "Cook Chris. \"The Early Church (from The Apostolic Age to the Council of Nicaea)\". crossref, 2020.",
+        "citation_ar": "كريس كوك. \"الكنيسة المبكرة (من العصر الرسولي إلى مجمع نيقية)\". *كروسريف*، 2020."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Jewish Theology: Monotheism, Covenant, and Rabbinic Thought",
+    "academic_concept_ar": "اللاهوت اليهودي: التوحيد، العهد، والفكر الحاخامي.",
+    "concept_url_en": "https://smarticle.tech/en/article/jewish-theology-monotheism-covenant-and-rabbinic-thought-202605160321",
+    "concept_url_ar": "https://smarticle.tech/ar/article/jewish-theology-monotheism-covenant-and-rabbinic-thought-202605160321",
+    "subcategory": "Judaism",
+    "references": [
+      {
+        "reference_title": "Bible",
+        "reference_url": "https://archive.org/details/holybiblesoarran01unse",
+        "citation_en": "Bible. by Bible. (1200). — E.F. Backus. ISBN: 0564069019",
+        "citation_ar": "Bible. بقلم Bible. (1200). — E.F. Backus. ردمك: 0564069019"
+      },
+      {
+        "reference_title": "The guide of the perplexed of Maimonides",
+        "reference_url": "https://archive.org/details/leguidedesegares03maim",
+        "citation_en": "The guide of the perplexed of Maimonides. by Moses Maimonides. (1473). — Yediʻot aḥaronot : Sifre Ḥemed. ISBN: 1602065004",
+        "citation_ar": "The guide of the perplexed of Maimonides. بقلم Moses Maimonides. (1473). — Yediʻot aḥaronot : Sifre Ḥemed. ردمك: 1602065004"
+      },
+      {
+        "reference_title": "Jewish Theology, Systematically and Historically Considered",
+        "reference_url": "https://www.gutenberg.org/ebooks/32722",
+        "citation_en": "Jewish Theology, Systematically and Historically Considered. by Kohler, Kaufmann. — Project Gutenberg",
+        "citation_ar": "Jewish Theology, Systematically and Historically Considered. بقلم Kohler, Kaufmann. — Project Gutenberg"
+      },
+      {
+        "reference_title": "Kitāb al-farāʾid",
+        "reference_url": "https://archive.org/details/MN40359ucmf_0",
+        "citation_en": "Kitāb al-farāʾid. by Moses Maimonides. (1515). — Brothers Levin-Epstein. ISBN: 9789654170147",
+        "citation_ar": "Kitāb al-farāʾid. بقلم Moses Maimonides. (1515). — Brothers Levin-Epstein. ردمك: 9789654170147"
+      },
+      {
+        "reference_title": "Ich und du",
+        "reference_url": "https://archive.org/details/jeettu0000mart",
+        "citation_en": "Ich und du. by Martin Buber. (1922). — L. Schneider. ISBN: 1578989973",
+        "citation_ar": "Ich und du. بقلم Martin Buber. (1922). — L. Schneider. ردمك: 1578989973"
+      },
+      {
+        "reference_title": "Kitāb al-ḥujjah",
+        "reference_url": "https://archive.org/details/kuzarikitabalkha0000juda",
+        "citation_en": "Kitāb al-ḥujjah. by Judah ha-Levi, Ha-Levi Judah, N. Daniel Korobkin. (1546). — Nidpas ʻa.y. Zoʾan di Garah. ISBN: 9781583308424",
+        "citation_ar": "Kitāb al-ḥujjah. بقلم Judah ha-Levi، Ha-Levi Judah، N. Daniel Korobkin. (1546). — Nidpas ʻa.y. Zoʾan di Garah. ردمك: 9781583308424"
+      },
+      {
+        "reference_title": "Tractatus theologico-politicus",
+        "reference_url": "https://archive.org/details/tractatustheolog00elweuoft",
+        "citation_en": "Tractatus theologico-politicus. by Benedictus de Spinoza, Seymour Feldman. (1670). — Williams and Norgate. ISBN: 3534059565",
+        "citation_ar": "Tractatus theologico-politicus. بقلم Benedictus de Spinoza، Seymour Feldman. (1670). — Williams and Norgate. ردمك: 3534059565"
+      },
+      {
+        "reference_title": "De bello judaico",
+        "reference_url": "https://archive.org/details/nybc203940",
+        "citation_en": "De bello judaico. by Flavius Josephus. (1481). — Sovremennyĭ  literator. ISBN: 9780140440904",
+        "citation_ar": "De bello judaico. بقلم Flavius Josephus. (1481). — Sovremennyĭ  literator. ردمك: 9780140440904"
+      },
+      {
+        "reference_title": "Summa Theologica",
+        "reference_url": "https://archive.org/details/ITheSummaTheologicaOfStThomas",
+        "citation_en": "Summa Theologica. by Thomas Aquinas, Kennedy, Daniel Joseph, 1862-1930. (1467). — Prentice Hall. ISBN: 9780521029445",
+        "citation_ar": "Summa Theologica. بقلم Thomas Aquinas، Kennedy, Daniel Joseph, 1862-1930. (1467). — Prentice Hall. ردمك: 9780521029445"
+      },
+      {
+        "reference_title": "A Classical Ethical Problem in Ancient Philosophy and Rabbinic Thought: The Case of the Shipwrecked",
+        "reference_url": "https://doi.org/10.1017/s0017816013000072",
+        "citation_en": "Berthelot, Katell. \"A Classical Ethical Problem in Ancient Philosophy and Rabbinic Thought: The Case of the Shipwrecked\". *Harvard Theological Review*, 2013.",
+        "citation_ar": "بيرثيلوت، كاتيل. \"مشكلة أخلاقية كلاسيكية في الفلسفة القديمة والفكر الحاخامي: قضية الغرقى بالسفينة\". *مراجعة هارفارد اللاهوتية*، 2013."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Talmudic Studies: The Mishnah, Gemara, and the Development of Jewish Law",
+    "academic_concept_ar": "دراسات التلمود: المشناه والجمارة وتطور القانون اليهودي.",
+    "concept_url_en": "https://smarticle.tech/en/article/talmudic-studies-the-mishnah-gemara-and-the-development-of-jewish-law-202605160330",
+    "concept_url_ar": "https://smarticle.tech/ar/article/talmudic-studies-the-mishnah-gemara-and-the-development-of-jewish-law-202605160330",
+    "subcategory": "Judaism",
+    "references": [
+      {
+        "reference_title": "Mishneh Torah (Codification of Talmudic laws)",
+        "reference_url": "https://archive.org/details/sefermishnehtora048800",
+        "citation_en": "Mishneh Torah (Codification of Talmudic laws). by Moses Maimonides. (1470). ISBN: 9781885220684",
+        "citation_ar": "Mishneh Torah (Codification of Talmudic laws). بقلم Moses Maimonides. (1470). ردمك: 9781885220684"
+      },
+      {
+        "reference_title": "Qeṣat mifraṣ riʾs͡hōn s͡hel masek͡het Sanhedrīn s͡hel talmūd bavlī de-hayeynū mis͡hnah riʾs͡hōnah ṿeha-gemaraʾ ha-śeyyk͡hat le-kaʾn",
+        "reference_url": "https://archive.org/details/qeatmifrarishnsh01unse",
+        "citation_en": "Qeṣat mifraṣ riʾs͡hōn s͡hel masek͡het Sanhedrīn s͡hel talmūd bavlī de-hayeynū mis͡hnah riʾs͡hōnah ṿeha-gemaraʾ ha-śeyyk͡hat le-kaʾn. by Fredrik August Fehr. (1872). — Akademiska boktryckeriet",
+        "citation_ar": "Qeṣat mifraṣ riʾs͡hōn s͡hel masek͡het Sanhedrīn s͡hel talmūd bavlī de-hayeynū mis͡hnah riʾs͡hōnah ṿeha-gemaraʾ ha-śeyyk͡hat le-kaʾn. بقلم Fredrik August Fehr. (1872). — Akademiska boktryckeriet"
+      },
+      {
+        "reference_title": "The Talmud of the land of Israel",
+        "reference_url": "https://archive.org/details/isbn_0226576795_20",
+        "citation_en": "The Talmud of the land of Israel. by Jacob Neusner. (1982). — University Of Chicago Press. ISBN: 9780226576749",
+        "citation_ar": "The Talmud of the land of Israel. بقلم Jacob Neusner. (1982). — University Of Chicago Press. ردمك: 9780226576749"
+      },
+      {
+        "reference_title": "The Mishnah",
+        "reference_url": "https://archive.org/details/mishnah_neus_1999_000_6772338",
+        "citation_en": "The Mishnah. by Jacob Neusner. (1988). — Jason Aronson. ISBN: 0391041592",
+        "citation_ar": "The Mishnah. بقلم Jacob Neusner. (1988). — Jason Aronson. ردمك: 0391041592"
+      },
+      {
+        "reference_title": "Sefer Otsar Ḥayim",
+        "reference_url": "https://openlibrary.org/works/OL22382859W",
+        "citation_en": "Sefer Otsar Ḥayim. by Ḥayim Tsevi Hirsh ben Y. Broda. (1899). — Bi-defus Y.L. ben E. Lipman",
+        "citation_ar": "Sefer Otsar Ḥayim. بقلم Ḥayim Tsevi Hirsh ben Y. Broda. (1899). — Bi-defus Y.L. ben E. Lipman"
+      },
+      {
+        "reference_title": "The commentatorial tradition: Mishnah and Talmud",
+        "reference_url": "https://doi.org/10.4324/9780203088685-11",
+        "citation_en": "Neusner, Jacob. \"The commentatorial tradition: Mishnah and Talmud\". *crossref*, 2006.",
+        "citation_ar": "Neusner, Jacob. \"The commentatorial tradition: Mishnah and Talmud\". *crossref*, 2006."
+      },
+      {
+        "reference_title": "Tradition in the Making—The Mishnah and the Talmuds",
+        "reference_url": "https://doi.org/10.2307/j.ctt22nm8fw.8",
+        "citation_en": "Neusner, Jacob. \"Tradition in the Making—The Mishnah and the Talmuds\". *crossref*, 2012.",
+        "citation_ar": "Neusner, Jacob. \"Tradition in the Making—The Mishnah and the Talmuds\". *crossref*, 2012."
+      },
+      {
+        "reference_title": "Elizabeth Shanks Alexander. Transmitting Mishnah: The Shaping Influence of Oral Tradition",
+        "reference_url": "https://doi.org/10.6017/scjr.v3i1.1494",
+        "citation_en": "Suomala, Karla. \"Elizabeth Shanks Alexander. Transmitting Mishnah: The Shaping Influence of Oral Tradition\". crossref, 2011.",
+        "citation_ar": "Suomala, Karla. \"Elizabeth Shanks Alexander. Transmitting Mishnah: The Shaping Influence of Oral Tradition\". crossref, 2011."
+      },
+      {
+        "reference_title": "Scripture and Mishnah: The Exegetical Origins of \"Maddaf\"",
+        "reference_url": "https://doi.org/10.2307/3622366",
+        "citation_en": "Jacob Neusner. \"Scripture and Mishnah: The Exegetical Origins of 'Maddaf'\". crossref, 1979.",
+        "citation_ar": "Jacob Neusner. \"Scripture and Mishnah: The Exegetical Origins of 'Maddaf'\". crossref, 1979."
+      },
+      {
+        "reference_title": "Modes of Legal Analysis in the Mishnah",
+        "reference_url": "https://doi.org/10.1017/cbo9780511584565.004",
+        "citation_en": "Neusner, Jacob. \"Modes of Legal Analysis in the Mishnah\". *crossref*, 2006.",
+        "citation_ar": "Neusner, Jacob. \"Modes of Legal Analysis in the Mishnah\". *crossref*, 2006."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Jewish Mysticism (Kabbalah): Zohar, Sefirot, and the Mystical Tradition",
+    "academic_concept_ar": "التصوف اليهودي (الكابالا): الزوهار، السفيروت، والتقليد الصوفي.",
+    "concept_url_en": "https://smarticle.tech/en/article/jewish-mysticism-kabbalah-zohar-sefirot-and-the-mystical-tradition-202605180139",
+    "concept_url_ar": "https://smarticle.tech/ar/article/jewish-mysticism-kabbalah-zohar-sefirot-and-the-mystical-tradition-202605180139",
+    "subcategory": "Judaism",
+    "references": [
+      {
+        "reference_title": "Ursprung und Anfänge der Kabbala",
+        "reference_url": "https://archive.org/details/urpsrungundanfae0000scho",
+        "citation_en": "Ursprung und Anfänge der Kabbala. by Gershom Scholem. (1900). — de Gruyter GmbH, Walter. ISBN: 9783111792200",
+        "citation_ar": "Ursprung und Anfänge der Kabbala. بقلم Gershom Scholem. (1900). — de Gruyter GmbH, Walter. ردمك: 9783111792200"
+      },
+      {
+        "reference_title": "Kabballah",
+        "reference_url": "https://archive.org/details/kabbalah00schorich",
+        "citation_en": "Kabballah. by Gershon Scholem. (1974). — Quadrangle/New York Times Book Co.. ISBN: 0706513584",
+        "citation_ar": "Kabballah. بقلم Gershon Scholem. (1974). — Quadrangle/New York Times Book Co.. ردمك: 0706513584"
+      },
+      {
+        "reference_title": "The Bahir",
+        "reference_url": "https://archive.org/details/bahironeofo00nehu",
+        "citation_en": "The Bahir. by Aryeh Kaplan. (1977). — Red Wheel/Weiser. ISBN: 9781609254933",
+        "citation_ar": "The Bahir. بقلم Aryeh Kaplan. (1977). — Red Wheel/Weiser. ردمك: 9781609254933"
+      },
+      {
+        "reference_title": "Tree of Life",
+        "reference_url": "https://archive.org/details/arboldelavidauna0000hale",
+        "citation_en": "Tree of Life. by Z'ev ben Shimon Halevi. (1972). — Rider. ISBN: 0091500117",
+        "citation_ar": "Tree of Life. بقلم Z'ev ben Shimon Halevi. (1972). — Rider. ردمك: 0091500117"
+      },
+      {
+        "reference_title": "Jewish Mysticism",
+        "reference_url": "https://archive.org/details/jewishmysticism00abel",
+        "citation_en": "Jewish Mysticism. by Joshua Abelson. (1913). — G. Bell. ISBN: 0872030962",
+        "citation_ar": "Jewish Mysticism. بقلم Joshua Abelson. (1913). — G. Bell. ردمك: 0872030962"
+      },
+      {
+        "reference_title": "De arte cabalistica",
+        "reference_url": "https://openlibrary.org/works/OL1513862W",
+        "citation_en": "De arte cabalistica. by Johann Reuchlin. (1973). — Abaris Books. ISBN: 31115420",
+        "citation_ar": "De arte cabalistica. بقلم Johann Reuchlin. (1973). — Abaris Books. ردمك: 31115420"
+      },
+      {
+        "reference_title": "Kabbalah and the Art of Being",
+        "reference_url": "https://archive.org/details/kabbalahartofbei0000shok",
+        "citation_en": "Kabbalah and the Art of Being. by Shimon Shokek. (2000). — Routledge. ISBN: 9781306142199",
+        "citation_ar": "Kabbalah and the Art of Being. بقلم Shimon Shokek. (2000). — Routledge. ردمك: 9781306142199"
+      },
+      {
+        "reference_title": "Hekhalot Literature and the Origins of Jewish Mysticism",
+        "reference_url": "https://doi.org/10.5871/bacad/9780197264744.003.0016",
+        "citation_en": "PETER SCHÄFER. \"Hekhalot Literature and the Origins of Jewish Mysticism\". crossref, 2011.",
+        "citation_ar": "بيتر شيفر. \"الأدب الهيكالوتي وأصول التصوف اليهودي\". كروسريف، 2011."
+      },
+      {
+        "reference_title": "Early Modern Criticism of the Zohar",
+        "reference_url": "https://doi.org/10.23943/princeton/9780691145082.003.0003",
+        "citation_en": "Yaacob Dweck. \"Early Modern Criticism of the Zohar\". crossref, 2011.",
+        "citation_ar": "يعقوب دويك. \"النقد المبكر لزوهار\". كروسريف، 2011."
+      },
+      {
+        "reference_title": "Spheres, <i>Sefirot</i>, and the Imaginal Astronomical Discourse of Classical Kabbalah",
+        "reference_url": "https://doi.org/10.1017/s0017816020000061",
+        "citation_en": "Chajes, J. H. \"Spheres, *Sefirot*, and the Imaginal Astronomical Discourse of Classical Kabbalah\". *AJS Review*, 2020.",
+        "citation_ar": "ج. ح. شاجيس. \"الكرات، *سفيروت*، والخطاب الفلكي الخيالي للكابالا الكلاسيكية\". *مراجعة الجمعية الأمريكية للدراسات اليهودية*، 2020."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Ancient Mythology and Polytheism: Greek, Roman, and Norse Pantheons",
+    "academic_concept_ar": "الأساطير القديمة والوثنية: الالمجمع الإلهي اليوناني والروماني والنوردي.",
+    "concept_url_en": "https://smarticle.tech/en/article/ancient-mythology-and-polytheism-greek-roman-and-norse-pantheons-202605180148",
+    "concept_url_ar": "https://smarticle.tech/ar/article/ancient-mythology-and-polytheism-greek-roman-and-norse-pantheons-202605180148",
+    "subcategory": "Ancient Religions",
+    "references": [
+      {
+        "reference_title": "Tanglewood Tales",
+        "reference_url": "https://archive.org/details/bwb_KR-444-433",
+        "citation_en": "Tanglewood Tales. by Nathaniel Hawthorne. (1853). — Houghton, Mifflin. ISBN: 1530826837",
+        "citation_ar": "Tanglewood Tales. بقلم Nathaniel Hawthorne. (1853). — Houghton, Mifflin. ردمك: 1530826837"
+      },
+      {
+        "reference_title": "The Age of Fable",
+        "reference_url": "https://archive.org/details/ageoffableorstor00bulf_0",
+        "citation_en": "The Age of Fable. by Thomas Bulfinch. (1800). — Henry Altemus. ISBN: 1097434508",
+        "citation_ar": "The Age of Fable. بقلم Thomas Bulfinch. (1800). — Henry Altemus. ردمك: 1097434508"
+      },
+      {
+        "reference_title": "Ἰλιάς",
+        "reference_url": "https://archive.org/details/iliadofhomerdone00home",
+        "citation_en": "Ἰλιάς. by Όμηρος. (1505). — Printed by Thomas Roycroft. ISBN: 8474140404",
+        "citation_ar": "Ἰλιάς. بقلم Όμηρος. (1505). — Printed by Thomas Roycroft. ردمك: 8474140404"
+      },
+      {
+        "reference_title": "Ὀδύσσεια",
+        "reference_url": "https://archive.org/details/lodysse02hom",
+        "citation_en": "Ὀδύσσεια. by Όμηρος. (1488). — Newnes. ISBN: 9626340312",
+        "citation_ar": "Ὀδύσσεια. بقلم Όμηρος. (1488). — Newnes. ردمك: 9626340312"
+      },
+      {
+        "reference_title": "Metamorphoses",
+        "reference_url": "https://archive.org/details/mtamorphoses00ovid",
+        "citation_en": "Metamorphoses. by Ovid. (1479). — Appresso Camillo Franceschini. ISBN: 9789022108819",
+        "citation_ar": "Metamorphoses. بقلم Ovid. (1479). — Appresso Camillo Franceschini. ردمك: 9789022108819"
+      },
+      {
+        "reference_title": "Aeneis",
+        "reference_url": "https://archive.org/details/enidelivresvii00virg",
+        "citation_en": "Aeneis. by Publius Vergilius Maro. (1592). — Nelson Thornes Ltd. ISBN: 9780872207318",
+        "citation_ar": "Aeneis. بقلم Publius Vergilius Maro. (1592). — Nelson Thornes Ltd. ردمك: 9780872207318"
+      },
+      {
+        "reference_title": "Mythology",
+        "reference_url": "https://archive.org/details/lamythologiesesd0000hami",
+        "citation_en": "Mythology. by Edith Hamilton. (1940). — Warner Books. ISBN: 0451621891",
+        "citation_ar": "Mythology. بقلم Edith Hamilton. (1940). — Warner Books. ردمك: 0451621891"
+      },
+      {
+        "reference_title": "Meditations",
+        "reference_url": "https://archive.org/details/marcusaureliusan00marcrich",
+        "citation_en": "Meditations. by Marcus Aurelius. (1626). — Printed by R. Cruttwell, for G. G. J. and J. Robinson. ISBN: 9798673188460",
+        "citation_ar": "Meditations. بقلم Marcus Aurelius. (1626). — Printed by R. Cruttwell, for G. G. J. and J. Robinson. ردمك: 9798673188460"
+      },
+      {
+        "reference_title": "The Student's Mythology: A Compendium of Greek, Roman, Egyptian, Assyrian, Persian, Hindoo, Chinese, Thibetian, Scandinavian, Celtic, Aztec, and Peruv",
+        "reference_url": "https://www.gutenberg.org/ebooks/37380",
+        "citation_en": "The Student's Mythology: A Compendium of Greek, Roman, Egyptian, Assyrian, Persian, Hindoo, Chinese, Thibetian, Scandinavian, Celtic, Aztec, and Peruvian Mythologies. by White, Catherine Ann. — Project Gutenberg",
+        "citation_ar": "The Student's Mythology: A Compendium of Greek, Roman, Egyptian, Assyrian, Persian, Hindoo, Chinese, Thibetian, Scandinavian, Celtic, Aztec, and Peruvian Mythologies. بقلم White, Catherine Ann. — Project Gutenberg"
+      },
+      {
+        "reference_title": "Συμπόσιον",
+        "reference_url": "https://archive.org/details/uvrescompltes42plat",
+        "citation_en": "Συμπόσιον. by Πλάτων. (1559). — E-Artnow. ISBN: 1776784316",
+        "citation_ar": "Συμπόσιον. بقلم Πλάτων. (1559). — E-Artnow. ردمك: 1776784316"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Ancient Egyptian Religion: Cosmology, Ritual, and the Afterlife",
+    "academic_concept_ar": "الدين المصري القديم: الكونية، الطقوس، والحياة بعد الموت.",
+    "concept_url_en": "https://smarticle.tech/en/article/ancient-egyptian-religion-cosmology-ritual-and-the-afterlife-202605180156",
+    "concept_url_ar": "https://smarticle.tech/ar/article/ancient-egyptian-religion-cosmology-ritual-and-the-afterlife-202605180156",
+    "subcategory": "Ancient Religions",
+    "references": [
+      {
+        "reference_title": "The Book of the Dead",
+        "reference_url": "https://archive.org/details/bookofdeadenglis0001unse",
+        "citation_en": "The Book of the Dead. by E. A. Wallis Budge, David Lorimer, Foy Scalf. (1894). — Book Tree. ISBN: 9351285154",
+        "citation_ar": "The Book of the Dead. بقلم E. A. Wallis Budge، David Lorimer، Foy Scalf. (1894). — Book Tree. ردمك: 9351285154"
+      },
+      {
+        "reference_title": "Egyptian ideas of the future life",
+        "reference_url": "https://archive.org/details/egyptianideasoff00budg_0",
+        "citation_en": "Egyptian ideas of the future life. by E. A. Wallis Budge. (1899). — Routledge & K.Paul. ISBN: 9781299993525",
+        "citation_ar": "Egyptian ideas of the future life. بقلم E. A. Wallis Budge. (1899). — Routledge & K.Paul. ردمك: 9781299993525"
+      },
+      {
+        "reference_title": "Development of religion and thought in ancient Egypt",
+        "reference_url": "https://archive.org/details/developmentofrel00breauoft",
+        "citation_en": "Development of religion and thought in ancient Egypt. by James Henry Breasted. (1912). — Kessinger Publishing. ISBN: 0790517442",
+        "citation_ar": "Development of religion and thought in ancient Egypt. بقلم James Henry Breasted. (1912). — Kessinger Publishing. ردمك: 0790517442"
+      },
+      {
+        "reference_title": "Myths & Legends of Ancient Egypt",
+        "reference_url": "https://archive.org/details/mythslegendsanci00spen",
+        "citation_en": "Myths & Legends of Ancient Egypt. by Lewis Spence. (1900). — Frederick A. Stokes company. ISBN: 9798495778443",
+        "citation_ar": "Myths & Legends of Ancient Egypt. بقلم Lewis Spence. (1900). — Frederick A. Stokes company. ردمك: 9798495778443"
+      },
+      {
+        "reference_title": "Egyptian magic",
+        "reference_url": "https://archive.org/details/egyptianmagic1899budg",
+        "citation_en": "Egyptian magic. by E. A. Wallis Budge. (1899). — Arkana. ISBN: 1850631069",
+        "citation_ar": "Egyptian magic. بقلم E. A. Wallis Budge. (1899). — Arkana. ردمك: 1850631069"
+      },
+      {
+        "reference_title": "Pantheism; its story and significance",
+        "reference_url": "https://archive.org/details/pantheismitsstor00pictrich",
+        "citation_en": "Pantheism; its story and significance. by J. Allanson Picton. (1905). — Hesperides Press. ISBN: 9798692486769",
+        "citation_ar": "Pantheism; its story and significance. بقلم J. Allanson Picton. (1905). — Hesperides Press. ردمك: 9798692486769"
+      },
+      {
+        "reference_title": "The Kabbala",
+        "reference_url": "https://archive.org/details/kabbalatruescien00panc",
+        "citation_en": "The Kabbala. by S. Pancoast. (1877). — J. M. Stoddart & Co.. ISBN: 1564591670",
+        "citation_ar": "The Kabbala. بقلم S. Pancoast. (1877). — J. M. Stoddart & Co.. ردمك: 1564591670"
+      },
+      {
+        "reference_title": "Egyptian cosmology, ancient",
+        "reference_url": "https://doi.org/10.4324/9780415249126-n094-1",
+        "citation_en": "John D. Ray. \"Egyptian cosmology, ancient\". crossref, 2004.",
+        "citation_ar": "جون د. راي. \"علم الكونيات المصري القديم\". كروسرف، 2004."
+      },
+      {
+        "reference_title": "Ancient Egyptian Religion",
+        "reference_url": "https://doi.org/10.1093/acrefore/9780199340378.013.246",
+        "citation_en": "Korshi Dosoo. \"Ancient Egyptian Religion\". Oxford Research Encyclopedia of Religion, 2018.",
+        "citation_ar": "كورشي دوسو. \"الدين المصري القديم\". موسوعة أوكسفورد للأبحاث في الدين، 2018."
+      },
+      {
+        "reference_title": "Hathor and Thoth: Two Key Figures of the Ancient Egyptian Religion",
+        "reference_url": "https://doi.org/10.1163/9789004378445_010",
+        "citation_en": "Bleeker, C. J. \"Hathor and Thoth: Two Key Figures of the Ancient Egyptian Religion\". crossref, 1973.",
+        "citation_ar": "سي. جاي. بليكر. \"هاتور وتوت: شخصيتان رئيسيتان في الدين المصري القديم\". كروسرف، 1973."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Mesoamerican Religions: Aztec and Maya Cosmology, Sacrifice, and Sacred Calendar",
+    "academic_concept_ar": "الأديان الميسوآمريكية: علم الكون الأزتك والمايا، التضحية، والتقويم المقدس.",
+    "concept_url_en": "https://smarticle.tech/en/article/mesoamerican-religions-aztec-and-maya-cosmology-sacrifice-and-sacred-calend-202605180203",
+    "concept_url_ar": "https://smarticle.tech/ar/article/mesoamerican-religions-aztec-and-maya-cosmology-sacrifice-and-sacred-calend-202605180203",
+    "subcategory": "Ancient Religions",
+    "references": [
+      {
+        "reference_title": "Quetzalcoatl and the irony of empire",
+        "reference_url": "https://archive.org/details/quetzalcoatliron0000carr",
+        "citation_en": "Quetzalcoatl and the irony of empire. by David Carrasco. (1982). — University of Chicago Press. ISBN: 0226094901",
+        "citation_ar": "Quetzalcoatl and the irony of empire. بقلم David Carrasco. (1982). — University of Chicago Press. ردمك: 0226094901"
+      },
+      {
+        "reference_title": "Landscape and power in ancient Mesoamerica",
+        "reference_url": "https://openlibrary.org/works/OL16483175W",
+        "citation_en": "Landscape and power in ancient Mesoamerica. by Rex Koontz. (2001). — Avalon Publishing. ISBN: 9780429990120",
+        "citation_ar": "Landscape and power in ancient Mesoamerica. بقلم Rex Koontz. (2001). — Avalon Publishing. ردمك: 9780429990120"
+      },
+      {
+        "reference_title": "Native Mesoamerican spirituality",
+        "reference_url": "https://openlibrary.org/works/OL18432774W",
+        "citation_en": "Native Mesoamerican spirituality. by Miguel León Portilla. (1980). — Paulist Press",
+        "citation_ar": "Native Mesoamerican spirituality. بقلم Miguel León Portilla. (1980). — Paulist Press"
+      },
+      {
+        "reference_title": "The cost of courage in Aztec society",
+        "reference_url": "https://archive.org/details/costofcourageina0000clen",
+        "citation_en": "The cost of courage in Aztec society. by Inga Clendinnen. (2010). — Cambridge University Press. ISBN: 9781283715690",
+        "citation_ar": "The cost of courage in Aztec society. بقلم Inga Clendinnen. (2010). — Cambridge University Press. ردمك: 9781283715690"
+      },
+      {
+        "reference_title": "Stone houses and earth lords",
+        "reference_url": "https://archive.org/details/stonehousesearth00keit",
+        "citation_en": "Stone houses and earth lords. by James E. Brady. (2005). — University Press of Colorado. ISBN: 9781646421855",
+        "citation_ar": "Stone houses and earth lords. بقلم James E. Brady. (2005). — University Press of Colorado. ردمك: 9781646421855"
+      },
+      {
+        "reference_title": "The flayed God",
+        "reference_url": "https://openlibrary.org/works/OL550932W",
+        "citation_en": "The flayed God. by Roberta H. Markman, Peter T. Markman. (1992). — HarperSanFrancisco. ISBN: 0062507494",
+        "citation_ar": "The flayed God. بقلم Roberta H. Markman، Peter T. Markman. (1992). — HarperSanFrancisco. ردمك: 0062507494"
+      },
+      {
+        "reference_title": "Mesoamerican ritual economy",
+        "reference_url": "https://archive.org/details/mesoamericanritu00echr",
+        "citation_en": "Mesoamerican ritual economy. by E. Christian Wells. (2006). — University Press of Colorado. ISBN: 9780870818714",
+        "citation_ar": "Mesoamerican ritual economy. بقلم E. Christian Wells. (2006). — University Press of Colorado. ردمك: 9780870818714"
+      },
+      {
+        "reference_title": "Indigenous Bodies, Maya Minds",
+        "reference_url": "https://openlibrary.org/works/OL20231162W",
+        "citation_en": "Indigenous Bodies, Maya Minds. by C. James MacKenzie. (2016). — Institute for Mesoamerican Studies. ISBN: 1607323931",
+        "citation_ar": "Indigenous Bodies, Maya Minds. بقلم C. James MacKenzie. (2016). — Institute for Mesoamerican Studies. ردمك: 1607323931"
+      },
+      {
+        "reference_title": "Eating Landscapes: Human Sacrifice and Sustenance in Aztec Mexico",
+        "reference_url": "https://doi.org/10.5040/9781474220118.ch-010",
+        "citation_en": "Arnold, Philip P. \"Eating Landscapes: Human Sacrifice and Sustenance in Aztec Mexico\". crossref, 2014.",
+        "citation_ar": "أرنولد، فيليب ب. \"تناول المناظر الطبيعية: التضحية البشرية والتغذية في المكسيك الأزتيكية\". كروسريف، 2014."
+      },
+      {
+        "reference_title": "Human Sacrifice and Two Imaginative Worlds, Aztec and Christian",
+        "reference_url": "https://doi.org/10.1093/acprof:oso/9780199659289.003.0012",
+        "citation_en": "David Brown. \"Human Sacrifice and Two Imaginative Worlds, Aztec and Christian\". crossref, 2013.",
+        "citation_ar": "ديفيد براون. \"التضحية البشرية وعالمين تخيليين، أزتيكي ومسيحي\". كروسريف، 2013."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Phenomenology of Religion: Sacred and Profane, Ritual, and Religious Experience",
+    "academic_concept_ar": "علم الظواهر الدينية: المقدس والملوث، الطقوس، والتجربة الدينية.",
+    "concept_url_en": "https://smarticle.tech/en/article/phenomenology-of-religion-sacred-and-profane-ritual-and-religious-experienc-202605180212",
+    "concept_url_ar": "https://smarticle.tech/ar/article/phenomenology-of-religion-sacred-and-profane-ritual-and-religious-experienc-202605180212",
+    "subcategory": "Religious Studies",
+    "references": [
+      {
+        "reference_title": "Phänomenologie des Geistes",
+        "reference_url": "https://archive.org/details/phanomenologiede00hege",
+        "citation_en": "Phänomenologie des Geistes. by Georg Wilhelm Friedrich Hegel. (1907). — P. Owen. ISBN: 0041930037",
+        "citation_ar": "Phänomenologie des Geistes. بقلم Georg Wilhelm Friedrich Hegel. (1907). — P. Owen. ردمك: 0041930037"
+      },
+      {
+        "reference_title": "The collected works of C.G. Jung",
+        "reference_url": "https://archive.org/details/collectedworksof00jung",
+        "citation_en": "The collected works of C.G. Jung. by Carl Gustav Jung. (1953). — Routledge & K. Paul. ISBN: 0710016441",
+        "citation_ar": "The collected works of C.G. Jung. بقلم Carl Gustav Jung. (1953). — Routledge & K. Paul. ردمك: 0710016441"
+      },
+      {
+        "reference_title": "Scientific Reference",
+        "reference_url": "https://archive.org/details/aionresearchesin0009_part2",
+        "citation_en": "Aion. by Carl Gustav Jung, Gerhard Adler, R. F.C. Hull. (1951). — Princeton University Press. ISBN: 071006294X",
+        "citation_ar": "Aion. بقلم Carl Gustav Jung، Gerhard Adler، R. F.C. Hull. (1951). — Princeton University Press. ردمك: 071006294X"
+      },
+      {
+        "reference_title": "Beyond Personal Identity",
+        "reference_url": "https://archive.org/details/beyondpersonalid0000kopf",
+        "citation_en": "Beyond Personal Identity. by Gereon Kopf. (2001). — RoutledgeCurzon. ISBN: 9780203358405",
+        "citation_ar": "Beyond Personal Identity. بقلم Gereon Kopf. (2001). — RoutledgeCurzon. ردمك: 9780203358405"
+      },
+      {
+        "reference_title": "Religion",
+        "reference_url": "https://openlibrary.org/works/OL8477817W",
+        "citation_en": "Religion. by Steven J. Sutcliffe. (2004). — Taylor & Francis Group. ISBN: 1351904817",
+        "citation_ar": "Religion. بقلم Steven J. Sutcliffe. (2004). — Taylor & Francis Group. ردمك: 1351904817"
+      },
+      {
+        "reference_title": "Husserl and Spatiality",
+        "reference_url": "https://openlibrary.org/works/OL25327904W",
+        "citation_en": "Husserl and Spatiality. by Tao DuFour. (2021). — Routledge. ISBN: 9781351116121",
+        "citation_ar": "Husserl and Spatiality. بقلم Tao DuFour. (2021). — Routledge. ردمك: 9781351116121"
+      },
+      {
+        "reference_title": "Performative Ground of Religion and Theatre",
+        "reference_url": "https://openlibrary.org/works/OL22147758W",
+        "citation_en": "Performative Ground of Religion and Theatre. by David V. Mason. (2018). — Taylor & Francis Group. ISBN: 9781351785839",
+        "citation_ar": "Performative Ground of Religion and Theatre. بقلم David V. Mason. (2018). — Taylor & Francis Group. ردمك: 9781351785839"
+      },
+      {
+        "reference_title": "Phenomenology and the Post-Secular Turn",
+        "reference_url": "https://openlibrary.org/works/OL21352923W",
+        "citation_en": "Phenomenology and the Post-Secular Turn. by Michael Staudigl, Jason W. Alvis. (2018). — Taylor & Francis Group. ISBN: 1138543160",
+        "citation_ar": "Phenomenology and the Post-Secular Turn. بقلم Michael Staudigl، Jason W. Alvis. (2018). — Taylor & Francis Group. ردمك: 1138543160"
+      },
+      {
+        "reference_title": "An introduction to the phenomenology of religion",
+        "reference_url": "https://openlibrary.org/works/OL18595775W",
+        "citation_en": "An introduction to the phenomenology of religion. by Cox, James L.. (2010). — Continuum. ISBN: 9781441171597",
+        "citation_ar": "An introduction to the phenomenology of religion. بقلم Cox, James L.. (2010). — Continuum. ردمك: 9781441171597"
+      },
+      {
+        "reference_title": "Experimental Introduction to Japanese Philosophy and Phenomenology",
+        "reference_url": "https://openlibrary.org/works/OL34054891W",
+        "citation_en": "Experimental Introduction to Japanese Philosophy and Phenomenology. by Yuko Ishihara, Monika Kirloskar-Steinbach, Steven A. Tainer. (2023). — Bloomsbury Academic & Professional. ISBN: 135029828X",
+        "citation_ar": "Experimental Introduction to Japanese Philosophy and Phenomenology. بقلم Yuko Ishihara، Monika Kirloskar-Steinbach، Steven A. Tainer. (2023). — Bloomsbury Academic & Professional. ردمك: 135029828X"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Sociology of Religion: Secularisation, Religious Revival, and Institutional Faith",
+    "academic_concept_ar": "علم الاجتماع الديني: العلمنة، الانتعاش الديني، والإيمان المؤسسي.",
+    "concept_url_en": "https://smarticle.tech/en/article/sociology-of-religion-secularisation-religious-revival-and-institutional-fa-202605180221",
+    "concept_url_ar": "https://smarticle.tech/ar/article/sociology-of-religion-secularisation-religious-revival-and-institutional-fa-202605180221",
+    "subcategory": "Religious Studies",
+    "references": [
+      {
+        "reference_title": "The Golden Bough",
+        "reference_url": "https://archive.org/details/goldenboughvolxi029849mbp",
+        "citation_en": "The Golden Bough. by James George Frazer. (1890). — MacMillan Publishing. ISBN: 9781442139428",
+        "citation_ar": "The Golden Bough. بقلم James George Frazer. (1890). — MacMillan Publishing. ردمك: 9781442139428"
+      },
+      {
+        "reference_title": "Religion and the Rise of Capitalism",
+        "reference_url": "https://archive.org/details/bwb_P9-EEA-864",
+        "citation_en": "Religion and the Rise of Capitalism. by Richard H. Tawney. (1926). — Editorial Revista de derecho privado. ISBN: 9780844614465",
+        "citation_ar": "Religion and the Rise of Capitalism. بقلم Richard H. Tawney. (1926). — Editorial Revista de derecho privado. ردمك: 9780844614465"
+      },
+      {
+        "reference_title": "Discours sur l'ensemble du positivisme",
+        "reference_url": "https://archive.org/details/cu31924031175080",
+        "citation_en": "Discours sur l'ensemble du positivisme. by Auguste Comte. (1848). — Academic Reprints. ISBN: 9780343454272",
+        "citation_ar": "Discours sur l'ensemble du positivisme. بقلم Auguste Comte. (1848). — Academic Reprints. ردمك: 9780343454272"
+      },
+      {
+        "reference_title": "Introduction to the Science of Sociology",
+        "reference_url": "https://www.gutenberg.org/ebooks/28496",
+        "citation_en": "Introduction to the Science of Sociology. by Park, Robert Ezra, Burgess, E. W. (Ernest Watson). — Project Gutenberg",
+        "citation_ar": "Introduction to the Science of Sociology. بقلم Park, Robert Ezra، Burgess, E. W. (Ernest Watson). — Project Gutenberg"
+      },
+      {
+        "reference_title": "Escape from Freedom",
+        "reference_url": "https://archive.org/details/elmiedolaliberta0000from",
+        "citation_en": "Escape from Freedom. by Erich Fromm. (1941). — Steinberg. ISBN: 9781000384611",
+        "citation_ar": "Escape from Freedom. بقلم Erich Fromm. (1941). — Steinberg. ردمك: 9781000384611"
+      },
+      {
+        "reference_title": "One-Dimensional Man",
+        "reference_url": "https://archive.org/details/onedimensionalma00marc",
+        "citation_en": "One-Dimensional Man. by Herbert Marcuse. (1963). — Minuit French. ISBN: 0349122849",
+        "citation_ar": "One-Dimensional Man. بقلم Herbert Marcuse. (1963). — Minuit French. ردمك: 0349122849"
+      },
+      {
+        "reference_title": "The courage to be",
+        "reference_url": "https://archive.org/details/couragetobe100till",
+        "citation_en": "The courage to be. by Paul Tillich. (1952). — Yale. ISBN: 9780300084719",
+        "citation_ar": "The courage to be. بقلم Paul Tillich. (1952). — Yale. ردمك: 9780300084719"
+      },
+      {
+        "reference_title": "Emile Durkheim and the Sociology of Religion",
+        "reference_url": "https://doi.org/10.1093/oxfordhb/9780190679354.013.18",
+        "citation_en": "M. Koenig. \"Emile Durkheim and the Sociology of Religion\". semantic_scholar_foundational, 2020.",
+        "citation_ar": "م. كوينغ. \"إميل دوركهايم وعلم اجتماع الدين\". *semantic_scholar_foundational*، 2020."
+      },
+      {
+        "reference_title": "Gendering Secularization Theory",
+        "reference_url": "https://doi.org/10.1177/0037768607089738",
+        "citation_en": "Woodhead, L. \"Gendering Secularization Theory\". *semantic_scholar_foundational*, 2008.",
+        "citation_ar": "ليندا وودهيد. \"تذكير نظرية العلمنة\". *semantic_scholar_foundational*، 2008."
+      },
+      {
+        "reference_title": "Critical Religion and the Sociology of Religion",
+        "reference_url": "https://doi.org/10.1163/15700682-bja10131",
+        "citation_en": "Goldstein, Warren S. \"Critical Religion and the Sociology of Religion\". semantic_scholar_foundational, 2024.",
+        "citation_ar": "وارن إس. غولدشتاين. \"الدين النقدي وعلم اجتماع الدين\". *semantic_scholar_foundational*، 2024."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Anthropology of Religion: Myth, Symbol, and the Cultural Functions of Belief",
+    "academic_concept_ar": "أنثروبولوجيا الدين: الأسطورة والرمز والوظائف الثقافية للإيمان",
+    "concept_url_en": "https://smarticle.tech/en/article/anthropology-of-religion-myth-symbol-and-the-cultural-functions-of-belief-202605180228",
+    "concept_url_ar": "https://smarticle.tech/ar/article/anthropology-of-religion-myth-symbol-and-the-cultural-functions-of-belief-202605180228",
+    "subcategory": "Religious Studies",
+    "references": [
+      {
+        "reference_title": "Philosophical essays concerning human understanding",
+        "reference_url": "https://archive.org/details/enquiryconcernin01hume",
+        "citation_en": "Philosophical essays concerning human understanding. by David Hume. (1900). — IndoEuropeanPublishing.com. ISBN: 9781551118024",
+        "citation_ar": "Philosophical essays concerning human understanding. بقلم David Hume. (1900). — IndoEuropeanPublishing.com. ردمك: 9781551118024"
+      },
+      {
+        "reference_title": "Del sentimiento trágico de la vida en los hombres y en los pueblos",
+        "reference_url": "https://archive.org/details/delsentimientotr00unam_0",
+        "citation_en": "Del sentimiento trágico de la vida en los hombres y en los pueblos. by Miguel de Unamuno. (1900). — Aguilar. ISBN: 9788420601687",
+        "citation_ar": "Del sentimiento trágico de la vida en los hombres y en los pueblos. بقلم Miguel de Unamuno. (1900). — Aguilar. ردمك: 9788420601687"
+      },
+      {
+        "reference_title": "Tristes Tropiques",
+        "reference_url": "https://archive.org/details/tristestropiques000177mbp",
+        "citation_en": "Tristes Tropiques. by Claude Lévi-Strauss, Wang zhi ming. (1955). — hutchinson of london. ISBN: 9780679602460",
+        "citation_ar": "Tristes Tropiques. بقلم Claude Lévi-Strauss، Wang zhi ming. (1955). — hutchinson of london. ردمك: 9780679602460"
+      },
+      {
+        "reference_title": "The golden bough",
+        "reference_url": "https://archive.org/details/goldenboughvolxi029849mbp",
+        "citation_en": "The golden bough. by James George Frazer, Theodor Herzl Gaster, George W. Stocking. (1890). — Collier Books, Macmillan Publishing Company. ISBN: 0141194014",
+        "citation_ar": "The golden bough. بقلم James George Frazer، Theodor Herzl Gaster، George W. Stocking. (1890). — Collier Books, Macmillan Publishing Company. ردمك: 0141194014"
+      },
+      {
+        "reference_title": "An essay on man",
+        "reference_url": "https://archive.org/details/essayonman00pope_1",
+        "citation_en": "An essay on man. by Alexander Pope. (1733). — Printed and sold by J. Douglass M'Dougall, on the west side of the Great-Bridge. ISBN: 1385452897",
+        "citation_ar": "An essay on man. بقلم Alexander Pope. (1733). — Printed and sold by J. Douglass M'Dougall, on the west side of the Great-Bridge. ردمك: 1385452897"
+      },
+      {
+        "reference_title": "Summa Theologica",
+        "reference_url": "https://archive.org/details/ITheSummaTheologicaOfStThomas",
+        "citation_en": "Summa Theologica. by Thomas Aquinas, Kennedy, Daniel Joseph, 1862-1930. (1467). — Prentice Hall. ISBN: 9780521029445",
+        "citation_ar": "Summa Theologica. بقلم Thomas Aquinas، Kennedy, Daniel Joseph, 1862-1930. (1467). — Prentice Hall. ردمك: 9780521029445"
+      },
+      {
+        "reference_title": "Custom and myth",
+        "reference_url": "https://archive.org/details/custommyth0000andr",
+        "citation_en": "Custom and myth. by Andrew Lang. (1884). — Kessinger Publishing, LLC. ISBN: 0344341097",
+        "citation_ar": "Custom and myth. بقلم Andrew Lang. (1884). — Kessinger Publishing, LLC. ردمك: 0344341097"
+      },
+      {
+        "reference_title": "Totem et Taboo",
+        "reference_url": "https://archive.org/details/bwb_T4-BBS-939",
+        "citation_en": "Totem et Taboo. by Sigmund Freud. (1919). — New Republic. ISBN: 0343270641",
+        "citation_ar": "Totem et Taboo. بقلم Sigmund Freud. (1919). — New Republic. ردمك: 0343270641"
+      },
+      {
+        "reference_title": "From Ritual to Romance",
+        "reference_url": "https://archive.org/details/fromritualtoroma00robe",
+        "citation_en": "From Ritual to Romance. by Jessie L. Weston. (1920). — Chivers Press. ISBN: 9780385093347",
+        "citation_ar": "From Ritual to Romance. بقلم Jessie L. Weston. (1920). — Chivers Press. ردمك: 9780385093347"
+      },
+      {
+        "reference_title": "Myth and ritual in Christianity",
+        "reference_url": "https://archive.org/details/mythritualinchri00watt",
+        "citation_en": "Myth and ritual in Christianity. by Alan Watts. (1953). — Grove press. ISBN: 9780353307421",
+        "citation_ar": "Myth and ritual in Christianity. بقلم Alan Watts. (1953). — Grove press. ردمك: 9780353307421"
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Comparative Religious Ethics: Moral Frameworks Across Traditions",
+    "academic_concept_ar": "الأخلاقيات الدينية المقارنة: الأطر الأخلاقية عبر التقاليد.",
+    "concept_url_en": "https://smarticle.tech/en/article/comparative-religious-ethics-moral-frameworks-across-traditions-202605180238",
+    "concept_url_ar": "https://smarticle.tech/ar/article/comparative-religious-ethics-moral-frameworks-across-traditions-202605180238",
+    "subcategory": "Comparative Religion",
+    "references": [
+      {
+        "reference_title": "Bible",
+        "reference_url": "https://archive.org/details/holybiblesoarran01unse",
+        "citation_en": "Bible. by Bible. (1200). — E.F. Backus. ISBN: 0564069019",
+        "citation_ar": "Bible. بقلم Bible. (1200). — E.F. Backus. ردمك: 0564069019"
+      },
+      {
+        "reference_title": "Summa Theologica",
+        "reference_url": "https://archive.org/details/ITheSummaTheologicaOfStThomas",
+        "citation_en": "Summa Theologica. by Thomas Aquinas, Kennedy, Daniel Joseph, 1862-1930. (1467). — Prentice Hall. ISBN: 9780521029445",
+        "citation_ar": "Summa Theologica. بقلم Thomas Aquinas، Kennedy, Daniel Joseph, 1862-1930. (1467). — Prentice Hall. ردمك: 9780521029445"
+      },
+      {
+        "reference_title": "Die protestantische Ethik und der Geist des Kapitalismus",
+        "reference_url": "https://archive.org/details/protestantethics00webe",
+        "citation_en": "Die protestantische Ethik und der Geist des Kapitalismus. by Max Weber. (1700). — BN Publishing. ISBN: 9788420669465",
+        "citation_ar": "Die protestantische Ethik und der Geist des Kapitalismus. بقلم Max Weber. (1700). — BN Publishing. ردمك: 9788420669465"
+      },
+      {
+        "reference_title": "The Ethics of War in Asian Civilizations",
+        "reference_url": "https://openlibrary.org/works/OL5961623W",
+        "citation_en": "The Ethics of War in Asian Civilizations. by Torkel Brekke. (2005). — ROUTLEDGE. ISBN: 0203482212",
+        "citation_ar": "The Ethics of War in Asian Civilizations. بقلم Torkel Brekke. (2005). — ROUTLEDGE. ردمك: 0203482212"
+      },
+      {
+        "reference_title": "Religion and development: integral ecology and the Catholic Church Amazon Synod",
+        "reference_url": "https://doi.org/10.1080/01436597.2021.1948324",
+        "citation_en": "Séverine Deneulin. \"Religion and development: integral ecology and the Catholic Church Amazon Synod\". semantic_scholar_foundational, 2021.",
+        "citation_ar": "Séverine Deneulin. \"Religion and development: integral ecology and the Catholic Church Amazon Synod\". semantic_scholar_foundational, 2021."
+      },
+      {
+        "reference_title": "The world religions paradigm: Why context matters in religious studies",
+        "reference_url": "https://doi.org/10.1177/20503032241226966",
+        "citation_en": "Beverly Vencatsamy. \"The world religions paradigm: Why context matters in religious studies\". semantic_scholar_foundational, 2024.",
+        "citation_ar": "Beverly Vencatsamy. \"The world religions paradigm: Why context matters in religious studies\". semantic_scholar_foundational, 2024."
+      },
+      {
+        "reference_title": "Religious Approaches to Bioethical Reasoning: Bridging Values and Ethics",
+        "reference_url": "https://doi.org/10.61707/r82s9z49",
+        "citation_en": "Mustafa Osman I. Elamin. \"Religious Approaches to Bioethical Reasoning: Bridging Values and Ethics\". semantic_scholar_foundational, 2024.",
+        "citation_ar": "Mustafa Osman I. Elamin. \"Religious Approaches to Bioethical Reasoning: Bridging Values and Ethics\". semantic_scholar_foundational, 2024."
+      },
+      {
+        "reference_title": "The Role of Religious Norms in the Formation of Legal Systems: The Theological Foundations of Law in Different World Religions",
+        "reference_url": "https://doi.org/10.46222/pharosjot.106.3029",
+        "citation_en": "Andrejs Vilks, Aldona Kipāne, Anatolijs Kriviņš. \"The Role of Religious Norms in the Formation of Legal Systems: The Theological Foundations of Law in Different World Religions\". semantic_scholar_foundational, 2025.",
+        "citation_ar": "Andrejs Vilks, Aldona Kipāne, Anatolijs Kriviņš. \"The Role of Religious Norms in the Formation of Legal Systems: The Theological Foundations of Law in Different World Religions\". semantic_scholar_foundational, 2025."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Interfaith Dialogue: History, Theology, and Contemporary Efforts",
+    "academic_concept_ar": "الحوار بين الأديان: التاريخ، اللاهوت، والجهود المعاصرة.",
+    "concept_url_en": "https://smarticle.tech/en/article/interfaith-dialogue-history-theology-and-contemporary-efforts-202605180247",
+    "concept_url_ar": "https://smarticle.tech/ar/article/interfaith-dialogue-history-theology-and-contemporary-efforts-202605180247",
+    "subcategory": "Comparative Religion",
+    "references": [
+      {
+        "reference_title": "Marius the Epicurean",
+        "reference_url": "https://archive.org/details/mariusepicureanh0000walt_k7k1",
+        "citation_en": "Marius the Epicurean. by Walter Pater. (1885). — J. M. Dent. ISBN: 9781162618241",
+        "citation_ar": "Marius the Epicurean. بقلم Walter Pater. (1885). — J. M. Dent. ردمك: 9781162618241"
+      },
+      {
+        "reference_title": "Nathan der Weise",
+        "reference_url": "https://archive.org/details/nathanwisedramat00lessiala",
+        "citation_en": "Nathan der Weise. by Gotthold Ephraim Lessing. (1779). — Verlag Klaus Wagenbach. ISBN: 1604245034",
+        "citation_ar": "Nathan der Weise. بقلم Gotthold Ephraim Lessing. (1779). — Verlag Klaus Wagenbach. ردمك: 1604245034"
+      },
+      {
+        "reference_title": "Zwei Glaubensweisen",
+        "reference_url": "https://archive.org/details/twotypesoffaith0000mart",
+        "citation_en": "Zwei Glaubensweisen. by Martin Buber. (1950). — Harper & Row. ISBN: 9788370063887",
+        "citation_ar": "Zwei Glaubensweisen. بقلم Martin Buber. (1950). — Harper & Row. ردمك: 9788370063887"
+      },
+      {
+        "reference_title": "After the absolute",
+        "reference_url": "https://archive.org/details/afterabsolutedia0000swid",
+        "citation_en": "After the absolute. by Leonard J. Swidler. (1990). — Augsburg Fortress Publishers. ISBN: 9780800624231",
+        "citation_ar": "After the absolute. بقلم Leonard J. Swidler. (1990). — Augsburg Fortress Publishers. ردمك: 9780800624231"
+      },
+      {
+        "reference_title": "Pub Theology",
+        "reference_url": "https://archive.org/details/pubtheologybeerc0000berg",
+        "citation_en": "Pub Theology. by Bryan Berghoef. (2012). — Wipf & Stock Pub. ISBN: 9781610974226",
+        "citation_ar": "Pub Theology. بقلم Bryan Berghoef. (2012). — Wipf & Stock Pub. ردمك: 9781610974226"
+      },
+      {
+        "reference_title": "Interfaith Dialogue and Comparative Theology",
+        "reference_url": "https://doi.org/10.5040/9781472549464.ch-001",
+        "citation_en": "Interfaith Dialogue and Comparative Theology. \"Interfaith Dialogue and Comparative Theology\". *crossref*, 2016.",
+        "citation_ar": "الحوار بين الأديان واللاهوت المقارن. \"الحوار بين الأديان واللاهوت المقارن\". *Crossref*، 2016."
+      },
+      {
+        "reference_title": "Part Three. Interfaith Engagement: Theology and Future of Dialogue",
+        "reference_url": "https://doi.org/10.3726/978-3-0351-0016-7/7",
+        "citation_en": "Interfaith Engagement: Theology and Future of Dialogue. *crossref*, 2012.",
+        "citation_ar": "التفاعل بين الأديان: لاهوت ومستقبل الحوار. *Crossref*، 2012."
+      },
+      {
+        "reference_title": "Part Three. Interfaith Engagement: Theology and Future of Dialogue 297",
+        "reference_url": "https://doi.org/10.3726/978-3-0351-0016-7/72",
+        "citation_en": "Part Three. \"Interfaith Engagement: Theology and Future of Dialogue 297\". crossref, 2012.",
+        "citation_ar": "الجزء الثالث. \"التفاعل بين الأديان: لاهوت ومستقبل الحوار 297\". *Crossref*، 2012."
+      },
+      {
+        "reference_title": "Buddhist-Christian Dialogue in the Context of the Three Classic Theologies of Religions—Exclusivism, Inclusivism, and Pluralism—and Comparative Theolo",
+        "reference_url": "https://doi.org/10.2307/j.ctt1cgf201.5",
+        "citation_en": "Buddhist-Christian Dialogue in the Context of the Three Classic Theologies of Religions—Exclusivism, Inclusivism, and Pluralism—and Comparative Theology as a New Approach in Interfaith Dialogue. \"Buddhist-Christian Dialogue in the Context of the Three Classic Theologies of Religions—Exclusivism, Inclusivism, and Pluralism—and Comparative Theology as a New Approach in Interfaith Dialogue\". crossref, 2015.",
+        "citation_ar": "الحوار البوذي المسيحي في سياق الأديان الثلاث الكلاسيكية—الاستثنائية، الشمولية، والتعددية—واللاهوت المقارن كنهج جديد في الحوار بين الأديان. \"الحوار البوذي المسيحي في سياق الأديان الثلاث الكلاسيكية—الاستثنائية، الشمولية، والتعددية—واللاهوت المقارن كنهج جديد في الحوار بين الأديان\". *Crossref*، 2015."
+      },
+      {
+        "reference_title": "The Orthodox Church in the Contemporary Ecumenical Dialogue",
+        "reference_url": "https://doi.org/10.1111/erev.12587",
+        "citation_en": "Wasmuth, Jennifer. \"The Orthodox Church in the Contemporary Ecumenical Dialogue\". crossref, 2021.",
+        "citation_ar": "واسموث، جنيفر. \"الكنيسة الأرثوذكسية في الحوار المسكوني المعاصر\". *Crossref*، 2021."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Mysticism Across Traditions: Sufism, Christian Mysticism, and Zen Buddhism",
+    "academic_concept_ar": "الصوفية عبر التقاليد: الصوفية، الصوفية المسيحية، والزن البوذية.",
+    "concept_url_en": "https://smarticle.tech/en/article/mysticism-across-traditions-sufism-christian-mysticism-and-zen-buddhism-202605180255",
+    "concept_url_ar": "https://smarticle.tech/ar/article/mysticism-across-traditions-sufism-christian-mysticism-and-zen-buddhism-202605180255",
+    "subcategory": "Comparative Religion",
+    "references": [
+      {
+        "reference_title": "Noche oscura del alma",
+        "reference_url": "https://archive.org/details/TheDarkNightOfTheSoul1908",
+        "citation_en": "Noche oscura del alma. by John of the Cross. (1905). — Dover Publications. ISBN: 9780385029308",
+        "citation_ar": "Noche oscura del alma. بقلم John of the Cross. (1905). — Dover Publications. ردمك: 9780385029308"
+      },
+      {
+        "reference_title": "Castillo interior o las moradas",
+        "reference_url": "https://archive.org/details/interiorcastle0000unse",
+        "citation_en": "Castillo interior o las moradas. by Teresa of Avila, F. Benedict Zimmerman, The Beneditines Of Stanbrokk. (1882). — Image. ISBN: 9781573222488",
+        "citation_ar": "Castillo interior o las moradas. بقلم Teresa of Avila، F. Benedict Zimmerman، The Beneditines Of Stanbrokk. (1882). — Image. ردمك: 9781573222488"
+      },
+      {
+        "reference_title": "Libro de la vida",
+        "reference_url": "https://archive.org/details/lifeofsaintteres00tereuoft",
+        "citation_en": "Libro de la vida. by Teresa of Avila. (1852). — Thomas Baker. ISBN: 9780385011099",
+        "citation_ar": "Libro de la vida. بقلم Teresa of Avila. (1852). — Thomas Baker. ردمك: 9780385011099"
+      },
+      {
+        "reference_title": "Camino de perfección [por] Santa Teresa de Jesús",
+        "reference_url": "https://archive.org/details/wayofperfection00tere_0",
+        "citation_en": "Camino de perfección [por] Santa Teresa de Jesús. by Teresa of Avila, E. Allison Peers. (1632). — Burns Oates. ISBN: 1557256411",
+        "citation_ar": "Camino de perfección [por] Santa Teresa de Jesús. بقلم Teresa of Avila، E. Allison Peers. (1632). — Burns Oates. ردمك: 1557256411"
+      },
+      {
+        "reference_title": "Imitation of Christ",
+        "reference_url": "https://archive.org/details/christianspatter00thom",
+        "citation_en": "Imitation of Christ. by Thomas à Kempis, Jérôme de Gonnelieu, Richard Challoner. (1568). — Gould and Lincoln. ISBN: 0665503814",
+        "citation_ar": "Imitation of Christ. بقلم Thomas à Kempis، Jérôme de Gonnelieu، Richard Challoner. (1568). — Gould and Lincoln. ردمك: 0665503814"
+      },
+      {
+        "reference_title": "Tao te Ching",
+        "reference_url": "https://archive.org/details/sayingsoflaotzu00laoz",
+        "citation_en": "Tao te Ching. by 老子. (1842). — Distributed in the United States by Random House. ISBN: 9783982529721",
+        "citation_ar": "Tao te Ching. بقلم 老子. (1842). — Distributed in the United States by Random House. ردمك: 9783982529721"
+      },
+      {
+        "reference_title": "Christian and Zen Contemplative Practices: The “Mysticism” of Evelyn Underhill and D. T. Suzuki",
+        "reference_url": "https://doi.org/10.1353/ecu.2023.0005",
+        "citation_en": "Kim, Taehoon. \"Christian and Zen Contemplative Practices: The “Mysticism” of Evelyn Underhill and D. T. Suzuki\". *semantic_scholar_foundational*, 2023.",
+        "citation_ar": "كيم، تايهون. \"الممارسات التأملية المسيحية والزينية: 'التصوف' لإيفلين أندرهيل ود. ت. سوزوكي\". *semantic_scholar_foundational*، 2023."
+      },
+      {
+        "reference_title": "Revealing the Sanctity of the Eternal Cosmic Hierarchy: A Comparative Analysis of Javanese Mysticism and Islamic Sufism",
+        "reference_url": "https://doi.org/10.15642/teosofi.2023.13.2.232-260",
+        "citation_en": "Waryani Fajar Riyanto. \"Revealing the Sanctity of the Eternal Cosmic Hierarchy: A Comparative Analysis of Javanese Mysticism and Islamic Sufism\". Teosofi, 2023.",
+        "citation_ar": "وارياني فجار رياتو. \"كشف قدسية التسلسل الكوني الأزلي: تحليل مقارن للتصوف الجاوي والتصوف الإسلامي\". *تيوسوفي*، 2023."
+      },
+      {
+        "reference_title": "The Concept of Insan Kamil (Perfect Man) in Sufi Mysticism: A Comparative Study with the Last Man and Democratic Man in Nietzsche and Rawls' Political",
+        "reference_url": "https://doi.org/10.47310/sjahss.2023.v03i01.002",
+        "citation_en": "Shafiu Alidu. \"The Concept of Insan Kamil (Perfect Man) in Sufi Mysticism: A Comparative Study with the Last Man and Democratic Man in Nietzsche and Rawls' Political Thought\". semantic_scholar_foundational, 2023.",
+        "citation_ar": "شافيو ألدو. \"مفهوم الإنسان الكامل (الإنسان الكامل) في التصوف الصوفي: دراسة مقارنة مع الإنسان الأخير والإنسان الديمقراطي في الفكر السياسي لنيتشه وروولز\". *semantic_scholar_foundational*، 2023."
+      },
+      {
+        "reference_title": "A Collaboration of Mystic Trends: The Concept of Soul and Love in Platonism and Sufism",
+        "reference_url": "https://doi.org/10.64984/ijcd.1.2.2024.04",
+        "citation_en": "Khan, A. \"A Collaboration of Mystic Trends: The Concept of Soul and Love in Platonism and Sufism\". semantic_scholar_foundational, 2025.",
+        "citation_ar": "خان، أ. \"تعاون الاتجاهات الصوفية: مفهوم الروح والحب في الأفلاطونية والتصوف\". *semantic_scholar_foundational*، 2025."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "The sustainability of architecture between the past and the present ( sustainability of the Islamic and Christian places of worship)",
+    "academic_concept_ar": "استدامة العمارة بين الماضي والحاضر (استدامة الأماكن المقدسة الإسلامية والمسيحية).",
+    "concept_url_en": "https://smarticle.tech/en/article/the-sustainability-of-architecture-between-the-past-and-the-present-sustain-202605251213",
+    "concept_url_ar": "https://smarticle.tech/ar/article/the-sustainability-of-architecture-between-the-past-and-the-present-sustain-202605251213",
+    "subcategory": "Comparative Religion",
+    "references": [
+      {
+        "reference_title": "The sustainability of architecture between the past and the present ( sustainability of the Islamic and Christian places of worship)",
+        "reference_url": "https://doi.org/10.21608/jsos.2022.154952.1276",
+        "citation_en": "\"The sustainability of architecture between the past and the present ( sustainability of the Islamic and Christian places of worship)\". doaj, 2023.",
+        "citation_ar": "\"استدامة العمارة بين الماضي والحاضر (استدامة أماكن العبادة الإسلامية والمسيحية)\". دواج، 2023."
+      },
+      {
+        "reference_title": "ISLAMIC RELIGIOUS TRADITION AS A FACTOR OF SUSTAINABLE DEVELOPMENT",
+        "reference_url": "https://doi.org/10.46320/2073-4506-2023-3/1-1-15-21",
+        "citation_en": "ISLAMIC RELIGIOUS TRADITION AS A FACTOR OF SUSTAINABLE DEVELOPMENT\".",
+        "citation_ar": "\"التقاليد الدينية الإسلامية كعامل من عوامل التنمية المستدامة\"."
+      },
+      {
+        "reference_title": "An Analysis of the Expansion of the Mosque of the Prophet (?) by Caliph ‘Umar B. al-Khatab ( “ ) (d. 24 A.H./744 C.E.)",
+        "reference_url": "https://hamdardislamicus.com.pk/index.php/hi/article/view/122",
+        "citation_en": "\"An Analysis of the Expansion of the Mosque of the Prophet (?) by Caliph ‘Umar B. al-Khatab ( “ ) (d. 24 A.H./744 C.E.)\". , .",
+        "citation_ar": "\"تحليل لتوسعة مسجد النبي (صلى الله عليه وسلم) على يد الخليفة عمر بن الخطاب (رضي الله عنه) (ت 24 هـ / 744 م)\"."
+      },
+      {
+        "reference_title": "The Recessed Arched Mihrab Design: An Identity Marker in the Formation of Art in the Zand Era",
+        "reference_url": "https://doi.org/10.22070/negareh.2023.18209.3282",
+        "citation_en": "The Recessed Arched Mihrab Design: An Identity Marker in the Formation of Art in the Zand Era\".",
+        "citation_ar": "\"تصميم المحراب المقنطر الغائر: علامة هوية في تشكيل الفن في عصر الزند\"."
+      },
+      {
+        "reference_title": "Green building evaluation in historical buildings: The case of Sveti Stefan Church (Bulgarian Church)",
+        "reference_url": "https://doi.org/10.31462/icearc2025_a_aen_771",
+        "citation_en": "Green building evaluation in historical buildings: The case of Sveti Stefan Church (Bulgarian Church)\".",
+        "citation_ar": "\"تقييم البناء الأخضر في المباني التاريخية: حالة كنيسة سفيتي ستيفان (الكنيسة البلغارية)\"."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Implikasi Hukum Penetapan Kasus Ganti Kelamin dalam Perspektif Hukum Islam",
+    "academic_concept_ar": "تداعيات قانونية لتصنيف قضايا التحول الجنسي في منظور الشريعة الإسلامية.",
+    "concept_url_en": "https://smarticle.tech/en/article/implikasi-hukum-penetapan-kasus-ganti-kelamin-dalam-perspektif-hukum-islam-202605251220",
+    "concept_url_ar": "https://smarticle.tech/ar/article/implikasi-hukum-penetapan-kasus-ganti-kelamin-dalam-perspektif-hukum-islam-202605251220",
+    "subcategory": "Islam",
+    "references": [
+      {
+        "reference_title": "Implikasi Hukum Penetapan Kasus Ganti Kelamin dalam Perspektif Hukum Islam",
+        "reference_url": "https://doi.org/10.20961/jolsic.v11i2.77760",
+        "citation_en": "Implikasi Hukum Penetapan Kasus Ganti Kelamin dalam Perspektif Hukum Islam. \"Implikasi Hukum Penetapan Kasus Ganti Kelamin dalam Perspektif Hukum Islam\". doaj, 2023.",
+        "citation_ar": "Implikasi Hukum Penetapan Kasus Ganti Kelamin dalam Perspektif Hukum Islam. \"Implikasi Hukum Penetapan Kasus Ganti Kelamin dalam Perspektif Hukum Islam\". doaj, 2023."
+      },
+      {
+        "reference_title": "ANALISIS PEMBAGIAN HARTA WARIS BAGI PELAKU GANTI KELAMIN: KAJIAN HUKUM PERDATA DAN HUKUM ISLAM",
+        "reference_url": "https://doi.org/10.26623/slr.v5i2.10620",
+        "citation_en": "ANALISIS PEMBAGIAN HARTA WARIS BAGI PELAKU GANTI KELAMIN: KAJIAN HUKUM PERDATA DAN HUKUM ISLAM.",
+        "citation_ar": "ANALISIS PEMBAGIAN HARTA WARIS BAGI PELAKU GANTI KELAMIN: KAJIAN HUKUM PERDATA DAN HUKUM ISLAM."
+      },
+      {
+        "reference_title": "Perspektif Hukum Islam, Hukum Positif dan Mahasiswa Progam Studi PAI UIN Malang tentang Ganti Kelamin",
+        "reference_url": "https://doi.org/10.58578/yasin.v4i6.4330",
+        "citation_en": "Perspektif Hukum Islam, Hukum Positif dan Mahasiswa Progam Studi PAI UIN Malang tentang Ganti Kelamin.",
+        "citation_ar": "Perspektif Hukum Islam, Hukum Positif dan Mahasiswa Progam Studi PAI UIN Malang tentang Ganti Kelamin."
+      },
+      {
+        "reference_title": "HUKUM WARIA GANTI KELAMIN MENURUT PERSPEKTIF HUKUM ISLAM DAN HUKUM PERDATA",
+        "reference_url": "https://doi.org/10.29062/usratuna.v4i01.255",
+        "citation_en": "HUKUM WARIA GANTI KELAMIN MENURUT PERSPEKTIF HUKUM ISLAM DAN HUKUM PERDATA.",
+        "citation_ar": "HUKUM WARIA GANTI KELAMIN MENURUT PERSPEKTIF HUKUM ISLAM DAN HUKUM PERDATA."
+      },
+      {
+        "reference_title": "Kedudukan Ahli Waris Khuntsa dalam Hukum Waris Islam",
+        "reference_url": "https://doi.org/10.5281/zenodo.1471052",
+        "citation_en": "Kedudukan Ahli Waris Khuntsa dalam Hukum Waris Islam\".",
+        "citation_ar": "Kedudukan Ahli Waris Khuntsa dalam Hukum Waris Islam\"."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Al-Adah Muhakkamah: How Indonesian Islam Merges Revelation with Local Culture",
+    "academic_concept_ar": "العادة محكمة: كيف يدمج الإسلام الإندونيسي الوحي مع الثقافة المحلية.",
+    "concept_url_en": "https://smarticle.tech/en/article/al-adah-muhakkamah-how-indonesian-islam-merges-revelation-with-local-cultur-202605261347",
+    "concept_url_ar": "https://smarticle.tech/ar/article/al-adah-muhakkamah-how-indonesian-islam-merges-revelation-with-local-cultur-202605261347",
+    "subcategory": "Islam",
+    "references": [
+      {
+        "reference_title": "Integration between Islamic Revelation and Local  Culture: A Study of Theology and the Indigenisation of  Islam in Indonesia",
+        "reference_url": "https://doi.org/10.46222/pharosjot.10527",
+        "citation_en": "\"Integration between Islamic Revelation and Local Culture: A Study of Theology and the Indigenisation of Islam in Indonesia\". doaj, 2024.",
+        "citation_ar": "\"التكامل بين الوحي الإسلامي والثقافة المحلية: دراسة في علم اللاهوت وتأصّل الإسلام في إندونيسيا\". دواج، 2024."
+      },
+      {
+        "reference_title": "Integration between Islamic Revelation and Local Culture: A Study of Theology and the Indigenisation of Islam in Indonesia",
+        "reference_url": "https://doi.org/10.46222/pharosjot.10527",
+        "citation_en": "\"Integration between Islamic Revelation and Local Culture: A Study of Theology and the Indigenisation of Islam in Indonesia\". , .",
+        "citation_ar": "\"التكامل بين الوحي الإسلامي والثقافة المحلية: دراسة في علم اللاهوت وتأصّل الإسلام في إندونيسيا\"."
+      },
+      {
+        "reference_title": "Integration of Multicultural Islamic Religious Education in Inclusive Learning Practices Based on Local Culture",
+        "reference_url": "https://doi.org/10.21070/halaqa.v10i1.1848",
+        "citation_en": "\"Integration of Multicultural Islamic Religious Education in Inclusive Learning Practices Based on Local Culture\". , .",
+        "citation_ar": "\"تكامل التربية الدينية الإسلامية متعددة الثقافات في الممارسات التعليمية الشاملة بناءً على الثقافة المحلية\"."
+      },
+      {
+        "reference_title": "Islamic College and Local Culture: Internalization and Integration",
+        "reference_url": "https://doi.org/10.21043/edukasia.v16i1.10086",
+        "citation_en": "\"Islamic College and Local Culture: Internalization and Integration\". , .",
+        "citation_ar": "\"الكلية الإسلامية والثقافة المحلية: التثاقف والتكامل\"."
+      },
+      {
+        "reference_title": "INTEGRATION BETWEEN REASON AND REVELATION IN THE GROUNDING OF ISLAMIC LAW IN THE CONTEMPORARY ERA",
+        "reference_url": "https://doi.org/10.30863/aldustur.v7i2.7704",
+        "citation_en": "\"INTEGRATION BETWEEN REASON AND REVELATION IN THE GROUNDING OF ISLAMIC LAW IN THE CONTEMPORARY ERA\". , .",
+        "citation_ar": "\"التكامل بين العقل والوحي في تأصيل الفقه الإسلامي في العصر المعاصر\"."
+      },
+      {
+        "reference_title": "Renegotiating the Islam and Development-Nexus in Indonesia: Fikih Peradaban as a Middle Ground between Local and Global Development Paradigms",
+        "reference_url": "https://doi.org/10.47776/islamnusantara.v4i2.690",
+        "citation_en": "\"Renegotiating the Islam and Development-Nexus in Indonesia: Fikih Peradaban as a Middle Ground between Local and Global Development Paradigms\". , .",
+        "citation_ar": "\"إعادة التفاوض حول العلاقة بين الإسلام والتنمية في إندونيسيا: فقه الحضارة كحل وسط بين أنماط التنمية المحلية والعالمية\"."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "Emancipative Islamic Theology Mobilizing Youth Against Shamanism",
+    "academic_concept_ar": "اللاهوت الإسلامي التحرري يحشد الشباب ضد السحر أو الشعوذة.",
+    "concept_url_en": "https://smarticle.tech/en/article/emancipative-islamic-theology-mobilizing-youth-against-shamanism-202605261358",
+    "concept_url_ar": "https://smarticle.tech/ar/article/emancipative-islamic-theology-mobilizing-youth-against-shamanism-202605261358",
+    "subcategory": "Islam",
+    "references": [
+      {
+        "reference_title": "Emancipative Islamic theology and Hifz Al-Din: Muslim youth resistance against shamanism",
+        "reference_url": "https://doi.org/10.4102/hts.v79i1.8338",
+        "citation_en": "Emancipative Islamic theology and Hifz Al-Din: Muslim youth resistance against shamanism. HTS Teologiese Studies / Theological Studies, 2023.",
+        "citation_ar": "علم اللاهوت الإسلامي التحرري وحفظ الدين: مقاومة الشباب المسلم للشعوذة. دراسات إتش إس تي اللاهوتية / الدراسات اللاهوتية، 2023."
+      },
+      {
+        "reference_title": "Protecting the Religion (Maqsad Hifz al-Din) In Malaysian Political Islam: A Preliminary Analysis",
+        "reference_url": "https://doi.org/10.52282/icr.v7i3.250",
+        "citation_en": "Protecting the Religion (Maqsad Hifz al-Din) In Malaysian Political Islam: A Preliminary Analysis\".",
+        "citation_ar": "حماية الدين (مقصد حفظ الدين) في الإسلام السياسي الماليزي: تحليل أولي."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "How Deepak Chopra and Mulla Sadra Unite Quantum Physics and Islamic Mysticism",
+    "academic_concept_ar": "كيف يوحد ديباك شوبرا وملا صدرا الفيزياء الكمومية والتصوف الإسلامي.",
+    "concept_url_en": "https://smarticle.tech/en/article/how-deepak-chopra-and-mulla-sadra-unite-quantum-physics-and-islamic-mystici-202605261421",
+    "concept_url_ar": "https://smarticle.tech/ar/article/how-deepak-chopra-and-mulla-sadra-unite-quantum-physics-and-islamic-mystici-202605261421",
+    "subcategory": "Islam",
+    "references": [
+      {
+        "reference_title": "A Critical Approach to Human Position in the Universe from the Perspectives of Deepak Chopra Based on Mulla Sadra's Thoughts",
+        "reference_url": "https://doi.org/10.22034/imjpl.2023.16048.1100",
+        "citation_en": "\"A Critical Approach to Human Position in the Universe from the Perspectives of Deepak Chopra Based on Mulla Sadra's Thoughts\". doaj, 2023.",
+        "citation_ar": "\"A Critical Approach to Human Position in the Universe from the Perspectives of Deepak Chopra Based on Mulla Sadra's Thoughts\". doaj, 2023."
+      },
+      {
+        "reference_title": "Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search",
+        "reference_url": "https://arxiv.org/abs/2510.16147",
+        "citation_en": "\"Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search\". , .",
+        "citation_ar": "\"Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search\". , ."
+      },
+      {
+        "reference_title": "Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification",
+        "reference_url": "https://arxiv.org/abs/2308.09596",
+        "citation_en": "\"Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification\". , .",
+        "citation_ar": "\"Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification\". , ."
+      },
+      {
+        "reference_title": "Measuring the spatial Acuity of vibrotactile Stimuli: A new Approach to determine universal and individual Thresholds",
+        "reference_url": "https://arxiv.org/abs/2308.05497",
+        "citation_en": "\"Measuring the spatial Acuity of vibrotactile Stimuli: A new Approach to determine universal and individual Thresholds\". , .",
+        "citation_ar": "\"Measuring the spatial Acuity of vibrotactile Stimuli: A new Approach to determine universal and individual Thresholds\". , ."
+      },
+      {
+        "reference_title": "JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift",
+        "reference_url": "https://arxiv.org/abs/2504.19440",
+        "citation_en": "\"JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift\". , .",
+        "citation_ar": "\"JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift\". , ."
+      },
+      {
+        "reference_title": "An Epistemological Universe for Social Intervention: Toward a Relational-Critical Approach",
+        "reference_url": "https://doi.org/10.1080/10428232.2025.2516382",
+        "citation_en": "\"An Epistemological Universe for Social Intervention: Toward a Relational-Critical Approach\". , .",
+        "citation_ar": "\"An Epistemological Universe for Social Intervention: Toward a Relational-Critical Approach\". , ."
+      }
+    ]
+  },
+  {
+    "academic_concept_en": "The role of belief systems and misperceptions in halal tourism policy: evidences from Indonesia",
+    "academic_concept_ar": "دور الأنظمة المعتقدية وسوء الفهم في سياسات السياحة الحلال: أدلة من إندونيسيا.",
+    "concept_url_en": "https://smarticle.tech/en/article/the-role-of-belief-systems-and-misperceptions-in-halal-tourism-policy-evide-202605281429",
+    "concept_url_ar": "https://smarticle.tech/ar/article/the-role-of-belief-systems-and-misperceptions-in-halal-tourism-policy-evide-202605281429",
+    "subcategory": "Islam",
+    "references": [
+      {
+        "reference_title": "The role of belief systems and misperceptions in halal tourism policy: evidences from Indonesia",
+        "reference_url": "https://doi.org/10.1080/23311886.2024.2352915",
+        "citation_en": "The role of belief systems and misperceptions in halal tourism policy: evidences from Indonesia. doaj, 2024.",
+        "citation_ar": "The role of belief systems and misperceptions in halal tourism policy: evidences from Indonesia. doaj, 2024."
+      },
+      {
+        "reference_title": "Halal Tourism: The Development of Sharia Tourism in Baturraden Banyumas, Indonesia",
+        "reference_url": "https://doi.org/10.53639/ijssr.v4i3.194",
+        "citation_en": "\"Halal Tourism: The Development of Sharia Tourism in Baturraden Banyumas, Indonesia\". , .",
+        "citation_ar": "\"Halal Tourism: The Development of Sharia Tourism in Baturraden Banyumas, Indonesia\". , ."
+      },
+      {
+        "reference_title": "The Role of Good Corporate Governance and Islamic Business Ethics in Improving The Halal Industry in The Islamic Tourism Sector in Indonesia",
+        "reference_url": "https://doi.org/10.30983/iciefs.v3i1.893",
+        "citation_en": "The Role of Good Corporate Governance and Islamic Business Ethics in Improving The Halal Industry in The Islamic Tourism Sector in Indonesia\".",
+        "citation_ar": "The Role of Good Corporate Governance and Islamic Business Ethics in Improving The Halal Industry in The Islamic Tourism Sector in Indonesia\"."
+      },
+      {
+        "reference_title": "A framework of halal certification practices for hotel industry",
+        "reference_url": "https://doi.org/10.5539/ass.v9n11p316",
+        "citation_en": "\"A framework of halal certification practices for hotel industry\". , .",
+        "citation_ar": "\"A framework of halal certification practices for hotel industry\". , ."
+      }
+    ]
+  }
+]
